@@ -1,0 +1,1584 @@
+[
+  {
+    "description": "QUESTÃO 01) Sentimos que toda satisfação de nossos desejos advinda do mundo assemelha-se à esmola que mantém hoje o mendigo vivo, porém prolonga amanhã a sua fome. A resignação, ao contrário, assemelha-se à fortuna herdada: livra o herdeiro para sempre de todas as preocupações.\nSCHOPENHAUER, A. Aforismo para a sabedoria da vida. São Paulo: Martins Fontes, 2005.\nO trecho destaca uma ideia remanescente de uma tradição ﬁlosóﬁca ocidental, segundo a qual a felicidade se mostra indissociavelmente ligada à",
+    "alternatives": [
+      "A) consagração de relacionamentos afetivos.",
+      "B) administração da independência interior.",
+      "C) fugacidade do conhecimento empírico.",
+      "D) liberdade de expressão religiosa.",
+      "E) busca de prazeres efêmeros."
+    ],
+    "year": "2016",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "1"
+  },
+  {
+    "description": "QUESTÃO 03) Os moradores de Andalsnes, na Noruega, poderiam se dar ao luxo de morar perto do trabalho nos dias úteis e de se refugiar na calmaria do bosque aos ﬁns de semana. E sem sair da mesma casa. Bastaria achar uma vaga para estacionar o imóvel antes de curtir o novo endereço.\nUma vez implementada, essa proposta afetaria a dinâmica do espaço urbano por reduzir a intensidade do seguinte processo:",
+    "alternatives": [
+      "A) Êxodo rural.",
+      "B) Movimento pendular.",
+      "C) Migração de retorno.",
+      "D) Deslocamento sazonal.",
+      "E) Ocupação de áreas centrais."
+    ],
+    "year": "2016",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "3"
+  },
+  {
+    "description": "QUESTÃO 04) O Rio de Janeiro tem projeção imediata no próprio estado e no Espírito Santo, em parcela do sul do estado da Bahia, e na Zona da Mata, em Minas Gerais, onde tem influência dividida com Belo Horizonte. Compõem a rede urbana do Rio de Janeiro, entre outras cidades: Vitória, Juiz de Fora, Cachoeiro de Itapemirim, Campos dos Goytacazes, Volta Redonda - Barra Mansa, Teixeira de Freitas, Angra dos Reis e Teresópolis.\nO conceito que expressa a relação entre o espaço apresentado e a cidade do Rio de Janeiro é:",
+    "alternatives": [
+      "A) Frente pioneira.",
+      "B) Zona de transição.",
+      "C) Região polarizada.",
+      "D) Área de conurbação.",
+      "E) Periferia metropolitana."
+    ],
+    "year": "2016",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "4"
+  },
+  {
+    "description": "QUESTÃO 05) TEXTO I Documentos do século XVI algumas vezes se referem aos habitantes indígenas como “os brasis”, ou “gente brasília” e, ocasionalmente no século XVII, o termo “brasileiro” era a eles aplicado, mas as referências ao status econômico e jurídico desses eram muito mais populares. Assim, os termos “negro da terra” e “índios” eram utilizados com mais frequência do que qualquer outro.\nSCHWARTZ, S. B. Gente da terra braziliense da nação. Pensando o Brasil: a construção de um povo. In: MOTA, C. G. (Org.). Viagem incompleta: a experiência brasileira (1500-2000). TEXTO II Índio é um conceito construído no processo de conquista da América pelos europeus. Desinteressados pela diversidade cultural, imbuídos de forte preconceito para com o outro, o indivíduo de outras culturas, espanhóis, portugueses, franceses e anglo-saxões terminaram por denominar da mesma forma povos tão díspares quanto os tupinambás e os astecas.\nAo comparar os textos, as formas de designação dos grupos nativos pelos europeus, durante o período analisado, são reveladoras da",
+    "alternatives": [
+      "A) concepção idealizada do território, entendido como geograﬁcamente indiferenciado.",
+      "B) percepção corrente de uma ancestralidade comum às populações ameríndias.",
+      "C) compreensão etnocêntrica acerca das populações dos territórios conquistados.",
+      "D) transposição direta das categorias originadas no imaginário medieval.",
+      "E) visão utópica conﬁgurada a partir de fantasias de riqueza."
+    ],
+    "year": "2016",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "5"
+  },
+  {
+    "description": "QUESTÃO 06) Ser ou não ser — eis a questão.\nMorrer — dormir — Dormir! Talvez sonhar. Aí está o obstáculo! Os sonhos que hão de vir no sono da morte Quando tivermos escapado ao tumulto vital Nos obrigam a hesitar: e é essa a reflexão Que dá à desventura uma vida tão longa.\nSHAKESPEARE, W. Hamlet. Porto Alegre: L&PM, 2007.\nEste solilóquio pode ser considerado um precursor do existencialismo ao enfatizar a tensão entre",
+    "alternatives": [
+      "A) consciência de si e angústia humana.",
+      "B) inevitabilidade do destino e incerteza moral.",
+      "C) tragicidade da personagem e ordem do mundo.",
+      "D) racionalidade argumentativa e loucura iminente.",
+      "E) dependência paterna e impossibilidade de ação."
+    ],
+    "year": "2016",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "6"
+  },
+  {
+    "description": "QUESTÃO 08) A África Ocidental é conhecida pela dinâmica das suas mulheres comerciantes, caracterizadas pela perícia, autonomia e mobilidade. A sua presença, que fora atestada por viajantes e por missionários portugueses que visitaram a costa a partir do século XV, consta também na ampla documentação sobre a região. A literatura é rica em referências às grandes mulheres como as vendedoras ambulantes, cujo jeito para o negócio, bem como a autonomia e mobilidade, é tão típico da região.\nHAVIK, P. Dinâmicas e assimetrias afro-atlânticas: a agência feminina e representações em mudança na Guiné (séculos XIX e XX). In: PANTOJA, S. (Org.). Identidades, memórias e histórias em terras africanas. Brasília: LGE; Luanda: Nzila, 2006.\nA abordagem realizada pelo autor sobre a vida social da África Ocidental pode ser relacionada a uma característica marcante das cidades no Brasil escravista nos séculos XVIII e XIX, que se observa pela",
+    "alternatives": [
+      "A) restrição à realização do comércio ambulante por africanos escravizados e seus descendentes.",
+      "B) convivência entre homens e mulheres livres, de diversas origens, no pequeno comércio.",
+      "C) presença de mulheres negras no comércio de rua de diversos produtos e alimentos.",
+      "D) dissolução dos hábitos culturais trazidos do continente de origem dos escravizados.",
+      "E) entrada de imigrantes portugueses nas atividades ligadas ao pequeno comércio urbano."
+    ],
+    "year": "2016",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "8"
+  },
+  {
+    "description": "QUESTÃO 10) O que ocorreu na Bahia de 1798, ao contrário das outras situações de contestação política na América portuguesa, é que o projeto que lhe era subjacente não tocou somente na condição, ou no instrumento, da integração subordinada das colônias no império luso. Dessa feita, ao contrário do que se deu nas Minas Gerais (1789), a sedição avançou sobre a sua decorrência.\nJANCSÓ, I.; PIMENTA, J. P. Peças de um mosaico. In: MOTA, C. G. (Org.). Viagem incompleta: a experiência brasileira (1500-2000). São Paulo: Senac, 2000.\nA diferença entre as sedições abordadas no texto encontrava-se na pretensão de",
+    "alternatives": [
+      "A) eliminar a hierarquia militar.",
+      "B) abolir a escravidão africana.",
+      "C) anular o domínio metropolitano.",
+      "D) suprimir a propriedade fundiária.",
+      "E) extinguir o absolutismo monárquico."
+    ],
+    "year": "2016",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "10"
+  },
+  {
+    "description": "QUESTÃO 12) No início de maio de 2014, a instalação da plataforma petrolífera de perfuração HYSY-981 nas águas contestadas do Mar da China Meridional suscitou especulações sobre as motivações chinesas. Na avaliação de diversos observadores ocidentais, Pequim pretendeu, com esse gesto, demonstrar que pode impor seu controle e dissuadir outros países de seguir com suas reivindicações de direito de exploração dessas águas, como é o caso do Vietnã e das Filipinas.\nKLARE, M.T. A guerra pelo petróleo se joga no mar. Le Monde Diplomatique Brasil, abr. 2015.\nA ação da China em relação à situação descrita no texto evidencia um conflito que tem como foco o(a):",
+    "alternatives": [
+      "A) Distribuição das zonas econômicas especiais.",
+      "B) Monopólio das inovações tecnológicas extrativas.",
+      "C) Dinamização da atividade comercial.",
+      "D) Jurisdição da soberania territorial.",
+      "E) Embargo da produção industrial."
+    ],
+    "year": "2016",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "12"
+  },
+  {
+    "description": "QUESTÃO 13) A Operação Condor está diretamente vinculada às experiências históricas das ditaduras civil-militares que se disseminaram pelo Cone Sul entre as décadas de 1960 e 1980. Depois do Brasil (e do Paraguai de Stroessner), foi a vez da Argentina (1966), Bolívia (1966 e 1971), Uruguai e Chile (1973) e Argentina (novamente, em 1976). Em todos os casos se instalaram ditaduras civil-militares (em menor ou maior medida) com base na Doutrina de Segurança Nacional e tendo como principais características um anticomunismo militante, a identificação do inimigo interno, a imposição do papel político das Forças Armadas e a definição de fronteiras ideológicas.\nPADRÓS, E. S. et al. Ditadura de Segurança Nacional no Rio Grande do Sul (1964-1985): Levando-se em conta o contexto em que foi criada, a referida operação tinha como objetivo coordenar a",
+    "alternatives": [
+      "A) modiﬁcação de limites territoriais.",
+      "B) sobrevivência de oﬁciais exilados.",
+      "C) interferência de potências mundiais.",
+      "D) repressão de ativistas oposicionistas.",
+      "E) implantação de governos nacionalistas."
+    ],
+    "year": "2016",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "13"
+  },
+  {
+    "description": "QUESTÃO 14) A regulação das relações de trabalho compõe uma estrutura complexa, em que cada elemento se ajusta aos demais. A Justiça do Trabalho é apenas uma das peças dessa vasta engrenagem. A presença de representantes classistas na composição dos órgãos da Justiça do Trabalho é também resultante da montagem dessa regulação. O poder normativo também reflete essa característica. Instituída pela Constituição de 1934, a Justiça do Trabalho só vicejou no ambiente político do Estado Novo instaurado em 1937.\nROMITA, A. S. Justiça do Trabalho: produto do Estado Novo. In: PANDOLFI, D. (Org.). Repensando o Estado Novo. Rio de Janeiro: Editora FGV, 1999.\nA criação da referida instituição estatal na conjuntura histórica abordada teve por objetivo",
+    "alternatives": [
+      "A) legitimar os protestos fabris.",
+      "B) ordenar os conflitos laborais.",
+      "C) oﬁcializar os sindicatos plurais.",
+      "D) assegurar os princípios liberais.",
+      "E) uniﬁcar os salários proﬁssionais."
+    ],
+    "year": "2016",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "14"
+  },
+  {
+    "description": "QUESTÃO 15) Hoje, a indústria cultural assumiu a herança civilizatória da democracia de pioneiros e empresários, que tampouco desenvolvera uma ﬁneza de sentido para os desvios espirituais. Todos são livres para dançar e para se divertir, do mesmo modo que, desde a neutralização histórica da religião, são livres para entrar em qualquer uma das inúmeras seitas. Mas a liberdade de escolha da ideologia, que reflete sempre a coerção econômica, revela-se em todos os setores como a liberdade de escolher o que é sempre a mesma coisa.\nADORNO, T; HORKHEIMER, M. Dialética do esclarecimento: fragmentos ﬁlosóﬁcos. Rio de Janeiro: Zahar, 1985.\nA liberdade de escolha na civilização ocidental, de acordo com a análise do texto, é um(a)",
+    "alternatives": [
+      "A) legado social.",
+      "B) patrimônio político.",
+      "C) produto da moralidade.",
+      "D) conquista da humanidade.",
+      "E) ilusão da contemporaneidade."
+    ],
+    "year": "2016",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "15"
+  },
+  {
+    "description": "QUESTÃO 16) Parceria Transpacífica Vietnã Cingapura Brunei Darussalam Malásia Austrália Japão Nova Zelândia Chile Peru México Estados Unidos Canadá Dentro das atuais redes produtivas, o referido bloco apresenta composição estratégica por se tratar de um conjunto de países com",
+    "alternatives": [
+      "A) elevado padrão social.",
+      "B) sistema monetário integrado.",
+      "C) alto desenvolvimento tecnológico.",
+      "D) identidades culturais semelhantes.",
+      "E) vantagens locacionais complementares."
+    ],
+    "year": "2016",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "16"
+  },
+  {
+    "description": "QUESTÃO 18) Segundo a Conferência de Quioto, os países centrais industrializados, responsáveis históricos pela poluição, deveriam alcançar a meta de redução de 5,2% do total de emissões segundo níveis de 1990. O nó da questão é o enorme custo desse processo, demandando mudanças radicais nas indústrias para que se adaptem rapidamente aos limites de emissão estabelecidos e adotem tecnologias energéticas limpas. A comercialização internacional de créditos de sequestro ou de redução de gases causadores do efeito estufa foi a solução encontrada para reduzir o custo global do processo. Países ou empresas que conseguirem reduzir as emissões abaixo de suas metas poderão vender este crédito para outro país ou empresa que não consiga.\nBECKER, B. Amazônia: geopolítica na virada do II milênio. Rio de Janeiro: Garamond, 2009.\nAs posições contrárias à estratégia de compensação presente no texto relacionam-se à ideia de que ela promove",
+    "alternatives": [
+      "A) retração nos atuais níveis de consumo.",
+      "B) surgimento de conflitos de caráter diplomático.",
+      "C) diminuição dos lucros na produção de energia.",
+      "D) desigualdade na distribuição do impacto ecológico.",
+      "E) decréscimo dos índices de desenvolvimento econômico."
+    ],
+    "year": "2016",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "18"
+  },
+  {
+    "description": "QUESTÃO 19) Dados recentes mostram que muitos são os países periféricos que dependem dos recursos enviados pelos imigrantes que estão nos países centrais. Grande parte dos países da América Latina, por exemplo, depende hoje das remessas de seus imigrantes. Para se ter uma ideia mais concreta, recentes dados divulgados pela ONU revelaram que somente os indianos recebem 10 bilhões de dólares de seus compatriotas no exterior. No México, segundo maior volume de divisas, esse valor chega a 9,9 bilhões de dólares e nas Filipinas, o terceiro, a 8,4 bilhões.\nHAESBAERT, R.; PORTO-GONÇALVES, C. W. A nova des-ordem mundial. São Paulo: Edunesp, 2006.\nUm aspecto do mundo globalizado que facilitou a ocorrência do processo descrito, na transição do século XX para o século XXI, foi o(a)",
+    "alternatives": [
+      "A) integração de culturas distintas.",
+      "B) avanço técnico das comunicações.",
+      "C) quebra de barreiras alfandegárias.",
+      "D) flexibilização de regras trabalhistas.",
+      "E) desconcentração espacial da produção."
+    ],
+    "year": "2016",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "19"
+  },
+  {
+    "description": "QUESTÃO 20) Nunca nos tornaremos matemáticos, por exemplo, embora nossa memória possua todas as demonstrações feitas por outros, se nosso espírito não for capaz de resolver toda espécie de problemas; não nos tornaríamos ﬁlósofos, por ter lido todos os raciocínios de Platão e Aristóteles, sem poder formular um juízo sólido sobre o que nos é proposto. Assim, de fato, pareceríamos ter aprendido, não ciências, mas histórias.\nDESCARTES, R. Regras para a orientação do espírito. São Paulo: Martins Fontes, 1999.\nEm sua busca pelo saber verdadeiro, o autor considera o conhecimento, de modo crítico, como resultado da",
+    "alternatives": [
+      "A) investigação de natureza empírica.",
+      "B) retomada da tradição intelectual.",
+      "C) imposição de valores ortodoxos.",
+      "D) autonomia do sujeito pensante.",
+      "E) liberdade do agente moral."
+    ],
+    "year": "2016",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "20"
+  },
+  {
+    "description": "QUESTÃO 21) Pois quem seria tão inútil ou indolente a ponto de não desejar saber como e sob que espécie de constituição os romanos conseguiram em menos de cinquenta e três anos submeter quase todo o mundo habitado ao seu governo exclusivo — fato nunca antes ocorrido? Ou, em outras palavras, quem seria tão apaixonadamente devotado a outros espetáculos ou estudos a ponto de considerar qualquer outro objetivo mais importante que a aquisição desse conhecimento? POLÍBIO. História. Brasília: Editora UnB, 1985.\nA experiência a que se refere o historiador Políbio, nesse texto escrito no século II a.C., é a",
+    "alternatives": [
+      "A) ampliação do contingente de camponeses livres.",
+      "B) consolidação do poder das falanges hoplitas.",
+      "C) concretização do desígnio imperialista.",
+      "D) adoção do monoteísmo cristão.",
+      "E) libertação do domínio etrusco."
+    ],
+    "year": "2016",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "21"
+  },
+  {
+    "description": "QUESTÃO 22) A memória recuperada pela autora apresenta a relação entre",
+    "alternatives": [
+      "A) conflito trabalhista e engajamento sindical.",
+      "B) organização familiar e proteção à infância.",
+      "C) centralização econômica e pregação religiosa.",
+      "D) estrutura educacional e desigualdade de renda.",
+      "E) transformação política e modiﬁcação de costumes."
+    ],
+    "year": "2016",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "22"
+  },
+  {
+    "description": "QUESTÃO 23) TEXTO I Fragmento B91: Não se pode banhar duas vezes no mesmo rio, nem substância mortal alcançar duas vezes a mesma condição; mas pela intensidade e rapidez da mudança, dispersa e de novo reúne.\nTEXTO II Fragmento B8: São muitos os sinais de que o ser é ingênito e indestrutível, pois é compacto, inabalável e sem ﬁm; não foi nem será, pois é agora um todo homogêneo, uno, contínuo. Como poderia o que é perecer? Como poderia gerar-se? Os fragmentos do pensamento pré-socrático expõem uma oposição que se insere no campo das",
+    "alternatives": [
+      "A) investigações do pensamento sistemático.",
+      "B) preocupações do período mitológico.",
+      "C) discussões de base ontológica.",
+      "D) habilidades da retórica sofística.",
+      "E) verdades do mundo sensível."
+    ],
+    "year": "2016",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "23"
+  },
+  {
+    "description": "QUESTÃO 24) A democracia deliberativa aﬁrma que as partes do conflito político devem deliberar entre si e, por meio de argumentação razoável, tentar chegar a um acordo sobre as políticas que seja satisfatório para todos. A democracia ativista desconﬁa das exortações à deliberação por acreditar que, no mundo real da política, onde as desigualdades estruturais influenciam procedimentos e resultados, processos democráticos que parecem cumprir as normas de deliberação geralmente tendem a beneﬁciar os agentes mais poderosos. Ela recomenda, portanto, que aqueles que se preocupam com a promoção de mais justiça devem realizar principalmente a atividade de oposição crítica, em vez de tentar chegar a um acordo com quem sustenta estruturas de poder existentes ou delas se beneﬁcia.\nYOUNG, I. M. Desaﬁos ativistas à democracia deliberativa. Revista Brasileira de Ciência Política, n. 13, jan.-abr. 2014.\nAs concepções de democracia deliberativa e de democracia ativista apresentadas no texto tratam como imprescindíveis, respectivamente,",
+    "alternatives": [
+      "A) a decisão da maioria e a uniformização de direitos.",
+      "B) a organização de eleições e o movimento anarquista.",
+      "C) a obtenção do consenso e a mobilização das minorias.",
+      "D) a fragmentação da participação e a desobediência civil.",
+      "E) a imposição de resistência e o monitoramento da liberdade."
+    ],
+    "year": "2016",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "24"
+  },
+  {
+    "description": "QUESTÃO 25) A promessa da tecnologia moderna se converteu em uma ameaça, ou esta se associou àquela de forma indissolúvel. Ela vai além da constatação da ameaça física. Concebida para a felicidade humana, a submissão da natureza, na sobremedida de seu sucesso, que agora se estende à própria natureza do homem, conduziu ao maior desaﬁo já posto ao ser humano pela sua própria ação. O novo continente da práxis coletiva que adentramos com a alta tecnologia ainda constitui, para a teoria ética, uma terra de ninguém.\nJONAS, H. O princípio da responsabilidade. Rio de Janeiro: As implicações éticas da articulação apresentada no texto impulsionam a necessidade de construção de um novo padrão de comportamento, cujo objetivo consiste em garantir o(a)",
+    "alternatives": [
+      "A) pragmatismo da escolha individual.",
+      "B) sobrevivência de gerações futuras.",
+      "C) fortalecimento de políticas liberais.",
+      "D) valorização de múltiplas etnias.",
+      "E) promoção da inclusão social."
+    ],
+    "year": "2016",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "25"
+  },
+  {
+    "description": "QUESTÃO 26) TEXTO I TEXTO II Os santos tornaram-se grandes aliados da Igreja para atrair novos devotos, pois eram obedientes a Deus e ao poder clerical. Contando e estimulando o conhecimento sobre a vida dos santos, a Igreja transmitia aos ﬁéis os ensinamentos que julgava corretos e que deviam ser imitados por escravos que, em geral, traziam outras crenças de suas terras de origem, muito diferentes das que preconizava a fé católica.\nOLIVEIRA, A. J. Negra devoção. Revista de História da Biblioteca Nacional, Posteriormente ressigniﬁcados no interior de certas irmandades e no contato com outra matriz religiosa, o ícone e a prática mencionada no texto estiveram desde o século XVII relacionados a um esforço da Igreja Católica para",
+    "alternatives": [
+      "A) reduzir o poder das confrarias.",
+      "B) cristianizar a população afro-brasileira.",
+      "C) espoliar recursos materiais dos cativos.",
+      "D) recrutar libertos para seu corpo eclesiástico.",
+      "E) atender a demanda popular por padroeiros locais."
+    ],
+    "year": "2016",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "26"
+  },
+  {
+    "description": "QUESTÃO 28) Pirro aﬁrmava que nada é nobre nem vergonhoso, justo ou injusto; e que, da mesma maneira, nada existe do ponto de vista da verdade; que os homens agem apenas segundo a lei e o costume, nada sendo mais isto do que aquilo. Ele levou uma vida de acordo com esta doutrina, nada procurando evitar e não se desviando do que quer que fosse, suportando tudo, carroças, por exemplo, precipícios, cães, nada deixando ao arbítrio dos sentidos.\nLAÉRCIO, D. Vidas e sentenças dos filósofos ilustres. Brasília: Editora UnB, 1988.\nO ceticismo, conforme sugerido no texto, caracteriza-se por:",
+    "alternatives": [
+      "A) Desprezar quaisquer convenções e obrigações da sociedade.",
+      "B) Atingir o verdadeiro prazer como o princípio e o fim da vida feliz.",
+      "C) Defender a indiferença e a impossibilidade de obter alguma certeza.",
+      "D) Aceitar o determinismo e ocupar-se com a esperança transcendente.",
+      "E) Agir de forma virtuosa e sábia a ﬁm de enaltecer o homem bom e belo."
+    ],
+    "year": "2016",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "28"
+  },
+  {
+    "description": "QUESTÃO 30) O bioma Cerrado foi considerado recentemente um dos 25 hotspots de biodiversidade do mundo, segundo uma análise em escala mundial das regiões biogeográﬁcas sobre áreas globais prioritárias para conservação. O conceito de hotspot foi criado tendo em vista a escassez de recursos direcionados para conservação, com o objetivo de apresentar os chamados “pontos quentes”, ou seja, locais para os quais existe maior necessidade de direcionamento de esforços, buscando evitar a extinção de muitas espécies que estão altamente ameaçadas por ações antrópicas. PINTO, P. P.; DINIZ-FILHO, J. A. F. In: ALMEIDA, M. G. (Org.). Tantos cerrados: múltiplas abordagens sobre a biogeodiversidade e singularidade cultural. A necessidade desse tipo de ação na área mencionada tem como causa a",
+    "alternatives": [
+      "A) intensiﬁcação da atividade turística.",
+      "B) implantação de parques ecológicos.",
+      "C) exploração dos recursos minerais.",
+      "D) elevação do extrativismo vegetal.",
+      "E) expansão da fronteira agrícola."
+    ],
+    "year": "2016",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "30"
+  },
+  {
+    "description": "QUESTÃO 32) A sociologia ainda não ultrapassou a era das construções e das sínteses ﬁlosóﬁcas. Em vez de assumir a tarefa de lançar luz sobre uma parcela restrita do campo social, ela prefere buscar as brilhantes generalidades em que todas as questões são levantadas sem que nenhuma seja expressamente tratada. Não é com exames sumários e por meio de intuições rápidas que se pode chegar a descobrir as leis de uma realidade tão complexa. Sobretudo, generalizações às vezes tão amplas e tão apressadas não são suscetíveis de nenhum tipo de prova. DURKHEIM, E. O suicídio: estudo de sociologia. São Paulo: Martins Fontes, 2000.\nO texto expressa o esforço de Émile Durkheim em construir uma sociologia com base na",
+    "alternatives": [
+      "A) vinculação com a ﬁlosoﬁa como saber uniﬁcado.",
+      "B) reunião de percepções intuitivas para demonstração.",
+      "C) formulação de hipóteses subjetivas sobre a vida social.",
+      "D) adesão aos padrões de investigação típicos das ciências naturais.",
+      "E) incorporação de um conhecimento alimentado pelo engajamento político."
+    ],
+    "year": "2016",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "32"
+  },
+  {
+    "description": "QUESTÃO 34) A linhagem dos primeiros críticos ambientais brasileiros não praticou o elogio laudatório da beleza e da grandeza do meio natural brasileiro. O meio natural foi elogiado por sua riqueza e potencial econômico, sendo sua destruição interpretada como um signo de atraso, ignorância e falta de cuidado.\nPÁDUA, J. A. Um sopro de destruição: pensamento político e crítica ambiental no Brasil Descrevendo a posição dos críticos ambientais brasileiros dos séculos XVIII e XIX, o autor demonstra que, via de regra, eles viam o meio natural como",
+    "alternatives": [
+      "A) ferramenta essencial para o avanço da nação.",
+      "B) dádiva divina para o desenvolvimento industrial.",
+      "C) paisagem privilegiada para a valorização fundiária.",
+      "D) limitação topográﬁca para a promoção da urbanização.",
+      "E) obstáculo climático para o estabelecimento da civilização."
+    ],
+    "year": "2016",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "34"
+  },
+  {
+    "description": "QUESTÃO 35) O coronelismo era fruto de alteração na relação de forças entre os proprietários rurais e o governo, e signiﬁcava o fortalecimento do poder do Estado antes que o predomínio do coronel. Nessa concepção, o coronelismo é, então, um sistema político nacional, com base em barganhas entre o governo e os coronéis. O coronel tem o controle dos cargos públicos, desde o delegado de polícia até a professora primária. O coronel hipoteca seu apoio ao governo, sobretudo na forma de voto.\nNo contexto da Primeira República no Brasil, as relações políticas descritas baseavam-se na",
+    "alternatives": [
+      "A) coação das milícias locais.",
+      "B) estagnação da dinâmica urbana.",
+      "C) valorização do proselitismo partidário.",
+      "D) disseminação de práticas clientelistas.",
+      "E) centralização de decisões administrativas."
+    ],
+    "year": "2016",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "35"
+  },
+  {
+    "description": "QUESTÃO 38) No anúncio, há referências a algumas das transformações ocorridas no Brasil nos anos 1950 e 1960. No entanto, tais referências omitem transformações que impactaram segmentos da população, como a",
+    "alternatives": [
+      "A) exaltação da tradição colonial.",
+      "B) redução da influência estrangeira.",
+      "C) ampliação da imigração internacional.",
+      "D) intensiﬁcação da desigualdade regional.",
+      "E) desconcentração da produção industrial."
+    ],
+    "year": "2016",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "38"
+  },
+  {
+    "description": "QUESTÃO 39) Pesca industrial provoca destruição na África súbito desaparecimento do bacalhau dos grandes cardumes da Terra Nova, no ﬁnal do século XX — o que ninguém havia previsto —, teve o efeito de um eletrochoque planetário. Lançada pelos bascos no século XV, a pesca e depois a sobrepesca desse grande peixe de água fria levaram ao impensável. Ao Canadá o bacalhau nunca mais voltou. E o que ocorreu no Atlântico Norte está acontecendo em outros mares. Os maiores navios do mundo seguem agora em direção ao sul, até os limites da Antártida, para competir pelos estoques remanescentes.\nO problema exposto no texto jornalístico relaciona-se à",
+    "alternatives": [
+      "A) insustentabilidade do modelo de produção e consumo.",
+      "B) fragilidade ecológica de ecossistemas costeiros.",
+      "C) inviabilidade comercial dos produtos marinhos.",
+      "D) mudança natural nos oceanos e mares.",
+      "E) vulnerabilidade social de áreas pobres."
+    ],
+    "year": "2016",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "39"
+  },
+  {
+    "description": "QUESTÃO 40) A mundialização introduz o aumento da produtividade do trabalho sem acumulação de capital, justamente pelo caráter divisível da forma técnica molecular-digital do que resulta a permanência da má distribuição da renda: exempliﬁcando mais uma vez, os vendedores de refrigerantes às portas dos estádios viram sua produtividade aumentada graças ao just in time dos fabricantes e distribuidores de bebidas, mas para realizar o valor de tais mercadorias, a forma do trabalho dos vendedores é a mais primitiva. Combinam-se, pois, acumulação molecular-digital com o puro uso da força de trabalho.\nOLIVEIRA, F. Crítica à razão dualista e o ornitorrinco. Campinas: Boitempo, 2003.\nOs aspectos destacados no texto afetam diretamente questões como emprego e renda, sendo possível explicar essas transformações pelo(a)",
+    "alternatives": [
+      "A) crise bancária e o fortalecimento do capital industrial.",
+      "B) inovação toyotista e a regularização do trabalho formal.",
+      "C) impacto da tecnologia e as modiﬁcações na estrutura produtiva.",
+      "D) emergência da globalização e a expansão do setor secundário.",
+      "E) diminuição do tempo de trabalho e a necessidade de diploma superior."
+    ],
+    "year": "2016",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "40"
+  },
+  {
+    "description": "QUESTÃO 41) Ser moderno é encontrar-se em um ambiente que promete aventura, poder, alegria, crescimento, autotransformação e transformação das coisas em redor — mas ao mesmo tempo ameaça destruir tudo o que temos, tudo o que sabemos, tudo o que somos. A experiência ambiental da modernidade anula todas as fronteiras geográﬁcas e raciais, de classe e nacionalidade: nesse sentido, pode-se dizer que a modernidade une a espécie humana. Porém, é uma unidade paradoxal, uma unidade de desunidade.\nBERMAN, M. Tudo que é sólido desmancha no ar: a aventura da modernidade.\nO texto apresenta uma interpretação da modernidade que a caracteriza como um(a)",
+    "alternatives": [
+      "A) dinâmica social contraditória.",
+      "B) interação coletiva harmônica.",
+      "C) fenômeno econômico estável.",
+      "D) sistema internacional decadente.",
+      "E) processo histórico homogeneizador."
+    ],
+    "year": "2016",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "41"
+  },
+  {
+    "description": "QUESTÃO 42) Não estou mais pensando como costumava pensar. Percebo isso de modo mais acentuado quando estou lendo. Mergulhar num livro, ou num longo artigo, costumava ser fácil. Isso raramente ocorre atualmente. Agora minha atenção começa a divagar depois de duas ou três páginas. Creio que sei o que está acontecendo. Por mais de uma década venho passando mais tempo on-line, procurando e surfando e algumas vezes acrescentando informação à grande biblioteca da internet. A internet tem sido uma dádiva para um escritor como eu. Pesquisas que antes exigiam dias de procura em jornais ou na biblioteca agora podem ser feitas em minutos. Como disse o teórico da comunicação Marshall McLuhan nos anos 60, a mídia não é apenas um canal passivo para o tráfego de informação. Ela fornece a matéria, mas também molda o processo de pensamento. E o que a net parece fazer é pulverizar minha capacidade de concentração e contemplação.\nEm relação à internet, a perspectiva defendida pelo autor ressalta um paradoxo que se caracteriza por",
+    "alternatives": [
+      "A) associar uma experiência superﬁcial à abundância de informações.",
+      "B) condicionar uma capacidade individual à desorganização da rede.",
+      "C) agregar uma tendência contemporânea à aceleração do tempo.",
+      "D) aproximar uma mídia inovadora à passividade da recepção.",
+      "E) equiparar uma ferramenta digital à tecnologia analógica."
+    ],
+    "year": "2016",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "42"
+  },
+  {
+    "description": "QUESTÃO 43) Uma scena franco-brazileira: “franco” — pelo local e os personagens, o local que é Paris e os personagens que são pessôas do povo da grande capital; “brazileira” pelo que ahi se está bebendo: café do Brazil. O Lettreiro diz a verdade apregoando que esse é o melhor de todos os cafés. (Essa página foi desenhada especialmente para A Illustração Brazileira pelo Sr. Tofani, desenhista do Je Sais Tout.) A página do periódico do início do século XX documenta um importante elemento da cultura francesa, que é revelador do papel do Brasil na economia mundial, indicado no seguinte aspecto:",
+    "alternatives": [
+      "A) Prestador de serviços gerais.",
+      "B) Exportador de bens industriais.",
+      "C) Importador de padrões estéticos.",
+      "D) Fornecedor de produtos agrícolas.",
+      "E) Formador de padrões de consumo."
+    ],
+    "year": "2016",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "43"
+  },
+  {
+    "description": "QUESTÃO 44) Participei de uma entrevista com o músico Renato Teixeira. Certa hora, alguém pediu para listar as diferenças entre a música sertaneja antiga e a atual. A resposta dele surpreendeu a todos: “Não há diferença alguma. A música caipira sempre foi a mesma. É uma música que espelha a vida do homem no campo, e a música não mente. O que mudou não foi a música, mas a vida no campo”. Faz todo sentido: a música caipira de raiz exalava uma solidão, um certo distanciamento do país “moderno”. Exigir o mesmo de uma música feita hoje, num interior conectado, globalizado e rico como o que temos, é impossível. Para o bem ou para o mal, a música reflete seu próprio tempo.\nA questão cultural indicada no texto ressalta o seguinte aspecto socioeconômico do atual campo brasileiro:",
+    "alternatives": [
+      "A) Crescimento do sistema de produção extensiva.",
+      "B) Expansão de atividades das novas ruralidades.",
+      "C) Persistência de relações de trabalho compulsório.",
+      "D) Contenção da política de subsídios agrícolas.",
+      "E) Fortalecimento do modelo de organização cooperativa."
+    ],
+    "year": "2016",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "44"
+  },
+  {
+    "description": "QUESTÃO 46) Em sua formulação, o spray de pimenta contém porcentagens variadas de oleorresina de Capsicum, cujo princípio ativo é a capsaicina, e um solvente (um álcool como etanol ou isopropanol). Em contato com os olhos, pele ou vias respiratórias, a capsaicina causa um efeito infl amatório que gera uma sensação de dor e ardor, levando à cegueira temporária. O processo é desencadeado pela liberação de neuropeptídios das terminações nervosas.\nQuando uma pessoa é atingida com o spray de pimenta nos olhos ou na pele, a lavagem da região atingida com água é ineﬁ caz porque a",
+    "alternatives": [
+      "A) reação entre etanol e água libera calor, intensiﬁ cando o ardor.",
+      "B) solubilidade do princípio ativo em água é muito baixa, diﬁ cultando a sua remoção.",
+      "C) permeabilidade da água na pele é muito alta, não permitindo a remoção do princípio ativo.",
+      "D) solubilização do óleo em água causa um maior espalhamento além das áreas atingidas.",
+      "E) ardência faz evaporar rapidamente a água, não permitindo que haja contato entre o óleo e o solvente."
+    ],
+    "year": "2016",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "46"
+  },
+  {
+    "description": "QUESTÃO 47) A usina de Itaipu é uma das maiores hidrelétricas do mundo em geração de energia. Com 20 unidades geradoras e 14 000 MW de potência total instalada, apresenta uma queda de 118,4 m e vazão nominal de 690 m3/s por unidade geradora. O cálculo da potência teórica leva em conta a altura da massa de água represada pela barragem, a gravidade local (10 m/s2) e a densidade da água (1 000 kg/m3). A diferença entre a potência teórica e a instalada é a potência não aproveitada.\nQual é a potência, em MW, não aproveitada em cada unidade geradora de Itaipu?",
+    "alternatives": [
+      "A) 0",
+      "B) 1,18",
+      "C) 116,96",
+      "D) 816,96",
+      "E) 13 183,04"
+    ],
+    "year": "2016",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "47"
+  },
+  {
+    "description": "QUESTÃO 51) Em meados de 2003, mais de 20 pessoas morreram no Brasil após terem ingerido uma suspensão de sulfato de bário utilizada como contraste em exames radiológicos. O sulfato de bário é um sólido pouquíssimo solúvel em água, que não se dissolve mesmo na presença de ácidos. As mortes ocorreram porque um laboratório farmacêutico forneceu o produto contaminado com carbonato de bário, que é solúvel em meio ácido. Um simples teste para veriﬁcar a existência de íons bário solúveis poderia ter evitado a tragédia. Esse teste consiste em tratar a amostra com solução aquosa de HCl e, após ﬁltrar para separar os compostos insolúveis de bário, adiciona-se solução aquosa de H2SO4 sobre o ﬁltrado e observa-se por 30 min.\nA presença de íons bário solúveis na amostra é indicada pela",
+    "alternatives": [
+      "A) liberação de calor.",
+      "B) alteração da cor para rosa.",
+      "C) precipitação de um sólido branco.",
+      "D) formação de gás hidrogênio.",
+      "E) volatilização de gás cloro."
+    ],
+    "year": "2016",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "51"
+  },
+  {
+    "description": "QUESTÃO 54) Durante a primeira fase do projeto de uma usina de geração de energia elétrica, os engenheiros da equipe de avaliação de impactos ambientais procuram saber se esse projeto está de acordo com as normas ambientais. A nova planta estará localizada à beira de um rio, cuja temperatura média da água é de 25 °C, e usará a sua água somente para refrigeração. O projeto pretende que a usina opere com 1,0 MW de potência elétrica e, em razão de restrições técnicas, o dobro dessa potência será dissipada por seu sistema de arrefecimento, na forma de calor. Para atender a resolução número 430, de 13 de maio de 2011, do Conselho Nacional do Meio Ambiente, com uma ampla margem de segurança, os engenheiros determinaram que a água só poderá ser devolvida ao rio com um aumento de temperatura de, no máximo, 3 °C em relação à temperatura da água do rio captada pelo sistema de arrefecimento. Considere o calor especíﬁco da água igual a 4 kJ/(kg °C).\nPara atender essa determinação, o valor mínimo do fluxo de água, em kg/s, para a refrigeração da usina deve ser mais próximo de",
+    "alternatives": [
+      "A) 42.",
+      "B) 84.",
+      "C) 167.",
+      "D) 250.",
+      "E) 500."
+    ],
+    "year": "2016",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "54"
+  },
+  {
+    "description": "QUESTÃO 56) As proteínas de uma célula eucariótica possuem peptídeos sinais, que são sequências de aminoácidos responsáveis pelo seu endereçamento para as diferentes organelas, de acordo com suas funções. Um pesquisador desenvolveu uma nanopartícula capaz de carregar proteínas para dentro de tipos celulares especíﬁcos. Agora ele quer saber se uma nanopartícula carregada com uma proteína bloqueadora do ciclo de Krebs in vitro é capaz de exercer sua atividade em uma célula cancerosa, podendo cortar o aporte energético e destruir essas células.\nAo escolher essa proteína bloqueadora para carregar as nanopartículas, o pesquisador deve levar em conta um peptídeo sinal de endereçamento para qual organela?",
+    "alternatives": [
+      "A) Núcleo.",
+      "B) Mitocôndria.",
+      "C) Peroxissomo.",
+      "D) Complexo golgiense.",
+      "E) Retículo endoplasmático."
+    ],
+    "year": "2016",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "56"
+  },
+  {
+    "description": "QUESTÃO 57) O morcego emite pulsos de curta duração de ondas ultrassônicas, os quais voltam na forma de ecos após atingirem objetos no ambiente, trazendo informações a respeito das suas dimensões, suas localizações e dos seus possíveis movimentos. Isso se dá em razão da sensibilidade do morcego em detectar o tempo gasto para os ecos voltarem, bem como das pequenas variações nas frequências e nas intensidades dos pulsos ultrassônicos. Essas características lhe permitem caçar pequenas presas mesmo quando estão em movimento em relação a si. Considere uma situação unidimensional em que uma mariposa se afasta, em movimento retilíneo e uniforme, de um morcego em repouso.\nA distância e velocidade da mariposa, na situação descrita, seriam detectadas pelo sistema de um morcego por quais alterações nas características dos pulsos ultrassônicos?",
+    "alternatives": [
+      "A) Intensidade diminuída, o tempo de retorno aumentado e a frequência percebida diminuída.",
+      "B) Intensidade aumentada, o tempo de retorno diminuído e a frequência percebida diminuída.",
+      "C) Intensidade diminuída, o tempo de retorno diminuído e a frequência percebida aumentada.",
+      "D) Intensidade diminuída, o tempo de retorno aumentado e a frequência percebida aumentada.",
+      "E) Intensidade aumentada, o tempo de retorno aumentado e a frequência percebida aumentada."
+    ],
+    "year": "2016",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "57"
+  },
+  {
+    "description": "QUESTÃO 60) O carvão ativado é um material que possui elevado teor de carbono, sendo muito utilizado para a remoção de compostos orgânicos voláteis do meio, como o benzeno. Para a remoção desses compostos, utiliza-se a adsorção. Esse fenômeno ocorre por meio de interações do tipo intermoleculares entre a superfície do carvão (adsorvente) e o benzeno (adsorvato, substância adsorvida).\nNo caso apresentado, entre o adsorvente e a substância adsorvida ocorre a formação de:",
+    "alternatives": [
+      "A) Ligações dissulfeto.",
+      "B) Ligações covalentes.",
+      "C) Ligações de hidrogênio.",
+      "D) Interações dipolo induzido – dipolo induzido.",
+      "E) Interações dipolo permanente – dipolo permanente."
+    ],
+    "year": "2016",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "60"
+  },
+  {
+    "description": "QUESTÃO 62) Ao percorrer o trajeto de uma cadeia alimentar, o carbono, elemento essencial e majoritário da matéria orgânica que compõe os indivíduos, ora se encontra em sua forma inorgânica, ora se encontra em sua forma orgânica. Em uma cadeia alimentar composta por ﬁtoplâncton, zooplâncton, moluscos, crustáceos e peixes ocorre a transição desse elemento da forma inorgânica para a orgânica.\nEm qual grupo de organismos ocorre essa transição?",
+    "alternatives": [
+      "A) Fitoplâncton.",
+      "B) Zooplâncton.",
+      "C) Moluscos.",
+      "D) Crustáceos.",
+      "E) Peixes."
+    ],
+    "year": "2016",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "62"
+  },
+  {
+    "description": "QUESTÃO 64) TEXTO I Biocélulas combustíveis são uma alternativa tecnológica para substituição das baterias convencionais. Em uma biocélula microbiológica, bactérias catalisam reações de oxidação de substratos orgânicos. Liberam elétrons produzidos na respiração celular para um eletrodo, onde fluem por um circuito externo até o cátodo do sistema, produzindo corrente elétrica. Uma reação típica que ocorre em biocélulas microbiológicas utiliza o acetato como substrato.\nAQUINO NETO, S. Preparação e caracterização de bioanodos para biocélula a combustível TEXTO II Em sistemas bioeletroquímicos, os potenciais padrão (E°’) apresentam valores característicos. Para as biocélulas de acetato, considere as seguintes semirreações de redução e seus respectivos potenciais: 2 CO2 + 7 H+ + 8 e− → CH3COO − + 2 H2O E°’ = −0,3 V O2 + 4 H+ + 4 e− → 2 H2O E°’ = 0,8 V SCOTT, K.; YU, E. H. Microbial electrochemical and fuel cells: fundamentals and Nessas condições, qual é o número mínimo de biocélulas de acetato, ligadas em série, necessárias para se obter uma diferença de potencial de 4,4 V?",
+    "alternatives": [
+      "A) 3",
+      "B) 4",
+      "C) 6",
+      "D) 9",
+      "E) 15"
+    ],
+    "year": "2016",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "64"
+  },
+  {
+    "description": "QUESTÃO 65) A formação de coágulos sanguíneos em veias e artérias é um dos fatores responsáveis pela ocorrência de doenças cardiovasculares, como varizes, infarto e acidentes vasculares cerebrais. A prevenção e o tratamento dessas doenças podem ser feitos com drogas anticoagulantes. A indústria farmacêutica estimula a pesquisa de toxinas animais com essa propriedade.\nConsiderando as adaptações relacionadas aos hábitos alimentares, os animais adequados ao propósito dessas pesquisas são os(as)",
+    "alternatives": [
+      "A) moluscos ﬁtófagos.",
+      "B) moscas saprófagas.",
+      "C) pássaros carnívoros.",
+      "D) morcegos frugívoros.",
+      "E) mosquitos hematófagos."
+    ],
+    "year": "2016",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "65"
+  },
+  {
+    "description": "QUESTÃO 67) Primeiro, em relação àquilo a que chamamos água, quando congela, parece-nos estar a olhar para algo que se tornou pedra ou terra, mas quando derrete e se dispersa, esta torna-se bafo e ar; o ar, quando é queimado, torna-se fogo; e, inversamente, o fogo, quando se contrai e se extingue, regressa à forma do ar; o ar, novamente concentrado e contraído, torna-se nuvem e nevoeiro, mas, a partir destes estados, se for ainda mais comprimido, torna-se água corrente, e de água torna-se novamente terra e pedras; e deste modo, como nos parece, dão geração uns aos outros de forma cíclica.\nPLATÃO. Timeu-Crítias. Coimbra: CECH, 2011.\nDo ponto de vista da ciência moderna, os “quatro elementos” descritos por Platão correspondem, na verdade, às fases sólida, líquida, gasosa e plasma da matéria. As transições entre elas são hoje entendidas como consequências macroscópicas de transformações sofridas pela matéria em escala microscópica.\nExcetuando-se a fase de plasma, essas transformações sofridas pela matéria, em nível microscópico, estão associadas a uma",
+    "alternatives": [
+      "A) troca de átomos entre as diferentes moléculas do material.",
+      "B) transmutação nuclear dos elementos químicos do material.",
+      "C) redistribuição de prótons entre os diferentes átomos do material.",
+      "D) mudança na estrutura espacial formada pelos diferentes constituintes do material.",
+      "E) alteração nas proporções dos diferentes isótopos de cada elemento presente no material."
+    ],
+    "year": "2016",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "67"
+  },
+  {
+    "description": "QUESTÃO 68) Para cada litro de etanol produzido em uma indústria de cana-de-açúcar são gerados cerca de 18 L de vinhaça que é utilizada na irrigação das plantações de cana-de-açúcar, já que contém teores médios de nutrientes N, P e K iguais a 357 mg/L, 60 mg/L e 2 034 mg/L, respectivamente.\npropriedades do solo e lençol freático. Revista Brasileira de Engenharia Na produção de 27 000 L de etanol, a quantidade total de fósforo, em kg, disponível na vinhaça será mais próxima de",
+    "alternatives": [
+      "A) 1.",
+      "B) 29.",
+      "C) 60.",
+      "D) 170.",
+      "E) 1 000."
+    ],
+    "year": "2016",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "68"
+  },
+  {
+    "description": "QUESTÃO 69) Recentemente um estudo feito em campos de trigo mostrou que níveis elevados de dióxido de carbono na atmosfera prejudicam a absorção de nitrato pelas plantas. Consequentemente, a qualidade nutricional desses alimentos pode diminuir à medida que os níveis de dióxido de carbono na atmosfera atingirem as estimativas para as próximas décadas.\nBLOOM, A. J. et al. Nitrate assimilation is inhibited by elevated CO2 in ﬁeld-grown wheat. Nesse contexto, a qualidade nutricional do grão de trigo será modiﬁcada primariamente pela redução de",
+    "alternatives": [
+      "A) amido.",
+      "B) frutose.",
+      "C) lipídeos.",
+      "D) celulose.",
+      "E) proteínas."
+    ],
+    "year": "2016",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "69"
+  },
+  {
+    "description": "QUESTÃO 70) Pesquisadores recuperaram DNA de ossos de mamute (Mammuthus primigenius) encontrados na Sibéria, que tiveram sua idade de cerca de 28 mil anos conﬁrmada pela técnica do carbono-14.\nA técnica de datação apresentada no texto só é possível devido à",
+    "alternatives": [
+      "A) proporção conhecida entre carbono-14 e carbono-12 na atmosfera ao longo dos anos.",
+      "B) decomposição de todo o carbono-12 presente no organismo após a morte.",
+      "C) ﬁxação maior do carbono-14 nos tecidos de organismos após a morte.",
+      "D) emissão de carbono-12 pelos tecidos de organismos após a morte.",
+      "E) transformação do carbono-12 em carbono-14 ao longo dos anos."
+    ],
+    "year": "2016",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "70"
+  },
+  {
+    "description": "QUESTÃO 71) A vegetação apresenta adaptações ao ambiente, como plantas arbóreas e arbustivas com raízes que se expandem horizontalmente, permitindo forte ancoragem no substrato lamacento; raízes que se expandem verticalmente, por causa da baixa oxigenação do substrato; folhas que têm glândulas para eliminar o excesso de sais; folhas que podem apresentar cutícula espessa para reduzir a perda de água por evaporação.\nAs características descritas referem-se a plantas adaptadas ao bioma:",
+    "alternatives": [
+      "A) Cerrado.",
+      "B) Pampas.",
+      "C) Pantanal.",
+      "D) Manguezal.",
+      "E) Mata de Cocais."
+    ],
+    "year": "2016",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "71"
+  },
+  {
+    "description": "QUESTÃO 72) Uma pessoa é responsável pela manutenção de uma sauna úmida. Todos os dias cumpre o mesmo ritual: colhe folhas de capim-cidreira e algumas folhas de eucalipto. Em seguida, coloca as folhas na saída do vapor da sauna, aromatizando-a, conforme representado na ﬁgura.\nParede Sauna úmida Gerador de vapor Saída do vapor Folhas Qual processo de separação é responsável pela aromatização promovida?",
+    "alternatives": [
+      "A) Filtração simples.",
+      "B) Destilação simples.",
+      "C) Extração por arraste.",
+      "D) Sublimação fracionada.",
+      "E) Decantação sólido-líquido."
+    ],
+    "year": "2016",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "72"
+  },
+  {
+    "description": "QUESTÃO 73) Os ecossistemas degradados por intensa atividade agrícola apresentam, geralmente, diminuição de sua diversidade e perda de sua estabilidade. Nesse contexto, o uso integrado de árvores aos sistemas agrícolas (sistemas agroflorestais) pode cumprir um papel inovador ao buscar a aceleração do processo sucessional e, ao mesmo tempo, uma produção escalonada e diversiﬁcada.\nEssa é uma estratégia de conciliação entre recuperação ambiental e produção agrícola, pois",
+    "alternatives": [
+      "A) substitui gradativamente as espécies cultiváveis por espécies arbóreas.",
+      "B) intensiﬁca a fertilização do solo com o uso de técnicas apropriadas e biocidas.",
+      "C) promove maior diversidade de vida no solo com o aumento da matéria orgânica.",
+      "D) favorece a dispersão das sementes cultivadas pela fauna residente nas áreas florestais.",
+      "E) cria condições para o estabelecimento de espécies pioneiras com a diminuição da insolação sobre o solo."
+    ],
+    "year": "2016",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "73"
+  },
+  {
+    "description": "QUESTÃO 75) A ﬁgura ilustra o movimento da seiva xilêmica em uma planta.\nMesmo que essa planta viesse a sofrer ação contínua do vento e sua copa crescesse voltada para baixo, essa seiva continuaria naturalmente seu percurso.\nO que garante o transporte dessa seiva é a",
+    "alternatives": [
+      "A) gutação.",
+      "B) gravidade.",
+      "C) respiração.",
+      "D) fotossíntese.",
+      "E) transpiração."
+    ],
+    "year": "2016",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "75"
+  },
+  {
+    "description": "QUESTÃO 79) Vários métodos são empregados para prevenção de infecções por microrganismos. Dois desses métodos utilizam microrganismos vivos e são eles: as vacinas atenuadas, constituídas por patógenos avirulentos, e os probióticos que contêm bactérias benéﬁcas. Na ﬁgura são apresentados cinco diferentes mecanismos de exclusão de patógenos pela ação dos probióticos no intestino de um animal.\nQual mecanismo de ação desses probióticos promove um efeito similar ao da vacina?",
+    "alternatives": [
+      "A) 5",
+      "B) 4",
+      "C) 3",
+      "D) 2",
+      "E) 1"
+    ],
+    "year": "2016",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "79"
+  },
+  {
+    "description": "QUESTÃO 80) O Painel Intergovernamental de Mudanças Climáticas (na sigla em inglês, IPCC) prevê que nas próximas décadas o planeta passará por mudanças climáticas e propõe estratégias de mitigação e adaptação a elas. As estratégias de mitigação são direcionadas à causa dessas mudanças, procurando reduzir a concentração de gases de efeito estufa na atmosfera. As estratégias de adaptação, por sua vez, são direcionadas aos efeitos dessas mudanças, procurando preparar os sistemas humanos às mudanças climáticas já em andamento, de modo a reduzir seus efeitos negativos.\nConsiderando as informações do texto, qual ação representa uma estratégia de adaptação?",
+    "alternatives": [
+      "A) Construção de usinas eólicas.",
+      "B) Tratamento de resíduos sólidos.",
+      "C) Aumento da eﬁciência dos veículos.",
+      "D) Adoção de agricultura sustentável de baixo carbono.",
+      "E) Criação de diques de contenção em regiões costeiras."
+    ],
+    "year": "2016",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "80"
+  },
+  {
+    "description": "QUESTÃO 81) A lipoﬁlia é um dos fatores fundamentais para o planejamento de um fármaco. Ela mede o grau de aﬁnidade que a substância tem com ambientes apolares, podendo ser avaliada por seu coeﬁciente de partição.\nX = OH (Testosterona) X = H (Composto 1) X = CH3 (Composto 2) CH3 CH3 NOGUEIRA, L. J.; MONTANARI, C. A.; DONNICI, C. L. Histórico da evolução da química medicinal e a importância da lipoﬁlia: de Hipócrates e Galeno a Paracelsus e as contribuições de Overton e Em relação ao coeﬁciente de partição da testosterona, as lipoﬁlias dos compostos 1 e 2 são, respectivamente,",
+    "alternatives": [
+      "A) menor e menor que a lipoﬁlia da testosterona.",
+      "B) menor e maior que a lipoﬁlia da testosterona.",
+      "C) maior e menor que a lipoﬁlia da testosterona.",
+      "D) maior e maior que a lipoﬁlia da testosterona.",
+      "E) menor e igual à lipoﬁlia da testosterona."
+    ],
+    "year": "2016",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "81"
+  },
+  {
+    "description": "QUESTÃO 82) Uma invenção que signiﬁcou um grande avanço tecnológico na Antiguidade, a polia composta ou a associação de polias, é atribuída a Arquimedes (287 a.C. a 212 a.C.). O aparato consiste em associar uma série de polias móveis a uma polia ﬁxa. A ﬁgura exempliﬁca um arranjo possível para esse aparato. É relatado que Arquimedes teria demonstrado para o rei Hierão um outro arranjo desse aparato, movendo sozinho, sobre a areia da praia, um navio repleto de passageiros e cargas, algo que seria impossível sem a participação de muitos homens. Suponha que a massa do navio era de 3 000 kg, que o coeﬁciente de atrito estático entre o navio e a areia era de 0,8 e que Arquimedes tenha puxado o navio com uma força F → , paralela à direção do movimento e de módulo igual a 400 N. Considere os ﬁos e as polias ideais, a aceleração da gravidade igual a 10 m/s2 e que a superfície da praia é perfeitamente horizontal.\nO número mínimo de polias móveis usadas, nessa situação, por Arquimedes foi",
+    "alternatives": [
+      "A) 3.",
+      "B) 6.",
+      "C) 7.",
+      "D) 8.",
+      "E) 10."
+    ],
+    "year": "2016",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "82"
+  },
+  {
+    "description": "QUESTÃO 83) O Brasil possui um grande número de espécies distintas entre animais, vegetais e microrganismos envoltos em uma imensa complexidade e distribuídas em uma grande variedade de ecossistemas.\nSANDES, A. R. R.; BLASI, G. Biodiversidade e diversidade química e genética. O incremento da variabilidade ocorre em razão da permuta genética, a qual propicia a troca de segmentos entre cromátides não irmãs na meiose.\nEssa troca de segmentos é determinante na",
+    "alternatives": [
+      "A) produção de indivíduos mais férteis.",
+      "B) transmissão de novas características adquiridas.",
+      "C) recombinação genética na formação dos gametas.",
+      "D) ocorrência de mutações somáticas nos descendentes.",
+      "E) variação do número de cromossomos característico da espécie."
+    ],
+    "year": "2016",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "83"
+  },
+  {
+    "description": "QUESTÃO 84) Num experimento, um professor deixa duas bandejas de mesma massa, uma de plástico e outra de alumínio, sobre a mesa do laboratório. Após algumas horas, ele pede aos alunos que avaliem a temperatura das duas bandejas, usando para isso o tato. Seus alunos aﬁrmam, categoricamente, que a bandeja de alumínio encontra-se numa temperatura mais baixa. Intrigado, ele propõe uma segunda atividade, em que coloca um cubo de gelo sobre cada uma das bandejas, que estão em equilíbrio térmico com o ambiente, e os questiona em qual delas a taxa de derretimento do gelo será maior.\nO aluno que responder corretamente ao questionamento do professor dirá que o derretimento ocorrerá",
+    "alternatives": [
+      "A) mais rapidamente na bandeja de alumínio, pois ela tem uma maior condutividade térmica que a de plástico.",
+      "B) mais rapidamente na bandeja de plástico, pois ela tem inicialmente uma temperatura mais alta que a de alumínio.",
+      "C) mais rapidamente na bandeja de plástico, pois ela tem uma maior capacidade térmica que a de alumínio.",
+      "D) mais rapidamente na bandeja de alumínio, pois ela tem um calor especíﬁco menor que a de plástico.",
+      "E) com a mesma rapidez nas duas bandejas, pois apresentarão a mesma variação de temperatura."
+    ],
+    "year": "2016",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "84"
+  },
+  {
+    "description": "QUESTÃO 87) Portadores de diabetes insipidus reclamam da confusão feita pelos proﬁssionais da saúde quanto aos dois tipos de diabetes: mellitus e insipidus. Enquanto o primeiro tipo está associado aos níveis ou à ação da insulina, o segundo não está ligado à deﬁciência desse hormônio. O diabetes insipidus é caracterizado por um distúrbio na produção ou no funcionamento do hormônio antidiurético (na sigla em inglês, ADH), secretado pela neuro-hipóﬁse para controlar a reabsorção de água pelos túbulos renais.\nTendo em vista o papel funcional do ADH, qual é um sintoma clássico de um paciente acometido por diabetes insipidus?",
+    "alternatives": [
+      "A) Alta taxa de glicose no sangue.",
+      "B) Aumento da pressão arterial.",
+      "C) Ganho de massa corporal.",
+      "D) Anemia crônica.",
+      "E) Desidratação."
+    ],
+    "year": "2016",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "87"
+  },
+  {
+    "description": "QUESTÃO 88) A magnetohipertermia é um procedimento terapêutico que se baseia na elevação da temperatura das células de uma região especíﬁca do corpo que estejam afetadas por um tumor. Nesse tipo de tratamento, nanopartículas magnéticas são fagocitadas pelas células tumorais, e um campo magnético alternado externo é utilizado para promover a agitação das nanopartículas e consequente aquecimento da célula.\nA elevação de temperatura descrita ocorre porque",
+    "alternatives": [
+      "A) o campo magnético gerado pela oscilação das nanopartículas é absorvido pelo tumor.",
+      "B) o campo magnético alternado faz as nanopartículas girarem, transferindo calor por atrito.",
+      "C) as nanopartículas interagem magneticamente com as células do corpo, transferindo calor.",
+      "D) o campo magnético alternado fornece calor para as nanopartículas que o transfere às células do corpo.",
+      "E) as nanopartículas são aceleradas em um único sentido em razão da interação com o campo magnético, fazendo-as colidir com as células e transferir calor."
+    ],
+    "year": "2016",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "88"
+  },
+  {
+    "description": "QUESTÃO 90) Apesar da grande diversidade biológica, a hipótese de que a vida na Terra tenha tido uma única origem comum é aceita pela comunidade cientíﬁca. Uma evidência que apoia essa hipótese é a observação de processos biológicos comuns a todos os seres vivos atualmente existentes.\nUm exemplo de tal processo é o(a)",
+    "alternatives": [
+      "A) desenvolvimento embrionário.",
+      "B) reprodução sexuada.",
+      "C) respiração aeróbica.",
+      "D) excreção urinária.",
+      "E) síntese proteica."
+    ],
+    "year": "2016",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "90"
+  },
+  {
+    "description": "QUESTÃO 91) Italian university switches to English By Sean Coughlan, BBC News education correspondent 16 May 2012 Last updated at 09:49 GMT Milan is crowded with Italian icons, which makes it even more of a cultural earthquake that one of Italy’s leading universities — the Politecnico di Milano — is going to switch to the English language. The university has announced that from 2014 most of its degree courses — including all its graduate courses — will be taught and assessed entirely in English rather than Italian. The waters of globalisation are rising around higher education — and the university believes that if it remains Italian-speaking it risks isolation and will be unable to compete as an international institution. “We strongly believe our classes should be international classes — and the only way to have international classes is to use the English language”, says the university’s rector, Giovanni Azzone.\nAs línguas têm um papel importante na comunicação entre pessoas de diferentes culturas. Diante do movimento de internacionalização no ensino superior, a universidade Politecnico di Milano decidiu",
+    "alternatives": [
+      "A) elaborar exames em língua inglesa para o ingresso na universidade.",
+      "B) ampliar a oferta de vagas na graduação para alunos estrangeiros.",
+      "C) investir na divulgação da universidade no mercado internacional.",
+      "D) substituir a língua nacional para se inserir no contexto da globalização.",
+      "E) estabelecer metas para melhorar a qualidade do ensino de italiano."
+    ],
+    "year": "2016",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "91"
+  },
+  {
+    "description": "QUESTÃO 92) Ebony and ivory Ebony and ivory live together in perfect harmony Side by side on my piano keyboard, oh Lord, why don’t we? We all know that people are the same wherever we go There is good and bad in ev’ryone, We learn to live, we learn to give Each other what we need to survive together alive Em diferentes épocas e lugares, compositores têm utilizado seu espaço de produção musical para expressar e problematizar perspectivas de mundo. Paul McCartney, na letra dessa canção, defende",
+    "alternatives": [
+      "A) o aprendizado compartilhado.",
+      "B) a necessidade de donativos.",
+      "C) as manifestações culturais.",
+      "D) o bem em relação ao mal.",
+      "E) o respeito étnico."
+    ],
+    "year": "2016",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "92"
+  },
+  {
+    "description": "QUESTÃO 91) La Sala II de la Cámara de Casación Penal ordenó que Marcela y Felipe Noble Herrera, los hijos adoptivos de la dueña de Clarín, se sometan “a la extracción directa, con o sin consentimiento, de mínimas muestras de sangre, saliva, piel, cabello u otras muestras biológicas” que les pertenezcan de “manera indubitable” para poder determinar si son hijos de desaparecidos. El tribunal, así, hizo lugar a un reclamo de las Abuelas de Plaza de Mayo y movió un casillero una causa judicial que ya lleva diez años de indeﬁnición. Sin embargo, simultáneamente, ﬁjó un límite y sólo habilitó la comparación de los perﬁles genéticos de los jóvenes con el ADN de las familias de personas “detenidas o desaparecidas con certeza” hasta el 13 de mayo de 1976, en el caso de Marcela, y hasta el 7 de julio del mismo año en el de Felipe. La obtención del material genético no será inmediata, ya que algunas de las partes apelarán y el tema inevitablemente desembocará a la Corte Suprema, que tendrá la palabra ﬁnal sobre la discusión de fondo.\n“Es una de cal y otra de arena, es querer quedar bien con Dios y con el diablo”, resumió la presidenta de Abuelas, Estela Carlotto, su primera impresión de la resolución que ﬁrmaron Guillermo Yacobucci, Luis García y Raúl Madueño. Aun así la evaluó como “un paso importante” porque determina que “sí o sí la extracción de sangre o de elementos que contengan ADN debe proceder”. “Lo que nos cayó mal”, acotó, es “la limitación” temporal que permitirá que la comparación se haga sólo con un grupo de familias. “Seguimos con la historia de que acá hay de primera y de segunda. ¿Por qué todos los demás casos siempre se han comparado con el Banco (de Datos Genéticos) completo y en éste no?”, se preguntó.\nNessa notícia, publicada no jornal argentino Página 12, citam-se comentários de Estela Carlotto, presidente da associação Abuelas de Plaza de Mayo, com relação a uma decisão do tribunal argentino. No contexto da fala, a expressão “una de cal y otra de arena” é utilizada para",
+    "alternatives": [
+      "A) referir-se ao fato de a decisão judicial não implicar a sua imediata aplicação.",
+      "B) destacar a inevitável execução da sentença.",
+      "C) ironizar a parcialidade da Justiça nessa ação.",
+      "D) criticar a coleta compulsória do material genético.",
+      "E) enfatizar a determinação judicial como algo consolidado."
+    ],
+    "year": "2016",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "96"
+  },
+  {
+    "description": "QUESTÃO 92) Preámbulo a las instrucciones para dar cuerda al reloj Piensa en esto: cuando te regalan un reloj te regalan un pequeño inﬁerno florido, una cadena de rosas, un calabozo de aire. No te dan solamente el reloj, que los cumplas muy felices y esperamos que te dure porque es de buena marca, suizo con áncora de rubíes; no te regalan solamente ese menudo picapedrero que te atarás a la muñeca y pasearás contigo. Te regalan — no lo saben, lo terrible es que no lo saben —, te regalan un nuevo pedazo frágil y precario de ti mismo, algo que es tuyo pero no es tu cuerpo, que hay que atar a tu cuerpo con su correa como un bracito desesperado colgándose de tu muñeca. Te regalan la necesidad de darle cuerda todos los días, la obligación de darle cuerda para que siga siendo un reloj; te regalan la obsesión de atender a la hora exacta en las vitrinas de las joyerías, en el anuncio por la radio, en el servicio telefónico. Te regalan el miedo de perderlo, de que te lo roben, de que se te caiga al suelo y se rompa. Te regalan su marca, y la seguridad de que es una marca mejor que las otras, te regalan la tendencia de comparar tu reloj con los demás relojes. No te regalan un reloj, tú eres el regalado, a ti te ofrecen para el cumpleaños del reloj.\nCORTÁZAR, J. Historias de cronopios y de famas. Buenos Aires: Sudamericana, 1963 (fragmento).\nNesse texto, Júlio Cortázar transforma pequenas ações cotidianas em criação literária,",
+    "alternatives": [
+      "A) denunciando a má qualidade dos relógios modernos em relação aos antigos.",
+      "B) apresentando possibilidades de sermos presenteados com um relógio.",
+      "C) convidando o leitor a refletir sobre a coisiﬁcação do ser humano.",
+      "D) desaﬁando o leitor a pensar sobre a efemeridade do tempo.",
+      "E) criticando o leitor por ignorar os malefícios do relógio."
+    ],
+    "year": "2016",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "97"
+  },
+  {
+    "description": "QUESTÃO 93) Inestabilidad estable Los que llevan toda la vida esforzándose por conseguir un pensamiento estable, con suﬁciente solidez como para evitar que la incertidumbre se apodere de sus habilidades, todas esas lecciones sobre cómo asegurarse el porvenir, aquellos que nos aconsejaban que nos dejáramos de bagatelas poéticas y encontráramos un trabajo ﬁjo y etcétera, abuelos, padres, maestros, suegros, bancos y seguradoras, nos estaban dando gato por liebre.\nY el mundo, este mundo que nos han creado, que al tocarlo en la pantalla creemos estar transformando a medida de nuestro deseo, nos está modelando según un coeﬁciente de rentabilidad, nos está licuando para integrarnos a su metabolismo reflejo.\nO título do texto antecipa a opinião do autor pelo uso de dois termos contraditórios que expressam o sentido de",
+    "alternatives": [
+      "A) competitividade e busca do lucro, que caracterizam a sociedade contemporânea.",
+      "B) busca de estabilidade ﬁnanceira e emocional, que marca o mundo atual.",
+      "C) negação dos valores defendidos pelas gerações anteriores em relação ao trabalho.",
+      "D) necessidade de realização pessoal e proﬁssional no sistema vigente.",
+      "E) permanência da inconstância em uma sociedade marcada por contínuas mudanças."
+    ],
+    "year": "2016",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "98"
+  },
+  {
+    "description": "QUESTÃO 94) Nesse graﬁte, realizado por um grupo que faz intervenções artísticas na cidade de Lima, há um jogo de palavras com o verbo “poner”. Na primeira ocorrência, o verbo equivale a “vestir uma roupa”, já na segunda, indica",
+    "alternatives": [
+      "A) início de ação.",
+      "B) mudança de estado.",
+      "C) conclusão de ideia.",
+      "D) simultaneidade de fatos.",
+      "E) continuidade de processo."
+    ],
+    "year": "2016",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "99"
+  },
+  {
+    "description": "QUESTÃO 95) Agua al soñar que un cántaro en la cabeza acarreas, será éxito y triunfo lo que tú veas.\nBañarse en un río donde el agua escalda, es augurio de enemigos y de cuchillo en la espalda.\nBañarse en un río de agua puerca, es perder a alguien cerca.\nORTIZ, A.; FLORES FARFÁN, J. A. Sueños mexicanos. México: Artes de México, 2012.\nO poema retoma elementos da cultura popular mexicana que refletem um dos aspectos que a constitui, caracterizado pela",
+    "alternatives": [
+      "A) percepção dos perigos de banhar-se em rios de águas poluídas.",
+      "B) crença na relevância dos sonhos como premonições ou conselhos.",
+      "C) necessidade de resgate da tradição de carregar água em cântaros.",
+      "D) exaltação da importância da preservação da água.",
+      "E) cautela no trato com inimigos e pessoas traiçoeiras."
+    ],
+    "year": "2016",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "100"
+  },
+  {
+    "description": "QUESTÃO 96) Ler não é decifrar, como num jogo de adivinhações, o sentido de um texto. É, a partir do texto, ser capaz de atribuir-lhe signiﬁcado, conseguir relacioná-lo a todos os outros textos signiﬁcativos para cada um, reconhecer nele o tipo de leitura que o seu autor pretendia e, dono da própria vontade, entregar-se a essa leitura, ou rebelar-se contra ela, propondo uma outra não prevista.\nLAJOLO, M. Do mundo da leitura para a leitura do mundo. São Paulo: Ática, 1993.\nNesse texto, a autora apresenta reflexões sobre o processo de produção de sentidos, valendo-se da metalinguagem. Essa função da linguagem torna-se evidente pelo fato de o texto",
+    "alternatives": [
+      "A) ressaltar a importância da intertextualidade.",
+      "B) propor leituras diferentes das previsíveis.",
+      "C) apresentar o ponto de vista da autora.",
+      "D) discorrer sobre o ato de leitura.",
+      "E) focar a participação do leitor."
+    ],
+    "year": "2016",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "101"
+  },
+  {
+    "description": "QUESTÃO 97) A ÁGUA INVISÍVEL Assim como a água corresponde a até 70% do nosso peso, ela também compõe muito daquilo que comemos, vestimos e usamos, ainda que indiretamente.\nCada quilo de carne bovina, por exemplo, exige em média 15 mil litros de água para ser produzido — desde a produção do alimento do gado até a limpeza de seus dejetos.\nO Brasil é um grande exportador de água na forma de soja e cereais.\nECONOMIZAR BENS DE CONSUMO E EVITAR O DESPERDÍCIO TAMBÉM É POUPAR ÁGUA.\n1 l e n ç o l d e a l g o d ã o = 10.600 litros 1 o v o = 3.340 litros 1 k g d e p ã o = 1.600 litros 1 c o p o d e c e r v e j a = 75 litros Nessa campanha publicitária, para estimular a economia de água, o leitor é incitado a",
+    "alternatives": [
+      "A) adotar práticas de consumo consciente.",
+      "B) alterar hábitos de higienização pessoal e residencial.",
+      "C) contrapor-se a formas indiretas de exportação de água.",
+      "D) optar por vestuário produzido com matéria-prima reciclável.",
+      "E) conscientizar produtores rurais sobre os custos de produção."
+    ],
+    "year": "2016",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "102"
+  },
+  {
+    "description": "QUESTÃO 99) Em casa, Hideo ainda podia seguir ﬁel ao imperador japonês e às tradições que trouxera no navio que aportara em Santos. […] Por isso Hideo exigia que, aos domingos, todos estivessem juntos durante o almoço. Ele se sentava à cabeceira da mesa; à direita ﬁcava Hanashiro, que era o primeiro ﬁlho, e Hitoshi, o segundo, e à esquerda, Haruo, depois Hiroshi, que era o mais novo. […] A esposa, que também era mãe, e as ﬁlhas, que também eram irmãs, aguardavam de pé ao redor da mesa […]. Haruo reclamava, não se cansava de reclamar: que se sentassem também as mulheres à mesa, que era um absurdo aquele costume. Quando se casasse, se sentariam à mesa a esposa e o marido, um em frente ao outro, porque não era o homem melhor que a mulher para ser o primeiro […]. Elas seguiam de pé, a mãe um pouco cansada dos protestos do ﬁlho, pois o momento do almoço era sagrado, não era hora de levantar bandeiras inúteis […].\nNAKASATO, O. Nihonjin. São Paulo: Benvirá, 2011 (fragmento).\nReferindo-se a práticas culturais de origem nipônica, o narrador registra as reações que elas provocam na família e mostra um contexto em que",
+    "alternatives": [
+      "A) a obediência ao imperador leva ao prestígio pessoal.",
+      "B) as novas gerações abandonam seus antigos hábitos.",
+      "C) a refeição é o que determina a agregação familiar.",
+      "D) os conflitos de gênero tendem a ser neutralizados.",
+      "E) o lugar à mesa metaforiza uma estrutura de poder."
+    ],
+    "year": "2016",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "104"
+  },
+  {
+    "description": "QUESTÃO 102) PINHÃO sai ao mesmo tempo que BENONA entra.\nBENONA: Eurico, Eudoro Vicente está lá fora e quer falar com você.\nEURICÃO: Benona, minha irmã, eu sei que ele está lá fora, mas não quero falar com ele.\nBENONA: Mas Eurico, nós lhe devemos certas atenções.\nEURICÃO: Você, que foi noiva dele. Eu, não! BENONA: Isso são coisas passadas.\nEURICÃO: Passadas para você, mas o prejuízo foi meu. Esperava que Eudoro, com todo aquele dinheiro, se tornasse meu cunhado. Era uma boca a menos e um patrimônio a mais. E o peste me traiu. Agora, parece que ouviu dizer que eu tenho um tesouro. E vem louco atrás dele, sedento, atacado de verdadeira hidrofobia. Vive farejando ouro, como um cachorro da molest’a, como um urubu, atrás do sangue dos outros. Mas ele está enganado. Santo Antônio há de proteger minha pobreza e minha devoção.\nSUASSUNA, A. O santo e a porca. Rio de Janeiro: José Olympio, 2013 (fragmento).\nNesse texto teatral, o emprego das expressões “o peste” e “cachorro da molest’a” contribui para",
+    "alternatives": [
+      "A) marcar a classe social das personagens.",
+      "B) caracterizar usos linguísticos de uma região.",
+      "C) enfatizar a relação familiar entre as personagens.",
+      "D) sinalizar a influência do gênero nas escolhas vocabulares.",
+      "E) demonstrar o tom autoritário da fala de uma das personagens."
+    ],
+    "year": "2016",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "107"
+  },
+  {
+    "description": "QUESTÃO 103) Soneto VII Onde estou? Este sítio desconheço: Quem fez tão diferente aquele prado? Tudo outra natureza tem tomado; E em contemplá-lo tímido esmoreço.\nUma fonte aqui houve; eu não me esqueço De estar a ela um dia reclinado: Ali em vale um monte está mudado: Quanto pode dos anos o progresso! Árvores aqui vi tão florescentes, Que faziam perpétua a primavera: Nem troncos vejo agora decadentes.\nEu me engano: a região esta não era; Mas que venho a estranhar, se estão presentes Meus males, com que tudo degenera! No soneto de Cláudio Manuel da Costa, a contemplação da paisagem permite ao eu lírico uma reflexão em que transparece uma",
+    "alternatives": [
+      "A) angústia provocada pela sensação de solidão.",
+      "B) resignação diante das mudanças do meio ambiente.",
+      "C) dúvida existencial em face do espaço desconhecido.",
+      "D) intenção de recriar o passado por meio da paisagem.",
+      "E) empatia entre os sofrimentos do eu e a agonia da terra."
+    ],
+    "year": "2016",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "108"
+  },
+  {
+    "description": "QUESTÃO 105) Qual é a segurança do sangue? Para que o sangue esteja disponível para aqueles que necessitam, os indivíduos saudáveis devem criar o hábito de doar sangue e encorajar amigos e familiares saudáveis a praticarem o mesmo ato.\nA prática de selecionar criteriosamente os doadores, bem como as rígidas normas aplicadas para testar, transportar, estocar e transfundir o sangue doado ﬁzeram dele um produto muito mais seguro do que já foi anteriormente.\nApenas pessoas saudáveis e que não sejam de risco para adquirir doenças infecciosas transmissíveis pelo sangue, como hepatites B e C, HIV, síﬁlis e Chagas, podem doar sangue.\nSe você acha que sua saúde ou comportamento pode colocar em risco a vida de quem for receber seu sangue, ou tem a real intenção de apenas realizar o teste para o vírus HIV, NÃO DOE SANGUE.\nCumpre destacar que apesar de o sangue doado ser testado para as doenças transmissíveis conhecidas no momento, existe um período chamado de janela imunológica em que um doador contaminado por um determinado vírus pode transmitir a doença através do seu sangue.\nDA SUA HONESTIDADE DEPENDE A VIDA DE QUEM VAI RECEBER SEU SANGUE.\nNessa campanha, as informações apresentadas têm como objetivo principal",
+    "alternatives": [
+      "A) conscientizar o doador de sua corresponsabilidade pela qualidade do sangue.",
+      "B) garantir a segurança de pessoas de grupos de risco durante a doação de sangue.",
+      "C) esclarecer o público sobre a segurança do processo de captação do sangue.",
+      "D) alertar os doadores sobre as diﬁculdades enfrentadas na coleta de sangue.",
+      "E) ampliar o número de doadores para manter o banco de sangue."
+    ],
+    "year": "2016",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "110"
+  },
+  {
+    "description": "QUESTÃO 110) O senso comum é que só os seres humanos são capazes de rir. Isso não é verdade? Não. O riso básico — o da brincadeira, da diversão, da expressão física do riso, do movimento da face e da vocalização — nós compartilhamos com diversos animais. Em ratos, já foram observadas vocalizações ultrassônicas — que nós não somos capazes de perceber — e que eles emitem quando estão brincando de “rolar no chão”. Acontecendo de o cientista provocar um dano em um local especíﬁco no cérebro, o rato deixa de fazer essa vocalização e a brincadeira vira briga séria. Sem o riso, o outro pensa que está sendo atacado. O que nos diferencia dos animais é que não temos apenas esse mecanismo básico. Temos um outro mais evoluído. Os animais têm o senso de brincadeira, como nós, mas não têm senso de humor. O córtex, a parte superﬁcial do cérebro deles, não é tão evoluído como o nosso. Temos mecanismos corticais que nos permitem, por exemplo, interpretar uma piada.\nA coesão textual é responsável por estabelecer relações entre as partes do texto. Analisando o trecho “Acontecendo de o cientista provocar um dano em um local especíﬁco no cérebro”, veriﬁca-se que ele estabelece com a oração seguinte uma relação de",
+    "alternatives": [
+      "A) ﬁnalidade, porque os danos causados ao cérebro têm por ﬁnalidade provocar a falta de vocalização dos ratos.",
+      "B) oposição, visto que o dano causado em um local especíﬁco no cérebro é contrário à vocalização dos ratos.",
+      "C) condição, pois é preciso que se tenha lesão especíﬁca no cérebro para que não haja vocalização dos ratos.",
+      "D) consequência, uma vez que o motivo de não haver mais vocalização dos ratos é o dano causado no cérebro.",
+      "E) proporção, já que à medida que se lesiona o cérebro não é mais possível que haja vocalização dos ratos."
+    ],
+    "year": "2016",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "115"
+  },
+  {
+    "description": "QUESTÃO 111) Mandinga — Era a denominação que, no período das grandes navegações, os portugueses davam à costa ocidental da África. A palavra se tornou sinônimo de feitiçaria porque os exploradores lusitanos consideravam bruxos os africanos que ali habitavam — é que eles davam indicações sobre a existência de ouro na região. Em idioma nativo, manding designava terra de feiticeiros. A palavra acabou virando sinônimo de feitiço, sortilégio.\nCOTRIM, M. O pulo do gato 3. São Paulo: Geração Editorial, 2009 (fragmento).\nNo texto, evidencia-se que a construção do signiﬁcado da palavra mandinga resulta de um(a)",
+    "alternatives": [
+      "A) contexto sócio-histórico.",
+      "B) diversidade étnica.",
+      "C) descoberta geográﬁca.",
+      "D) apropriação religiosa.",
+      "E) contraste cultural."
+    ],
+    "year": "2016",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "116"
+  },
+  {
+    "description": "QUESTÃO 112) TEXTO I Nesta época do ano, em que comprar compulsivamente é a principal preocupação de boa parte da população, é imprescindível refletirmos sobre a importância da mídia na propagação de determinados comportamentos que induzem ao consumismo exacerbado. No clássico livro O capital, Karl Marx aponta que no capitalismo os bens materiais, ao serem fetichizados, passam a assumir qualidades que vão além da mera materialidade. As coisas são personiﬁcadas e as pessoas são coisiﬁcadas. Em outros termos, um automóvel de luxo, uma mansão em um bairro nobre ou a ostentação de objetos de determinadas marcas famosas são alguns dos fatores que conferem maior valorização e visibilidade social a um indivíduo.\nhttp://observatoriodaimprensa.com.br. Acesso em: 18 jan. 2015.\nTEXTO II Todos os dias, em algum nível, o consumo atinge nossa vida, modiﬁca nossas relações, gera e rege sentimentos, engendra fantasias, aciona comportamentos, faz sofrer, faz gozar. Às vezes constrangendo-nos em nossas ações no mundo, humilhando e aprisionando, às vezes ampliando nossa imaginação e nossa capacidade de desejar, consumimos e somos consumidos. Numa época toda codiﬁcada como a nossa, o código da alma (o código do ser) virou código do consumidor! Fascínio pelo consumo, fascínio do consumo. Felicidade, luxo, bem-estar, boa forma, lazer, elevação espiritual, saúde, turismo, sexo, família e corpo são hoje reféns da engrenagem do consumo.\nAcesso em: 18 jan. 2015.\nEsses textos propõem uma reflexão crítica sobre o consumismo. Ambos partem do ponto de vista de que esse hábito",
+    "alternatives": [
+      "A) desperta o desejo de ascensão social.",
+      "B) provoca mudanças nos valores sociais.",
+      "C) advém de necessidades suscitadas pela publicidade.",
+      "D) deriva da inerente busca por felicidade pelo ser humano.",
+      "E) resulta de um apelo do mercado em determinadas datas."
+    ],
+    "year": "2016",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "117"
+  },
+  {
+    "description": "QUESTÃO 116) Esses chopes dourados [...] quando a geração de meu pai batia na minha a minha achava que era normal que a geração de cima só podia educar a de baixo batendo quando a minha geração batia na de vocês ainda não sabia que estava errado mas a geração de vocês já sabia e cresceu odiando a geração de cima aí chegou esta hora em que todas as gerações já sabem de tudo e é péssimo ter pertencido à geração do meio tendo errado quando apanhou da de cima e errado quando bateu na de baixo e sabendo que apesar de amaldiçoados éramos todos inocentes.\nWANDERLEY, J. In: MORICONI, I. (Org.). Os cem melhores poemas brasileiros do século. Rio de Janeiro: Objetiva, 2001 (fragmento).\nAo expressar uma percepção de atitudes e valores situados na passagem do tempo, o eu lírico manifesta uma angústia sintetizada na",
+    "alternatives": [
+      "A) compreensão da efemeridade das convicções antes vistas como sólidas.",
+      "B) consciência das imperfeições aceitas na construção do senso comum.",
+      "C) revolta das novas gerações contra modelos tradicionais de educação.",
+      "D) incerteza da expectativa de mudança por parte das futuras gerações.",
+      "E) crueldade atribuída à forma de punição praticada pelos mais velhos."
+    ],
+    "year": "2016",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "121"
+  },
+  {
+    "description": "QUESTÃO 118) Nesse texto, a combinação de elementos verbais e não verbais conﬁgura-se como estratégia argumentativa para",
+    "alternatives": [
+      "A) manifestar a preocupação do governo com a segurança dos pedestres.",
+      "B) associar a utilização do celular às ocorrências de atropelamento de crianças.",
+      "C) orientar pedestres e motoristas quanto à utilização responsável do telefone móvel.",
+      "D) influenciar o comportamento de motoristas em relação ao uso de celular no trânsito.",
+      "E) alertar a população para os riscos da falta de atenção no trânsito das grandes cidades."
+    ],
+    "year": "2016",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "123"
+  },
+  {
+    "description": "QUESTÃO 120) Querido diário Hoje topei com alguns conhecidos meus Me dão bom-dia, cheios de carinho Dizem para eu ter muita luz, ﬁcar com Deus Eles têm pena de eu viver sozinho [...] Hoje o inimigo veio me espreitar Armou tocaia lá na curva do rio Trouxe um porrete a mó de me quebrar Mas eu não quebro porque sou macio, viu HOLANDA, C. B. Chico. Rio de Janeiro: Biscoito Fino, 2013 (fragmento).\nUma característica do gênero diário que aparece na letra da canção de Chico Buarque é o(a)",
+    "alternatives": [
+      "A) diálogo com interlocutores próximos.",
+      "B) recorrência de verbos no inﬁnitivo.",
+      "C) predominância de tom poético.",
+      "D) uso de rimas na composição.",
+      "E) narrativa autorreflexiva."
+    ],
+    "year": "2016",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "125"
+  },
+  {
+    "description": "QUESTÃO 122) Receita Tome-se um poeta não cansado, Uma nuvem de sonho e uma flor, Três gotas de tristeza, um tom dourado, Uma veia sangrando de pavor. Quando a massa já ferve e se retorce Deita-se a luz dum corpo de mulher, Duma pitada de morte se reforce, Que um amor de poeta assim requer.\nSARAMAGO, J. Os poemas possíveis. Alfragide: Caminho, 1997.\nOs gêneros textuais caracterizam-se por serem relativamente estáveis e podem reconﬁgurar-se em função do propósito comunicativo. Esse texto constitui uma mescla de gêneros, pois",
+    "alternatives": [
+      "A) introduz procedimentos prescritivos na composição do poema.",
+      "B) explicita as etapas essenciais à preparação de uma receita.",
+      "C) explora elementos temáticos presentes em uma receita.",
+      "D) apresenta organização estrutural típica de um poema.",
+      "E) utiliza linguagem ﬁgurada na construção do poema."
+    ],
+    "year": "2016",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "127"
+  },
+  {
+    "description": "QUESTÃO 123) Espetáculo Romeu e Julieta, Grupo Galpão.\nA principal razão pela qual se infere que o espetáculo retratado na fotograﬁa é uma manifestação do teatro de rua é o fato de",
+    "alternatives": [
+      "A) dispensar o edifício teatral para a sua realização.",
+      "B) utilizar ﬁgurinos com adereços cômicos.",
+      "C) empregar elementos circenses na atuação.",
+      "D) excluir o uso de cenário na ambientação.",
+      "E) negar o uso de iluminação artiﬁcial."
+    ],
+    "year": "2016",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "128"
+  },
+  {
+    "description": "QUESTÃO 124) O humor e a língua Há algum tempo, venho estudando as piadas, com ênfase em sua constituição linguística. Por isso, embora a aﬁrmação a seguir possa parecer surpreendente, creio que posso garantir que se trata de uma verdade quase banal: as piadas fornecem simultaneamente um dos melhores retratos dos valores e problemas de uma sociedade, por um lado, e uma coleção de fatos e dados impressionantes para quem quer saber o que é e como funciona uma língua, por outro. Se se quiser descobrir os problemas com os quais uma sociedade se debate, uma coleção de piadas fornecerá excelente pista: sexualidade, etnia/raça e outras diferenças, instituições (igreja, escola, casamento, política), morte, tudo isso está sempre presente nas piadas que circulam anonimamente e que são ouvidas e contadas por todo mundo em todo o mundo. Os antropólogos ainda não prestaram a devida atenção a esse material, que poderia substituir com vantagem muitas entrevistas e pesquisas participantes. Saberemos mais a quantas andam o machismo e o racismo, por exemplo, se pesquisarmos uma coleção de piadas do que qualquer outro corpus.\nA piada é um gênero textual que ﬁgura entre os mais recorrentes na cultura brasileira, sobretudo na tradição oral. Nessa reflexão, a piada é enfatizada por",
+    "alternatives": [
+      "A) sua função humorística.",
+      "B) sua ocorrência universal.",
+      "C) sua diversidade temática.",
+      "D) seu papel como veículo de preconceitos.",
+      "E) seu potencial como objeto de investigação."
+    ],
+    "year": "2016",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "129"
+  },
+  {
+    "description": "QUESTÃO 126) Entrevista com Terezinha Guilhermina Terezinha Guilhermina é uma das atletas mais premiadas da história paraolímpica do Brasil e um dos principais nomes do atletismo mundial. Está no Guinness Book de 2013/2014 como a “cega” mais rápida do mundo.\nObservatório: Quais os desaﬁos você teve que superar para se consagrar como atleta proﬁssional? Terezinha Guilhermina: Considero a ausência de recursos ﬁnanceiros, nos três primeiros anos da minha carreira, como meu principal desaﬁo. A falta de um atleta- guia, para me auxiliar nos treinamentos, me obrigava a treinar sozinha e, por não enxergar bem, acabava sofrendo alguns acidentes como trombadas e quedas.\nObservatório: Como está a preparação para os Jogos Paraolímpicos de 2016? Terezinha Guilhermina: Estou trabalhando intensamente, com vistas a chegar lá bem melhor do que estive em Londres. E, por isso, posso me dedicar a treinos diários, trabalhos preventivos de lesões e acompanhamento psicológico e nutricional da melhor qualidade.\nO texto permite relacionar uma prática corporal com uma visão ampliada de saúde. O fator que possibilita identiﬁcar essa perspectiva é o(a)",
+    "alternatives": [
+      "A) aspecto nutricional.",
+      "B) condição ﬁnanceira.",
+      "C) prevenção de lesões.",
+      "D) treinamento esportivo.",
+      "E) acompanhamento psicológico."
+    ],
+    "year": "2016",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "131"
+  },
+  {
+    "description": "QUESTÃO 127) É possível considerar as modalidades esportivas coletivas dentro de uma mesma lógica, pois possuem uma estrutura comum: seis princípios operacionais divididos em dois grupos, o ataque e a defesa. Os três princípios operacionais de ataque são: conservação individual e coletiva da bola, progressão da equipe com a posse da bola em direção ao alvo adversário e ﬁnalização da jogada, visando a obtenção de ponto. Os três princípios operacionais da defesa são: recuperação da bola, impedimento do avanço da equipe contrária com a posse da bola e proteção do alvo para impedir a ﬁnalização da equipe adversária.\nDAOLIO, J. Jogos esportivos coletivos: dos princípios operacionais aos gestos técnicos — modelo pendular a partir das ideias de Claude Bayer. Revista Brasileira Considerando os princípios expostos no texto, o drible no handebol caracteriza o princípio de",
+    "alternatives": [
+      "A) recuperação da bola.",
+      "B) progressão da equipe.",
+      "C) ﬁnalização da jogada.",
+      "D) proteção do próprio alvo.",
+      "E) impedimento do avanço adversário."
+    ],
+    "year": "2016",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "132"
+  },
+  {
+    "description": "QUESTÃO 128) BONS DIAS! 14 de junho de 1889 Ó doce, ó longa, ó inexprimível melancolia dos jornais velhos! Conhece-se um homem diante de um deles. Pessoa que não sentir alguma coisa ao ler folhas de meio século, bem pode crer que não terá nunca uma das mais profundas sensações da vida, — igual ou quase igual à que dá a vista das ruínas de uma civilização. Não é a saudade piegas, mas a recomposição do extinto, a revivescência do passado.\nASSIS, M. Bons dias! (Crônicas 1888-1889). Campinas: Editora da Unicamp; São Paulo: Hucitec, 1990.\nO jornal impresso é parte integrante do que hoje se compreende por tecnologias de informação e comunicação. Nesse texto, o jornal é reconhecido como",
+    "alternatives": [
+      "A) objeto de devoção pessoal.",
+      "B) elemento de aﬁrmação da cultura.",
+      "C) instrumento de reconstrução da memória.",
+      "D) ferramenta de investigação do ser humano.",
+      "E) veículo de produção de fatos da realidade."
+    ],
+    "year": "2016",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "133"
+  },
+  {
+    "description": "QUESTÃO 130) Lições de motim DONA COTINHA — É claro! Só gosta de solidão quem nasceu pra ser solitário. Só o solitário gosta de solidão. Quem vive só e não gosta da solidão não é um solitário, é só um desacompanhado. (A reflexão escorrega lá pro fundo da alma.) Solidão é vocação, besta de quem pensa que é sina. Por isso, tem de ser valorizada. E não é qualquer um que pode ser solitário, não. Ah, mas não é mesmo! É preciso ter competência pra isso. (De súbito, pedagógica, volta-se para o homem.) É como poesia, sabe, moço? Tem de ser recitada em voz alta, que é pra gente sentir o gosto. (FAZ UMA PAUSA.) Você gosta de poesia? (O HOMEM TORNA A SE DEBATER. A VELHA INTERROMPE O DISCURSO E VOLTA A LHE DAR AS COSTAS, COMO SEMPRE, IMPASSÍVEL. O HOMEM, MAIS UMA VEZ, CANSADO, DESISTE.) Bem, como eu ia dizendo, pra viver bem com a solidão temos de ser proprietários dela e não inquilinos, me entende? Quem é inquilino da solidão não passa de um abandonado. É isso aí.\nNesse trecho, o que caracteriza Lições de motim como texto teatral?",
+    "alternatives": [
+      "A) O tom melancólico presente na cena.",
+      "B) As perguntas retóricas da personagem.",
+      "C) A interferência do narrador no desfecho da cena.",
+      "D) O uso de rubricas para construir a ação dramática.",
+      "E) As analogias sobre a solidão feitas pela personagem."
+    ],
+    "year": "2016",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "135"
+  },
+  {
+    "description": "QUESTÃO 132) L.J.C.\n— 5 tiros? — É.\n— Brincando de pegador? — É. O PM pensou que… — Hoje? — Cedinho.\nCOELHO, M. In: FREIRE, M. (Org.). Os cem menores contos brasileiros do século. São Paulo: Ateliê Editorial, 2004.\nOs sinais de pontuação são elementos com importantes funções para a progressão temática. Nesse miniconto, as reticências foram utilizadas para indicar",
+    "alternatives": [
+      "A) uma fala hesitante.",
+      "B) uma informação implícita.",
+      "C) uma situação incoerente.",
+      "D) a eliminação de uma ideia.",
+      "E) a interrupção de uma ação."
+    ],
+    "year": "2016",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "137"
+  },
+  {
+    "description": "QUESTÃO 133) O nome do inseto pirilampo (vaga-lume) tem uma interessante certidão de nascimento. De repente, no ﬁm do século XVII, os poetas de Lisboa repararam que não podiam cantar o inseto luminoso, apesar de ele ser um manancial de metáforas, pois possuía um nome “indecoroso” que não podia ser “usado em papéis sérios”: caga-lume. Foi então que o dicionarista Raphael Bluteau inventou a nova palavra, pirilampo, a partir do grego pyr, signiﬁcando ‘fogo’, e lampas, ‘candeia’.\nFERREIRA, M. B. Caminhos do português: exposição comemorativa do Ano Europeu O texto descreve a mudança ocorrida na nomeação do inseto, por questões de tabu linguístico. Esse tabu diz respeito à",
+    "alternatives": [
+      "A) recuperação histórica do signiﬁcado.",
+      "B) ampliação do sentido de uma palavra.",
+      "C) produção imprópria de poetas portugueses.",
+      "D) denominação cientíﬁca com base em termos gregos.",
+      "E) restrição ao uso de um vocábulo pouco aceito socialmente."
+    ],
+    "year": "2016",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "138"
+  },
+  {
+    "description": "QUESTÃO 134) Primeira lição Os gêneros de poesia são: lírico, satírico, didático, épico, ligeiro.\nO gênero lírico compreende o lirismo.\nLirismo é a tradução de um sentimento subjetivo, sincero e pessoal.\nÉ a linguagem do coração, do amor.\nO lirismo é assim denominado porque em outros tempos os versos sentimentais eram declamados ao som da lira.\nO lirismo pode ser: a) Elegíaco, quando trata de assuntos tristes, quase sempre a morte.\nb) Bucólico, quando versa sobre assuntos campestres.\nc) Erótico, quando versa sobre o amor.\nO lirismo elegíaco compreende a elegia, a nênia, a endecha, o epitáﬁo e o epicédio.\nElegia é uma poesia que trata de assuntos tristes.\nNênia é uma poesia em homenagem a uma pessoa morta.\nEra declamada junto à fogueira onde o cadáver era incinerado.\nEndecha é uma poesia que revela as dores do coração.\nEpitáﬁo é um pequeno verso gravado em pedras tumulares.\nEpicédio é uma poesia onde o poeta relata a vida de uma pessoa morta.\nCESAR, A. C. Poética. São Paulo: Companhia das Letras, 2013.\nNo poema de Ana Cristina Cesar, a relação entre as deﬁnições apresentadas e o processo de construção do texto indica que o(a)",
+    "alternatives": [
+      "A) caráter descritivo dos versos assinala uma concepção irônica de lirismo.",
+      "B) tom explicativo e contido constitui uma forma peculiar de expressão poética.",
+      "C) seleção e o recorte do tema revelam uma visão pessimista da criação artística.",
+      "D) enumeração de distintas manifestações líricas produz um efeito de impessoalidade.",
+      "E) referência a gêneros poéticos clássicos expressa a adesão do eu lírico às tradições literárias."
+    ],
+    "year": "2016",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "139"
+  },
+  {
+    "description": "QUESTÃO 135) Você pode não acreditar Você pode não acreditar: mas houve um tempo em que os leiteiros deixavam as garraﬁnhas de leite do lado de fora das casas, seja ao pé da porta, seja na janela.\nA gente ia de uniforme azul e branco para o grupo, de manhãzinha, passava pelas casas e não ocorria que alguém pudesse roubar aquilo.\nVocê pode não acreditar: mas houve um tempo em que os padeiros deixavam o pão na soleira da porta ou na janela que dava para a rua. A gente passava e via aquilo como uma coisa normal.\nVocê pode não acreditar: mas houve um tempo em que você saía à noite para namorar e voltava andando pelas ruas da cidade, caminhando displicentemente, sentindo cheiro de jasmim e de alecrim, sem olhar para trás, sem temer as sombras.\nVocê pode não acreditar: houve um tempo em que as pessoas se visitavam airosamente. Chegavam no meio da tarde ou à noite, contavam casos, tomavam café, falavam da saúde, tricotavam sobre a vida alheia e voltavam de bonde às suas casas.\nVocê pode não acreditar: mas houve um tempo em que o namorado primeiro ficava andando com a moça numa rua perto da casa dela, depois passava a namorar no portão, depois tinha ingresso na sala da família. Era sinal de que já estava praticamente noivo e seguro.\nHouve um tempo em que havia tempo.\nHouve um tempo.\nSANT’ANNA, A. R. Estado de Minas, 5 maio 2013 (fragmento).\nNessa crônica, a repetição do trecho “Você pode não acreditar: mas houve um tempo em que...” conﬁgura-se como uma estratégia argumentativa que visa",
+    "alternatives": [
+      "A) surpreender o leitor com a descrição do que as pessoas faziam durante o seu tempo livre antigamente.",
+      "B) sensibilizar o leitor sobre o modo como as pessoas se relacionavam entre si num tempo mais aprazível.",
+      "C) advertir o leitor mais jovem sobre o mau uso que se faz do tempo nos dias atuais.",
+      "D) incentivar o leitor a organizar melhor o seu tempo sem deixar de ser nostálgico.",
+      "E) convencer o leitor sobre a veracidade de fatos relativos à vida no passado."
+    ],
+    "year": "2016",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "140"
+  },
+  {
+    "description": "QUESTÃO 136) Para uma feira de ciências, dois projéteis de foguetes, A e B, estão sendo construídos para serem lançados. O planejamento é que eles sejam lançados juntos, com o objetivo de o projétil B interceptar o A quando esse alcançar sua altura máxima. Para que isso aconteça, um dos projéteis descreverá uma trajetória parabólica, enquanto o outro irá descrever uma trajetória supostamente retilínea. O gráﬁco mostra as alturas alcançadas por esses projéteis em função do tempo, nas simulações realizadas.\n1 2 3 4 5 6 7 8 9 10 Altura (m) 0 4 8 12 16 20 − 4 − 8 −12 Tempo (s) Com base nessas simulações, observou-se que a trajetória do projétil B deveria ser alterada para que o objetivo fosse alcançado.\nPara alcançar o objetivo, o coeﬁciente angular da reta que representa a trajetória de B deverá",
+    "alternatives": [
+      "A) diminuir em 2 unidades.",
+      "B) diminuir em 4 unidades.",
+      "C) aumentar em 2 unidades.",
+      "D) aumentar em 4 unidades.",
+      "E) aumentar em 8 unidades."
+    ],
+    "year": "2016",
+    "subject": "Matemática e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "141"
+  },
+  {
+    "description": "QUESTÃO 139) O cultivo de uma flor rara só é viável se do mês do plantio para o mês subsequente o clima da região possuir as seguintes peculiaridades: • a variação do nível de chuvas (pluviosidade), nesses meses, não for superior a 50 mm; • a temperatura mínima, nesses meses, for superior a 15 °C; • ocorrer, nesse período, um leve aumento não superior a 5 °C na temperatura máxima.\nUm floricultor, pretendendo investir no plantio dessa flor em sua região, fez uma consulta a um meteorologista que lhe apresentou o gráﬁco com as condições previstas para os 12 meses seguintes nessa região.\n250 200 150 100 50 0 35 30 25 20 15 10 5 0 2012 2013 Maio Junho Julho Agosto Setembro Outubro Novembro Dezembro Janeiro Fevereiro Abril Maio Março Pluviosidade Temperatura máxima Temperatura mínima Pluviosidade (mm) Temperatura (°C) Com base nas informações do gráﬁco, o floricultor veriﬁcou que poderia plantar essa flor rara.\nO mês escolhido para o plantio foi",
+    "alternatives": [
+      "A) janeiro.",
+      "B) fevereiro.",
+      "C) agosto.",
+      "D) novembro.",
+      "E) dezembro."
+    ],
+    "year": "2016",
+    "subject": "Matemática e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "144"
+  },
+  {
+    "description": "QUESTÃO 140) Uma cisterna de 6 000 L foi esvaziada em um período de 3 h. Na primeira hora foi utilizada apenas uma bomba, mas nas duas horas seguintes, a ﬁm de reduzir o tempo de esvaziamento, outra bomba foi ligada junto com a primeira. O gráﬁco, formado por dois segmentos de reta, mostra o volume de água presente na cisterna, em função do tempo.\n3 6 000 5 000 1 0 Tempo (h) Volume (L) Qual é a vazão, em litro por hora, da bomba que foi ligada no início da segunda hora?",
+    "alternatives": [
+      "A) 1 000",
+      "B) 1 250",
+      "C) 1 500",
+      "D) 2 000",
+      "E) 2 500"
+    ],
+    "year": "2016",
+    "subject": "Matemática e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "145"
+  },
+  {
+    "description": "QUESTÃO 143) Um dos grandes desaﬁos do Brasil é o gerenciamento dos seus recursos naturais, sobretudo os recursos hídricos. Existe uma demanda crescente por água e o risco de racionamento não pode ser descartado. O nível de água de um reservatório foi monitorado por um período, sendo o resultado mostrado no gráﬁco. Suponha que essa tendência linear observada no monitoramento se prolongue pelos próximos meses.\nNível do reservatório 35% 30% 25% 20% 15% 10% 5% 1 2 3 Mês 4 5 6 Porcentagem com relação à capacidade máxima Nas condições dadas, qual o tempo mínimo, após o sexto mês, para que o reservatório atinja o nível zero de sua capacidade?",
+    "alternatives": [
+      "A) 2 meses e meio.",
+      "B) 3 meses e meio.",
+      "C) 1 mês e meio.",
+      "D) 4 meses.",
+      "E) 1 mês."
+    ],
+    "year": "2016",
+    "subject": "Matemática e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "148"
+  },
+  {
+    "description": "QUESTÃO 144) Um posto de saúde registrou a quantidade de vacinas aplicadas contra febre amarela nos últimos cinco meses: • 1o mês: 21; • 2o mês: 22; • 3o mês: 25; • 4o mês: 31; • 5o mês: 21.\nNo início do primeiro mês, esse posto de saúde tinha 228 vacinas contra febre amarela em estoque. A política de reposição do estoque prevê a aquisição de novas vacinas, no início do sexto mês, de tal forma que a quantidade inicial em estoque para os próximos meses seja igual a 12 vezes a média das quantidades mensais dessas vacinas aplicadas nos últimos cinco meses.\nPara atender essas condições, a quantidade de vacinas contra febre amarela que o posto de saúde deve adquirir no início do sexto mês é",
+    "alternatives": [
+      "A) 156.",
+      "B) 180.",
+      "C) 192.",
+      "D) 264.",
+      "E) 288."
+    ],
+    "year": "2016",
+    "subject": "Matemática e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "149"
+  },
+  {
+    "description": "QUESTÃO 145) Uma liga metálica sai do forno a uma temperatura de 3 000 °C e diminui 1% de sua temperatura a cada 30 min.\nUse 0,477 como aproximação para log10(3) e 1,041 como aproximação para log10(11).\nO tempo decorrido, em hora, até que a liga atinja 30 °C é mais próximo de",
+    "alternatives": [
+      "A) 22.",
+      "B) 50.",
+      "C) 100.",
+      "D) 200.",
+      "E) 400."
+    ],
+    "year": "2016",
+    "subject": "Matemática e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "150"
+  },
+  {
+    "description": "QUESTÃO 146) Um petroleiro possui reservatório em formato de um paralelepípedo retangular com as dimensões dadas por 60 m x 10 m de base e 10 m de altura. Com o objetivo de minimizar o impacto ambiental de um eventual vazamento, esse reservatório é subdividido em três compartimentos, A, B e C, de mesmo volume, por duas placas de aço retangulares com dimensões de 7 m de altura e 10 m de base, de modo que os compartimentos são interligados, conforme a ﬁgura. Assim, caso haja rompimento no casco do reservatório, apenas uma parte de sua carga vazará.\n10 m 10 m 60 m 7 m Suponha que ocorra um desastre quando o petroleiro se encontra com sua carga máxima: ele sofre um acidente que ocasiona um furo no fundo do compartimento C. Para ﬁns de cálculo, considere desprezíveis as espessuras das placas divisórias.\nApós o ﬁm do vazamento, o volume de petróleo derramado terá sido de",
+    "alternatives": [
+      "A) 1,4 × 103 m3",
+      "B) 1,8 × 103 m3",
+      "C) 2,0 × 103 m3",
+      "D) 3,2 × 103 m3",
+      "E) 6,0 × 103 m3"
+    ],
+    "year": "2016",
+    "subject": "Matemática e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "151"
+  },
+  {
+    "description": "QUESTÃO 149) Cinco marcas de pão integral apresentam as seguintes concentrações de ﬁbras (massa de ﬁbra por massa de pão): • Marca A: 2 g de ﬁbras a cada 50 g de pão; • Marca B: 5 g de ﬁbras a cada 40 g de pão; • Marca C: 5 g de ﬁbras a cada 100 g de pão; • Marca D: 6 g de ﬁbras a cada 90 g de pão; • Marca E: 7 g de ﬁbras a cada 70 g de pão.\nRecomenda-se a ingestão do pão que possui a maior concentração de ﬁbras.\nA marca a ser escolhida é",
+    "alternatives": [
+      "A) A.",
+      "B) B.",
+      "C) C.",
+      "D) D.",
+      "E) E."
+    ],
+    "year": "2016",
+    "subject": "Matemática e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "154"
+  },
+  {
+    "description": "QUESTÃO 155) O setor de recursos humanos de uma empresa pretende fazer contratações para adequar-se ao artigo 93 da Lei n° 8.213/91, que dispõe: Art. 93. A empresa com 100 (cem) ou mais empregados está obrigada a preencher de 2% (dois por cento) a 5% (cinco por cento) dos seus cargos com beneficiários reabilitados ou pessoas com deficiência, habilitadas, na seguinte proporção: I. até 200 empregados ...................................... 2%; II. de 201 a 500 empregados.............................. 3%; III. de 501 a 1 000 empregados........................... 4%; IV. de 1 001 em diante......................................... 5%.\nConstatou-se que a empresa possui 1 200 funcionários, dos quais 10 são reabilitados ou com deﬁciência, habilitados.\nPara adequar-se à referida lei, a empresa contratará apenas empregados que atendem ao perﬁl indicado no artigo 93.\nO número mínimo de empregados reabilitados ou com deﬁciência, habilitados, que deverá ser contratado pela empresa é",
+    "alternatives": [
+      "A) 74.",
+      "B) 70.",
+      "C) 64.",
+      "D) 60.",
+      "E) 53."
+    ],
+    "year": "2016",
+    "subject": "Matemática e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "160"
+  },
+  {
+    "description": "QUESTÃO 156) Uma pessoa comercializa picolés. No segundo dia de certo evento ela comprou 4 caixas de picolés, pagando R$ 16,00 a caixa com 20 picolés para revendê-los no evento. No dia anterior, ela havia comprado a mesma quantidade de picolés, pagando a mesma quantia, e obtendo um lucro de R$ 40,00 (obtido exclusivamente pela diferença entre o valor de venda e o de compra dos picolés) com a venda de todos os picolés que possuía.\nPesquisando o perﬁl do público que estará presente no evento, a pessoa avalia que será possível obter um lucro 20% maior do que o obtido com a venda no primeiro dia do evento.\nPara atingir seu objetivo, e supondo que todos os picolés disponíveis foram vendidos no segundo dia, o valor de venda de cada picolé, no segundo dia, deve ser",
+    "alternatives": [
+      "A) R$ 0,96.",
+      "B) R$ 1,00.",
+      "C) R$ 1,40.",
+      "D) R$ 1,50.",
+      "E) R$ 1,56."
+    ],
+    "year": "2016",
+    "subject": "Matemática e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "161"
+  },
+  {
+    "description": "QUESTÃO 158) O ábaco é um antigo instrumento de cálculo que usa notação posicional de base dez para representar números naturais. Ele pode ser apresentado em vários modelos, um deles é formado por hastes apoiadas em uma base. Cada haste corresponde a uma posição no sistema decimal e nelas são colocadas argolas; a quantidade de argolas na haste representa o algarismo daquela posição. Em geral, colocam-se adesivos abaixo das hastes com os símbolos U, D, C, M, DM e CM que correspondem, respectivamente, a unidades, dezenas, centenas, unidades de milhar, dezenas de milhar e centenas de milhar, sempre começando com a unidade na haste da direita e as demais ordens do número no sistema decimal nas hastes subsequentes (da direita para esquerda), até a haste que se encontra mais à esquerda.\nEntretanto, no ábaco da ﬁgura, os adesivos não seguiram a disposição usual.\nCM DM Nessa disposição, o número que está representado na ﬁgura é",
+    "alternatives": [
+      "A) 46 171.",
+      "B) 147 016.",
+      "C) 171 064.",
+      "D) 460 171.",
+      "E) 610 741."
+    ],
+    "year": "2016",
+    "subject": "Matemática e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "163"
+  },
+  {
+    "description": "QUESTÃO 159) Um marceneiro está construindo um material didático que corresponde ao encaixe de peças de madeira com 10 cm de altura e formas geométricas variadas, num bloco de madeira em que cada peça se posicione na perfuração com seu formato correspondente, conforme ilustra a ﬁgura. O bloco de madeira já possui três perfurações prontas de bases distintas: uma quadrada (Q), de lado 4 cm, uma retangular (R), com base 3 cm e altura 4 cm, e uma em forma de um triângulo equilátero (T), de lado 6,8 cm. Falta realizar uma perfuração de base circular (C). O marceneiro não quer que as outras peças caibam na perfuração circular e nem que a peça de base circular caiba nas demais perfurações e, para isso, escolherá o diâmetro do círculo que atenda a tais condições. Procurou em suas ferramentas uma serra copo (broca com formato circular) para perfurar a base em madeira, encontrando cinco exemplares, com diferentes medidas de diâmetros, como segue: (I) 3,8 cm; (II) 4,7 cm; (III) 5,6 cm; (IV) 7,2 cm e (V) 9,4 cm.\nConsidere 1,4 e 1,7 como aproximações para √2 e √3 , respectivamente.\nPara que seja atingido o seu objetivo, qual dos exemplares de serra copo o marceneiro deverá escolher?",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "year": "2016",
+    "subject": "Matemática e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "164"
+  },
+  {
+    "description": "QUESTÃO 160) Em um exame, foi feito o monitoramento dos níveis de duas substâncias presentes (A e B) na corrente sanguínea de uma pessoa, durante um período de 24 h, conforme o resultado apresentado na ﬁgura. Um nutricionista, no intuito de prescrever uma dieta para essa pessoa, analisou os níveis dessas substâncias, determinando que, para uma dieta semanal eﬁcaz, deverá ser estabelecido um parâmetro cujo valor será dado pelo número de vezes em que os níveis de A e de B forem iguais, porém, maiores que o nível mínimo da substância A durante o período de duração da dieta.\nSubstância A Substância B Tempo (h) 24 0 Nível Considere que o padrão apresentado no resultado do exame, no período analisado, se repita para os dias subsequentes.\nO valor do parâmetro estabelecido pelo nutricionista, para uma dieta semanal, será igual a",
+    "alternatives": [
+      "A) 28.",
+      "B) 21.",
+      "C) 2.",
+      "D) 7.",
+      "E) 14."
+    ],
+    "year": "2016",
+    "subject": "Matemática e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "165"
+  },
+  {
+    "description": "QUESTÃO 161) Um paciente necessita de reidratação endovenosa feita por meio de cinco frascos de soro durante 24 h. Cada frasco tem um volume de 800 mL de soro. Nas primeiras quatro horas, deverá receber 40% do total a ser aplicado. Cada mililitro de soro corresponde a 12 gotas.\nO número de gotas por minuto que o paciente deverá receber após as quatro primeiras horas será",
+    "alternatives": [
+      "A) 16.",
+      "B) 20.",
+      "C) 24.",
+      "D) 34.",
+      "E) 40."
+    ],
+    "year": "2016",
+    "subject": "Matemática e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "166"
+  },
+  {
+    "description": "QUESTÃO 163) Um reservatório é abastecido com água por uma torneira e um ralo faz a drenagem da água desse reservatório. Os gráﬁcos representam as vazões Q, em litro por minuto, do volume de água que entra no reservatório pela torneira e do volume que sai pelo ralo, em função do tempo t, em minuto.\nt (min) Torneira Q (L/min) t (min) Ralo 20 5 0 5 10 15 20 25 Q (L/min) 20 5 0 5 10 15 20 25 Em qual intervalo de tempo, em minuto, o reservatório tem uma vazão constante de enchimento?",
+    "alternatives": [
+      "A) De 0 a 10.",
+      "B) De 5 a 10.",
+      "C) De 5 a 15.",
+      "D) De 15 a 25.",
+      "E) De 0 a 25."
+    ],
+    "year": "2016",
+    "subject": "Matemática e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "168"
+  },
+  {
+    "description": "QUESTÃO 164) O LIRAa, Levantamento Rápido do Índice de Infestação por Aedes aegypti, consiste num mapeamento da infestação do mosquito Aedes aegypti. O LIRAa é dado pelo percentual do número de imóveis com focos do mosquito, entre os escolhidos de uma região em avaliação. O serviço de vigilância sanitária de um município, no mês de outubro do ano corrente, analisou o LIRAa de cinco bairros que apresentaram o maior índice de infestação no ano anterior. Os dados obtidos para cada bairro foram: I. 14 imóveis com focos de mosquito em 400 imóveis no bairro; II. 6 imóveis com focos de mosquito em 500 imóveis no bairro; III. 13 imóveis com focos de mosquito em 520 imóveis no bairro; IV. 9 imóveis com focos de mosquito em 360 imóveis no bairro; V. 15 imóveis com focos de mosquito em 500 imóveis no bairro.\nO setor de dedetização do município deﬁniu que o direcionamento das ações de controle iniciarão pelo bairro que apresentou o maior índice do LIRAa.\nAs ações de controle iniciarão pelo bairro",
+    "alternatives": [
+      "A) I.",
+      "B) II.",
+      "C) III.",
+      "D) IV.",
+      "E) V."
+    ],
+    "year": "2016",
+    "subject": "Matemática e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "169"
+  },
+  {
+    "description": "QUESTÃO 165) Uma família resolveu comprar um imóvel num bairro cujas ruas estão representadas na ﬁgura. As ruas com nomes de letras são paralelas entre si e perpendiculares às ruas identiﬁcadas com números. Todos os quarteirões são quadrados, com as mesmas medidas, e todas as ruas têm a mesma largura, permitindo caminhar somente nas direções vertical e horizontal. Desconsidere a largura das ruas.\nRua A Rua B Rua C Rua E Rua D Rua F Rua 1 Rua 2 Rua 3 Rua 4 Rua 5 Rua 6 A família pretende que esse imóvel tenha a mesma distância de percurso até o local de trabalho da mãe, localizado na rua 6 com a rua E, o consultório do pai, na rua 2 com a rua E, e a escola das crianças, na rua 4 com a rua A.\nCom base nesses dados, o imóvel que atende as pretensões da família deverá ser localizado no encontro das ruas",
+    "alternatives": [
+      "A) 3 e C.",
+      "B) 4 e C.",
+      "C) 4 e D.",
+      "D) 4 e E.",
+      "E) 5 e C."
+    ],
+    "year": "2016",
+    "subject": "Matemática e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "170"
+  },
+  {
+    "description": "QUESTÃO 168) Densidade absoluta (d) é a razão entre a massa de um corpo e o volume por ele ocupado. Um professor propôs à sua turma que os alunos analisassem a densidade de três corpos: dA, dB, dC. Os alunos veriﬁcaram que o corpo A possuía 1,5 vez a massa do corpo B e esse, por sua vez, tinha 3 4 da massa do corpo C. Observaram, ainda, que o volume do corpo A era o mesmo do corpo B e 20% maior do que o volume do corpo C.\nApós a análise, os alunos ordenaram corretamente as densidades desses corpos da seguinte maneira",
+    "alternatives": [
+      "A) dB < dA < dC",
+      "B) dB = dA < dC",
+      "C) dC < dB = dA",
+      "D) dB < dC < dA",
+      "E) dC < dB < dA"
+    ],
+    "year": "2016",
+    "subject": "Matemática e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "173"
+  },
+  {
+    "description": "QUESTÃO 169) No tanque de um certo carro de passeio cabem até 50 L de combustível, e o rendimento médio deste carro na estrada é de 15 km/L de combustível. Ao sair para uma viagem de 600 km o motorista observou que o marcador de combustível estava exatamente sobre uma das marcas da escala divisória do medidor, conforme ﬁgura a seguir.\n1/2 1/1 Como o motorista conhece o percurso, sabe que existem, até a chegada a seu destino, cinco postos de abastecimento de combustível, localizados a 150 km, 187 km, 450 km, 500 km e 570 km do ponto de partida.\nQual a máxima distância, em quilômetro, que poderá percorrer até ser necessário reabastecer o veículo, de modo a não ﬁcar sem combustível na estrada?",
+    "alternatives": [
+      "A) 570",
+      "B) 500",
+      "C) 450",
+      "D) 187",
+      "E) 150"
+    ],
+    "year": "2016",
+    "subject": "Matemática e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "174"
+  },
+  {
+    "description": "QUESTÃO 174) Em 2011, um terremoto de magnitude 9,0 na escala Richter causou um devastador tsunami no Japão, provocando um alerta na usina nuclear de Fukushima. Em 2013, outro terremoto, de magnitude 7,0 na mesma escala, sacudiu Sichuan (sudoeste da China), deixando centenas de mortos e milhares de feridos. A magnitude de um terremoto na escala Richter pode ser calculada por M = 2 log( E ) 3 E0 , sendo E a energia, em kWh, liberada pelo terremoto e E0 uma constante real positiva. Considere que E1 e E2 representam as energias liberadas nos terremotos ocorridos no Japão e na China, respectivamente.\nQual a relação entre E1 e E2?",
+    "alternatives": [
+      "A) E1 = E2 + 2",
+      "B) E1 = 102 . E2",
+      "C) E1 = 103 . E2",
+      "D) E1 = 10 9 7 . E2",
+      "E) E1 = 9 7 . E2"
+    ],
+    "year": "2016",
+    "subject": "Matemática e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "179"
+  },
+  {
+    "description": "QUESTÃO 175) Em regiões agrícolas, é comum a presença de silos para armazenamento e secagem da produção de grãos, no formato de um cilindro reto, sobreposto por um cone, e dimensões indicadas na ﬁgura. O silo ﬁca cheio e o transporte dos grãos é feito em caminhões de carga cuja capacidade é de 20 m³. Uma região possui um silo cheio e apenas um caminhão para transportar os grãos para a usina de beneﬁciamento.\n3 m 12 m 3 m Utilize 3 como aproximação para p. O número mínimo de viagens que o caminhão precisará fazer para transportar todo o volume de grãos armazenados no silo é",
+    "alternatives": [
+      "A) 6.",
+      "B) 16.",
+      "C) 17.",
+      "D) 18.",
+      "E) 21."
+    ],
+    "year": "2016",
+    "subject": "Matemática e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "180"
+  },
+  {
+    "description": "QUESTÃO 176) Em uma empresa de móveis, um cliente encomenda um guarda-roupa nas dimensões 220 cm de altura, 120 cm de largura e 50 cm de profundidade. Alguns dias depois, o projetista, com o desenho elaborado na escala 1 : 8, entra em contato com o cliente para fazer sua apresentação. No momento da impressão, o proﬁssional percebe que o desenho não caberia na folha de papel que costumava usar. Para resolver o problema, conﬁgurou a impressora para que a ﬁgura fosse reduzida em 20%.\nA altura, a largura e a profundidade do desenho impresso para a apresentação serão, respectivamente,",
+    "alternatives": [
+      "A) 22,00 cm, 12,00 cm e 5,00 cm.",
+      "B) 27,50 cm, 15,00 cm e 6,25 cm.",
+      "C) 34,37 cm, 18,75 cm e 7,81 cm.",
+      "D) 35,20 cm, 19,20 cm e 8,00 cm.",
+      "E) 44,00 cm, 24,00 cm e 10,00 cm."
+    ],
+    "year": "2016",
+    "subject": "Matemática e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "181"
+  },
+  {
+    "description": "QUESTÃO 179) Para garantir a segurança de um grande evento público que terá início às 4 h da tarde, um organizador precisa monitorar a quantidade de pessoas presentes em cada instante. Para cada 2 000 pessoas se faz necessária a presença de um policial. Além disso, estima-se uma densidade de quatro pessoas por metro quadrado de área de terreno ocupado. Às 10 h da manhã, o organizador veriﬁca que a área de terreno já ocupada equivale a um quadrado com lados medindo 500 m. Porém, nas horas seguintes, espera-se que o público aumente a uma taxa de 120 000 pessoas por hora até o início do evento, quando não será mais permitida a entrada de público.\nQuantos policiais serão necessários no início do evento para garantir a segurança?",
+    "alternatives": [
+      "A) 360",
+      "B) 485",
+      "C) 560",
+      "D) 740",
+      "E) 860"
+    ],
+    "year": "2016",
+    "subject": "Matemática e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "184"
+  }
+]

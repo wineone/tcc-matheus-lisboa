@@ -1,0 +1,4 @@
+{
+  "time_to_run": 158.9891860485077,
+  "result": " C) 4. The volume of water stored in each reservoir can be calculated using the formula V = h \\* L, where V is the volume, h is the time, and L is the capacity of the reservoir. To find the number of hours where the two reservoirs contain the same amount of water, we need to calculate the total volume of water stored in both reservoirs during this period and then compare them. The total volume of water stored in reservoir A is 180 \\* 20 = 3600 liters, and the total volume of water stored in reservoir B is 70 \\* 20 = 1400 liters. To find the number of hours where the two reservoirs contain the same amount of water, we need to calculate the difference between these two volumes and then divide that by the capacity of each reservoir: (3600 - 1400) / (2 \\* 90000) = 18 hours."
+}

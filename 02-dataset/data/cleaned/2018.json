@@ -1,0 +1,772 @@
+[
+  {
+    "description": "QUESTÃO 01) Lava Mae: Creating Showers on Wheels for the Homeless San Francisco, according to recent city numbers, has 4,300 people living on the streets. Among the many problems the homeless face is little or no access to showers. San Francisco only has about 16 to 20 shower stalls to accommodate them.\nBut Doniece Sandoval has made it her mission to change that. The 51-year-old former marketing executive started Lava Mae, a sort of showers on wheels, a new project that aims to turn decommissioned city buses into shower stations for the homeless. Each bus will have two shower stations and Sandoval expects that they'll be able to provide 2,000 showers a week.\nA relação dos vocábulos shower, bus e homeless, no texto, refere-se a",
+    "alternatives": [
+      "A) empregar moradores de rua em lava a jatos para ônibus.",
+      "B) criar acesso a banhos gratuitos para moradores de rua.",
+      "C) comissionar sem-teto para dirigir os ônibus da cidade.",
+      "D) exigir das autoridades que os ônibus municipais tenham banheiros.",
+      "E) abrigar dois mil moradores de rua em ônibus que foram adaptados."
+    ],
+    "year": "2018",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "1"
+  },
+  {
+    "description": "QUESTÃO 05) 1984 (excerpt) ‘Is it your opinion, Winston, that the past has real existence?’ [...] O'Brien smiled faintly. ‘I will put it more precisely. Does the past exist concretely, in space? Is there somewhere or other a place, a world of solid objects, where the past is still happening?’ ‘No.’ ‘Then where does the past exist, if at all?’ ‘In records. It is written down.’ ‘In records. And — —?’ ‘In the mind. In human memories.’ ‘In memory. Very well, then. We, the Party, control all records, and we control all memories. Then we control the past, do we not?’ ORWELL, G. Nineteen Eighty-Four. New York: Signet Classics, 1977.\nO romance 1984 descreve os perigos de um Estado totalitário. A ideia evidenciada nessa passagem é que o controle do Estado se dá por meio do(a)",
+    "alternatives": [
+      "A) boicote a ideais libertários.",
+      "B) veto ao culto das tradições.",
+      "C) poder sobre memórias e registros.",
+      "D) censura a produções orais e escritas.",
+      "E) manipulação de pensamentos individuais. TECNOLOGIAS"
+    ],
+    "year": "2018",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "5"
+  },
+  {
+    "description": "QUESTÃO 01) El día en que lo iban a matar, Santiago Nasar se levantó a las 5:30 de la mañana para esperar el buque en que llegaba el obispo. Había soñado que atravesaba un bosque de higuerones donde caía una llovizna tierna, y por un instante fue feliz en el sueño, pero al despertar se sintió por completo salpicado de cagada de pájaros. “Siempre soñaba con árboles”, me dijo Plácida Linero, su madre, evocando 27 años después los pormenores de aquel lunes ingrato. “La semana anterior había soñado que iba solo en un avión de papel de estaño que volaba sin tropezar por entre los almendros”, me dijo. Tenía una reputación muy bien ganada de intérprete certera de los sueños ajenos, siempre que se los contaran en ayunas, pero no había advertido ningún augurio aciago en esos dos sueños de su hijo, ni en los otros sueños con árboles que él le había contado en las mañanas que precedieron a su muerte.\nAcesso em: 2 jan. 2015.\nNa introdução do romance, o narrador resgata lembranças de Plácida Linero relacionadas a seu filho Santiago Nasar. Nessa introdução, o uso da expressão augurio aciago remete ao(à)",
+    "alternatives": [
+      "A) relação mística que se estabelece entre Plácida e seu filho Santiago.",
+      "B) destino trágico de Santiago, que Plácida foi incapaz de prever nos sonhos.",
+      "C) descompasso entre a felicidade de Santiago nos sonhos e seu azar na realidade.",
+      "D) crença de Plácida na importância da interpretação dos sonhos para mudar o futuro.",
+      "E) presença recorrente de elementos sombrios que se revelam nos sonhos de Santiago."
+    ],
+    "year": "2018",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "6"
+  },
+  {
+    "description": "QUESTÃO 03) ¿Qué es la X Solidaria? La X Solidaria es una equis que ayuda a las personas más vulnerables. Podrás marcarla cuando hagas la declaración de la renta. Es la casilla que se denomina “Fines Sociales”. Nosotros preferimos llamarla X Solidaria: • porque al marcarla haces que se destine un 0,7% de tus impuestos a programas sociales que realizan las ONG.\n• porque se benefician los colectivos más desfavorecidos, sin ningún coste económico para ti.\n• porque NO marcarla es tomar una actitud pasiva, y dejar que sea el Estado quien decida el destino de esa parte de tus impuestos.\n• porque marcándola te conviertes en contribuyente activo solidario.\nAs ações solidárias contribuem para o enfrentamento de problemas sociais. No texto, a ação solidária ocorre quando o contribuinte",
+    "alternatives": [
+      "A) delega ao governo o destino de seus impostos.",
+      "B) escolhe projetos que terão isenção de impostos.",
+      "C) destina parte de seus impostos para custeio de programas sociais.",
+      "D) determina a criação de impostos para implantação de projetos sociais.",
+      "E) seleciona programas para beneficiar cidadãos vulneráveis socialmente."
+    ],
+    "year": "2018",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "8"
+  },
+  {
+    "description": "QUESTÃO 04) ¿Cómo gestionar la diversidad lingüística en el aula? El aprendizaje de idiomas es una de las demandas de la sociedad en la escuela: los alumnos tienen que finalizar la escolarización con un buen conocimiento, por lo menos, de las tres lenguas curriculares: catalán, castellano e inglés (o francés, portugués...).\nLa metodología que promueve el aprendizaje integrado de idiomas en la escuela tiene en cuenta las relaciones entre las diferentes lenguas: la mejor enseñanza de una lengua incide en la mejora de todas las demás. Se trata de educar en y para la diversidad lingüística y cultural.\nPor eso, la V Jornada de Buenas Prácticas de Gestión del Multilingüismo, que se celebrará en Barcelona, debatirá sobre la gestión del multilingüismo en el aula. El objetivo es difundir propuestas para el aprendizaje integrado de idiomas y presentar experiencias prácticas de gestión de la diversidad lingüística presente en las aulas.\nNa região da Catalunha, Espanha, convivem duas línguas oficiais: o catalão e o espanhol. Além dessas, ensinam-se outras línguas nas escolas. De acordo com o texto, para administrar a variedade linguística nas aulas, é necessário",
+    "alternatives": [
+      "A) ampliar o número de línguas ofertadas para enriquecer o conteúdo.",
+      "B) divulgar o estudo de diferentes idiomas e culturas para atrair os estudantes.",
+      "C) privilegiar o estudo de línguas maternas para valorizar os aspectos regionais.",
+      "D) explorar as relações entre as línguas estudadas para promover a diversidade.",
+      "E) debater as práticas sobre multilinguismo para formar melhor os professores de línguas."
+    ],
+    "year": "2018",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "9"
+  },
+  {
+    "description": "QUESTÃO 06) “A Declaração Universal dos Direitos Humanos está completando 70 anos em tempos de desafios crescentes, quando o ódio, a discriminação e a violência permanecem vivos”, disse a diretora-geral da Organização das Nações Unidas para a Educação, a Ciência e a Cultura (Unesco), Audrey Azoulay.\n“Ao final da Segunda Guerra Mundial, a humanidade inteira resolveu promover a dignidade humana em todos os lugares e para sempre. Nesse espírito, as Nações Unidas adotaram a Declaração Universal dos Direitos Humanos como um padrão comum de conquistas para todos os povos e todas as nações”, disse Audrey.\n“Centenas de milhões de mulheres e homens são destituídos e privados de condições básicas de subsistência e de oportunidades. Movimentos populacionais forçados geram violações aos direitos em uma escala sem precedentes. A Agenda 2030 para o Desenvolvimento Sustentável promete não deixar ninguém para trás – e os direitos humanos devem ser o alicerce para todo o progresso.” Segundo ela, esse processo precisa começar o quanto antes nas carteiras das escolas. Diante disso, a Unesco lidera a educação em direitos humanos para assegurar que todas as meninas e meninos saibam seus direitos e os direitos dos outros.\nDefendendo a ideia de que “os direitos humanos devem ser o alicerce para todo o progresso”, a diretora-geral da Unesco aponta, como estratégia para atingir esse fim, a",
+    "alternatives": [
+      "A) inclusão de todos na Agenda 2030.",
+      "B) extinção da intolerância entre os indivíduos.",
+      "C) discussão desse tema desde a educação básica.",
+      "D) conquista de direitos para todos os povos e nações.",
+      "E) promoção da dignidade humana em todos os lugares."
+    ],
+    "year": "2018",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "11"
+  },
+  {
+    "description": "QUESTÃO 07) A utilização de determinadas variedades linguísticas em campanhas educativas tem a função de atingir o público-alvo de forma mais direta e eficaz. No caso desse texto, identifica-se essa estratégia pelo(a)",
+    "alternatives": [
+      "A) discurso formal da língua portuguesa.",
+      "B) registro padrão próprio da língua escrita.",
+      "C) seleção lexical restrita à esfera da medicina.",
+      "D) fidelidade ao jargão da linguagem publicitária.",
+      "E) uso de marcas linguísticas típicas da oralidade."
+    ],
+    "year": "2018",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "12"
+  },
+  {
+    "description": "QUESTÃO 08) — Famigerado? [...] — Famigerado é “inóxio”, é “célebre”, “notório”, “notável”...\n— Vosmecê mal não veja em minha grossaria no não entender. Mais me diga: é desaforado? É caçoável? É de arrenegar? Farsância? Nome de ofensa? — Vilta nenhuma, nenhum doesto. São expressões neutras, de outros usos...\n— Pois... e o que é que é, em fala de pobre, linguagem de em dia de semana? — Famigerado? Bem. É: “importante”, que merece louvor, respeito...\nROSA, G. Famigerado. In: Primeiras estórias. Rio de Janeiro: Nova Fronteira, 2001.\nNesse texto, a associação de vocábulos da língua portuguesa a determinados dias da semana remete ao",
+    "alternatives": [
+      "A) local de origem dos interlocutores.",
+      "B) estado emocional dos interlocutores.",
+      "C) grau de coloquialidade da comunicação.",
+      "D) nível de intimidade entre os interlocutores.",
+      "E) conhecimento compartilhado na comunicação."
+    ],
+    "year": "2018",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "13"
+  },
+  {
+    "description": "QUESTÃO 09) Na sociologia e na literatura, o brasileiro foi por vezes tratado como cordial e hospitaleiro, mas não é isso o que acontece nas redes sociais: a democracia racial apregoada por Gilberto Freyre passa ao largo do que acontece diariamente nas comunidades virtuais do país. Levantamento inédito realizado pelo projeto Comunica que Muda [...] mostra em números a intolerância do internauta tupiniquim. Entre abril e junho, um algoritmo vasculhou plataformas [...] atrás de mensagens e textos sobre temas sensíveis, como racismo, posicionamento político e homofobia. Foram identificadas 393 284 menções, sendo 84% delas com abordagem negativa, de exposição do preconceito e da discriminação.\nAo abordar a postura do internauta brasileiro mapeada por meio de uma pesquisa em plataformas virtuais, o texto",
+    "alternatives": [
+      "A) minimiza o alcance da comunicação digital.",
+      "B) refuta ideias preconcebidas sobre o brasileiro.",
+      "C) relativiza responsabilidades sobre a noção de respeito.",
+      "D) exemplifica conceitos contidos na literatura e na sociologia.",
+      "E) expõe a ineficácia dos estudos para alterar tal comportamento."
+    ],
+    "year": "2018",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "14"
+  },
+  {
+    "description": "QUESTÃO 10) Quebranto às vezes sou o policial que me suspeito me peço documentos e mesmo de posse deles me prendo e me dou porrada às vezes sou o porteiro não me deixando entrar em mim mesmo a não ser pela porta de serviço [...] às vezes faço questão de não me ver e entupido com a visão deles sinto-me a miséria concebida como um eterno começo fecho-me o cerco sendo o gesto que me nego a pinga que me bebo e me embebedo o dedo que me aponto e denuncio o ponto em que me entrego.\nàs vezes!...\nCUTI. Negroesia. Belo Horizonte: Mazza, 2007 (fragmento).\nNa literatura de temática negra produzida no Brasil, é recorrente a presença de elementos que traduzem experiências históricas de preconceito e violência. No poema, essa vivência revela que o eu lírico",
+    "alternatives": [
+      "A) incorpora seletivamente o discurso do seu opressor.",
+      "B) submete-se à discriminação como meio de fortalecimento.",
+      "C) engaja-se na denúncia do passado de opressão e injustiças.",
+      "D) sofre uma perda de identidade e de noção de pertencimento.",
+      "E) acredita esporadicamente na utopia de uma sociedade igualitária."
+    ],
+    "year": "2018",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "15"
+  },
+  {
+    "description": "QUESTÃO 13) TEXTO I TEXTO II Imaginemos um cidadão, residente na periferia de um grande centro urbano, que diariamente acorda às 5h para trabalhar, enfrenta em média 2 horas de transporte público, em geral lotado, para chegar às 8h ao trabalho. Termina o expediente às 17h e chega em casa às 19h para, aí sim, cuidar dos afazeres domésticos, dos filhos etc. Como dizer a essa pessoa que ela deve praticar exercícios, pois é importante para sua saúde? Como ela irá entender a mensagem da importância do exercício físico? A probabilidade de essa pessoa praticar exercícios regularmente é significativamente menor que a de pessoas da classe média/alta que vivem outra realidade. Nesse caso, a abordagem individual do problema tende a fazer com que a pessoa se sinta impotente em não conseguir praticar exercícios e, consequentemente, culpada pelo fato de ser ou estar sedentária.\nFERREIRA, M. S. Aptidão física e saúde na educação física escolar: ampliando o enfoque. O segundo texto, que propõe uma reflexão sobre o primeiro acerca do impacto de mudanças no estilo de vida na saúde, apresenta uma visão",
+    "alternatives": [
+      "A) medicalizada, que relaciona a prática de exercícios físicos por qualquer indivíduo à promoção da saúde.",
+      "B) ampliada, que considera aspectos sociais intervenientes na prática de exercícios no cotidiano.",
+      "C) crítica, que associa a interferência das tarefas da casa ao sedentarismo do indivíduo.",
+      "D) focalizada, que atribui ao indivíduo a responsabilidade pela prevenção de doenças.",
+      "E) geracional, que preconiza a representação do culto à jovialidade."
+    ],
+    "year": "2018",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "18"
+  },
+  {
+    "description": "QUESTÃO 17) Aconteceu mais de uma vez: ele me abandonou. Como todos os outros. O quinto. A gente já estava junto há mais de um ano. Parecia que dessa vez seria para sempre. Mas não: ele desapareceu de repente, sem deixar rastro. Quando me dei conta, fiquei horas ligando sem parar – mas só chamava, chamava, e ninguém atendia. E então fiz o que precisava ser feito: bloqueei a linha.\nA verdade é que nenhum telefone celular me suporta. Já tentei de todas as marcas e operadoras, apenas para descobrir que eles são todos iguais: na primeira oportunidade, dão no pé. Esse último aproveitou que eu estava distraído e não desceu do táxi junto comigo. Ou será que ele já tinha pulado do meu bolso no momento em que eu embarcava no táxi? Tomara que sim. Depois de fazer o que me fez, quero mais é que ele tenha ido parar na sarjeta. [...] Se ainda fossem embora do jeito que chegaram, tudo bem. [...] Mas já sei o que vou fazer. No caminho da loja de celulares, vou passar numa papelaria. Pensando bem, nenhuma das minhas agendinhas de papel jamais me abandonou.\nFREIRE, R. Começar de novo. O Estado de S. Paulo, 24 nov. 2006.\nNesse fragmento, a fim de atrair a atenção do leitor e de estabelecer um fio condutor de sentido, o autor utiliza-se de",
+    "alternatives": [
+      "A) primeira pessoa do singular para imprimir subjetividade ao relato de mais uma desilusão amorosa.",
+      "B) ironia para tratar da relação com os celulares na era de produtos altamente descartáveis.",
+      "C) frases feitas na apresentação de situações amorosas estereotipadas para construir a ambientação do texto.",
+      "D) quebra de expectativa como estratégia argumentativa para ocultar informações.",
+      "E) verbos no tempo pretérito para enfatizar uma aproximação com os fatos abordados ao longo do texto."
+    ],
+    "year": "2018",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "22"
+  },
+  {
+    "description": "QUESTÃO 20) Vó Clarissa deixou cair os talheres no prato, fazendo a porcelana estalar. Joaquim, meu primo, continuava com o queixo suspenso, batendo com o garfo nos lábios, esperando a resposta. Beatriz ecoou a palavra como pergunta, “o que é lésbica?”. Eu fiquei muda. Joaquim sabia sobre mim e me entregaria para a vó e, mais tarde, para toda a família. Senti um calor letal subir pelo meu pescoço e me doer atrás das orelhas. Previ a cena: vó, a senhora é lésbica? Porque a Joana é. A vergonha estava na minha cara e me denunciava antes mesmo da delação. Apertei os olhos e contraí o peito, esperando o tiro. [...] [...] Pensei na naturalidade com que Taís e eu levávamos a nossa história. Pensei na minha insegurança de contar isso à minha família, pensei em todos os colegas e professores que já sabiam, fechei os olhos e vi a boca da minha vó e a boca da tia Carolina se tocando, apesar de todos os impedimentos. Eu quis saber mais, eu quis saber tudo, mas não consegui perguntar.\nPOLESSO, N. B. Vó, a senhora é lésbica? Amora. Porto Alegre: Não Editora, 2015 (fragmento).\nA situação narrada revela uma tensão fundamentada na perspectiva do",
+    "alternatives": [
+      "A) conflito com os interesses de poder.",
+      "B) silêncio em nome do equilíbrio familiar.",
+      "C) medo instaurado pelas ameaças de punição.",
+      "D) choque imposto pela distância entre as gerações.",
+      "E) apego aos protocolos de conduta segundo os gêneros."
+    ],
+    "year": "2018",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "25"
+  },
+  {
+    "description": "QUESTÃO 21) Ó Pátria amada, Idolatrada, Salve! Salve! Brasil, de amor eterno seja símbolo O lábaro que ostentas estrelado, E diga o verde-louro dessa flâmula — “Paz no futuro e glória no passado.” Mas, se ergues da justiça a clava forte, Verás que um filho teu não foge à luta, Nem teme, quem te adora, a própria morte.\nTerra adorada, Entre outras mil, És tu, Brasil, Ó Pátria amada! Dos filhos deste solo és mãe gentil, Pátria amada, Brasil! Hino Nacional do Brasil. Letra: Joaquim Osório Duque Estrada. Música: Francisco Manuel da Silva (fragmento).\nO uso da norma-padrão na letra do Hino Nacional do Brasil é justificado por tratar-se de um(a)",
+    "alternatives": [
+      "A) reverência de um povo a seu país.",
+      "B) gênero solene de característica protocolar.",
+      "C) canção concebida sem interferência da oralidade.",
+      "D) escrita de uma fase mais antiga da língua portuguesa.",
+      "E) artefato cultural respeitado por todo o povo brasileiro."
+    ],
+    "year": "2018",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "26"
+  },
+  {
+    "description": "QUESTÃO 23) O trabalho não era penoso: colar rótulos, meter vidros em caixas, etiquetá-las, selá-las, envolvê-las em papel celofane, branco, verde, azul, conforme o produto, separá-las em dúzias... Era fastidioso. Para passar mais rapidamente as oito horas havia o remédio: conversar. Era proibido, mas quem ia atrás de proibições? O patrão vinha? Vinha o encarregado do serviço? Calavam o bico, aplicavam-se ao trabalho. Mal viravam as costas, voltavam a taramelar. As mãos não paravam, as línguas não paravam. Nessas conversas intermináveis, de linguagem solta e assuntos crus, Leniza se completou. Isabela, Afonsina, Idália, Jurete, Deolinda – foram mestras. O mundo acabou de se desvendar. Leniza perdeu o tom ingênuo que ainda podia ter. Ganhou um jogar de corpo que convida, um quebrar de olhos que promete tudo, à toa, gratuitamente. Modificou-se o timbre de sua voz. Ficou mais quente. A própria inteligência se transformou. Tornou-se mais aguda, mais trepidante.\nREBELO, M. A estrela sobe. Rio de Janeiro: José Olympio, 2009.\nO romance, de 1939, traz à cena tipos e situações que espelham o Rio de Janeiro daquela década. No fragmento, o narrador delineia esse contexto centrado no",
+    "alternatives": [
+      "A) julgamento da mulher fora do espaço doméstico.",
+      "B) relato sobre as condições de trabalho no Estado Novo.",
+      "C) destaque a grupos populares na condição de protagonistas.",
+      "D) processo de inclusão do palavrão nos hábitos de linguagem.",
+      "E) vínculo entre as transformações urbanas e os papéis femininos."
+    ],
+    "year": "2018",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "28"
+  },
+  {
+    "description": "QUESTÃO 26) Tanto os Jogos Olímpicos quanto os Paralímpicos são mais que uma corrida por recordes, medalhas e busca da excelência. Por trás deles está a filosofia do barão Pierre de Coubertin, fundador do Movimento Olímpico. Como educador, ele viu nos Jogos a oportunidade para que os povos desenvolvessem valores, que poderiam ser aplicados não somente ao esporte, mas à educação e à sociedade. Existem atualmente sete valores associados aos Jogos. Os valores olímpicos são: a amizade, a excelência e o respeito, enquanto os valores paralímpicos são: a determinação, a coragem, a igualdade e a inspiração.\nNo contexto das aulas de Educação Física escolar, os valores olímpicos e paralímpicos podem ser identificados quando o colega",
+    "alternatives": [
+      "A) procura entender o próximo, assumindo atitudes positivas como simpatia, empatia, honestidade, compaixão, confiança e solidariedade, o que caracteriza o valor da igualdade.",
+      "B) faz com que todos possam ser iguais e receber o mesmo tratamento, assegurando imparcialidade, oportunidades e tratamentos iguais para todos, o que caracteriza o valor da amizade.",
+      "C) dá o melhor de si na vivência das diversas atividades relacionadas ao esporte ou aos jogos, participando e progredindo de acordo com seus objetivos, o que caracteriza o valor da coragem.",
+      "D) manifesta a habilidade de enfrentar a dor, o sofrimento, o medo, a incerteza e a intimidação nas atividades, agindo corretamente contra a vergonha, a desonra e o desânimo, o que caracteriza o valor da determinação.",
+      "E) inclui em suas ações o fair play (jogo limpo), a honestidade, o sentimento positivo de consideração por outra pessoa, o conhecimento dos seus limites, a valorização de sua própria saúde e o combate ao doping, o que caracteriza o valor do respeito."
+    ],
+    "year": "2018",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "31"
+  },
+  {
+    "description": "QUESTÃO 27) Mais big do que bang A comunidade científica mundial recebeu, na semana passada, a confirmação oficial de uma descoberta sobre a qual se falava com enorme expectativa há alguns meses. Pesquisadores do Centro de Astrofísica Harvard-Smithsonian revelaram ter obtido a mais forte evidência até agora de que o universo em que vivemos começou mesmo pelo Big Bang, mas este não foi explosão, e sim uma súbita expansão de matéria e energia infinitas concentradas em um ponto microscópico que, sem muitas opções semânticas, os cientistas chamam de “singularidade”. Essa semente cósmica permanecia em estado latente e, sem que exista ainda uma explicação definitiva, começou a inchar rapidamente [...]. No intervalo de um piscar de olhos, por exemplo, seria possível, portanto, que ocorressem mais de 10 trilhões de Big Bangs.\nNo título proposto para esse texto de divulgação científica, ao dissociar os elementos da expressão Big Bang, a autora revela a intenção de",
+    "alternatives": [
+      "A) evidenciar a descoberta recente que comprova a explosão de matéria e energia.",
+      "B) resumir os resultados de uma pesquisa que trouxe evidências para a teoria do Big Bang.",
+      "C) sintetizar a ideia de que a teoria da expansão de matéria e energia substitui a teoria da explosão.",
+      "D) destacar a experiência que confirma uma investigação anterior sobre a teoria de matéria e energia.",
+      "E) condensar a conclusão de que a explosão de matéria e energia ocorre em um ponto microscópico."
+    ],
+    "year": "2018",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "32"
+  },
+  {
+    "description": "QUESTÃO 28) Nessa campanha, a principal estratégia para convencer o leitor a fazer a reciclagem do lixo é a utilização da linguagem não verbal como argumento para",
+    "alternatives": [
+      "A) reaproveitamento de material.",
+      "B) facilidade na separação do lixo.",
+      "C) melhoria da condição do catador.",
+      "D) preservação de recursos naturais.",
+      "E) geração de renda para o trabalhador."
+    ],
+    "year": "2018",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "33"
+  },
+  {
+    "description": "QUESTÃO 31) A história do futebol é uma triste viagem do prazer ao dever. [...] O jogo se transformou em espetáculo, com poucos protagonistas e muitos espectadores, futebol para olhar, e o espetáculo se transformou num dos negócios mais lucrativos do mundo, que não é organizado para ser jogado, mas para impedir que se jogue. A tecnocracia do esporte profissional foi impondo um futebol de pura velocidade e muita força, que renuncia à alegria, atrofia a fantasia e proíbe a ousadia. Por sorte ainda aparece nos campos, [...] algum atrevido que sai do roteiro e comete o disparate de driblar o time adversário inteirinho, além do juiz e do público das arquibancadas, pelo puro prazer do corpo que se lança na proibida aventura da liberdade.\nO texto indica que as mudanças nas práticas corporais, especificamente no futebol,",
+    "alternatives": [
+      "A) fomentaram uma tecnocracia, promovendo uma vivência mais lúdica e irreverente.",
+      "B) promoveram o surgimento de atletas mais habilidosos, para que fossem inovadores.",
+      "C) incentivaram a associação dessa manifestação à fruição, favorecendo o improviso.",
+      "D) tornaram a modalidade em um produto a ser consumido, negando sua dimensão criativa.",
+      "E) contribuíram para esse esporte ter mais jogadores, bem como acompanhado de torcedores."
+    ],
+    "year": "2018",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "36"
+  },
+  {
+    "description": "QUESTÃO 32) O grupo O Teatro Mágico apresenta composições autorais que têm referências estéticas do rock, do pop e da música folclórica brasileira. A originalidade dos seus shows tem relação com a ópera europeia do século XIX a partir da",
+    "alternatives": [
+      "A) disposição cênica dos artistas no espaço teatral.",
+      "B) integração de diversas linguagens artísticas.",
+      "C) sobreposição entre música e texto literário.",
+      "D) manutenção de um diálogo com o público.",
+      "E) adoção de um enredo como fio condutor."
+    ],
+    "year": "2018",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "37"
+  },
+  {
+    "description": "QUESTÃO 38) Certa vez minha mãe surrou-me com uma corda nodosa que me pintou as costas de manchas sangrentas. Moído, virando a cabeça com dificuldade, eu distinguia nas costelas grandes lanhos vermelhos. Deitaram-me, enrolaram-me em panos molhados com água de sal – e houve uma discussão na família. Minha avó, que nos visitava, condenou o procedimento da filha e esta afligiu-se. Irritada, ferira-me à toa, sem querer. Não guardei ódio a minha mãe: o culpado era o nó.\nRAMOS, G. Infância. Rio de Janeiro: Record, 1998.\nNum texto narrativo, a sequência dos fatos contribui para a progressão temática. No fragmento, esse processo é indicado pela",
+    "alternatives": [
+      "A) alternância das pessoas do discurso que determinam o foco narrativo.",
+      "B) utilização de formas verbais que marcam tempos narrativos variados.",
+      "C) indeterminação dos sujeitos de ações que caracterizam os eventos narrados.",
+      "D) justaposição de frases que relacionam semanticamente os acontecimentos narrados.",
+      "E) recorrência de expressões adverbiais que organizam temporalmente a narrativa."
+    ],
+    "year": "2018",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "43"
+  },
+  {
+    "description": "QUESTÃO 43) Encontrando base em argumentos supostamente científicos, o mito do sexo frágil contribuiu historicamente para controlar as práticas corporais desempenhadas pelas mulheres. Na história do Brasil, exatamente na transição entre os séculos XIX e XX, destacam-se os esforços para impedir a participação da mulher no campo das práticas esportivas. As desconfianças em relação à presença da mulher no esporte estiveram culturalmente associadas ao medo de masculinizar o corpo feminino pelo esforço físico intenso. Em relação ao futebol feminino, o mito do sexo frágil atuou como obstáculo ao consolidar a crença de que o esforço físico seria inapropriado para proteger a feminilidade da mulher “normal”. Tal mito sustentou um forte movimento contrário à aceitação do futebol como prática esportiva feminina. Leis e propagandas buscaram desacreditar o futebol, considerando-o inadequado à delicadeza. Na verdade, as mulheres eram consideradas incapazes de se adequar às múltiplas dificuldades do “esporte-rei”.\nTEIXEIRA, F. L. S.; CAMINHA, I. O. Preconceito no futebol feminino: uma revisão sistemática. No contexto apresentado, a relação entre a prática do futebol e as mulheres é caracterizada por um",
+    "alternatives": [
+      "A) argumento biológico para justificar desigualdades históricas e sociais.",
+      "B) discurso midiático que atua historicamente na desconstrução do mito do sexo frágil.",
+      "C) apelo para a preservação do futebol como uma modalidade praticada apenas pelos homens.",
+      "D) olhar feminista que qualifica o futebol como uma atividade masculinizante para as mulheres.",
+      "E) receio de que sua inserção subverta o “esporte-rei” ao demonstrarem suas capacidades de jogo."
+    ],
+    "year": "2018",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "48"
+  },
+  {
+    "description": "QUESTÃO 44) Farejador de Plágio: uma ferramenta contra a cópia ilegal No mundo acadêmico ou nos veículos de comunicação, as cópias ilegais podem surgir de diversas maneiras, sendo integrais, parciais ou paráfrases. Para ajudar a combater esse crime, o professor Maximiliano Zambonatto Pezzin, engenheiro de computação, desenvolveu junto com os seus alunos o programa Farejador de Plágio.\nO programa é capaz de detectar: trechos contínuos e fragmentados, frases soltas, partes de textos reorganizadas, frases reescritas, mudanças na ordem dos períodos e erros fonéticos e sintáticos.\nMas como o programa realmente funciona? Considerando o texto como uma sequência de palavras, a ferramenta analisa e busca trecho por trecho nos sites de busca, assim como um professor desconfiado de um aluno faria. A diferença é que o programa permite que se pesquise em vários buscadores, gerando assim muito mais resultados.\nSegundo o texto, a ferramenta Farejador de Plágio alcança seu objetivo por meio da",
+    "alternatives": [
+      "A) seleção de cópias integrais.",
+      "B) busca em sites especializados.",
+      "C) simulação da atividade docente.",
+      "D) comparação de padrões estruturais.",
+      "E) identificação de sequência de fonemas."
+    ],
+    "year": "2018",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "49"
+  },
+  {
+    "description": "QUESTÃO 48) A tribo não possui um rei, mas um chefe que não é chefe de Estado. O que significa isso? Simplesmente que o chefe não dispõe de nenhuma autoridade, de nenhum poder de coerção, de nenhum meio de dar uma ordem. O chefe não é um comandante, as pessoas da tribo não têm nenhum dever de obediência. O espaço da chefia não é o lugar do poder. Essencialmente encarregado de eliminar conflitos que podem surgir entre indivíduos, famílias e linhagens, o chefe só dispõe, para restabelecer a ordem e a concórdia, do prestígio que lhe reconhece a sociedade. Mas evidentemente prestígio não significa poder, e os meios que o chefe detém para realizar sua tarefa de pacificador limitam-se ao uso exclusivo da palavra.\nCLASTRES, P. A sociedade contra o Estado. O modelo político das sociedades discutidas no texto contrasta com o do Estado liberal burguês porque se baseia em:",
+    "alternatives": [
+      "A) Imposição ideológica e normas hierárquicas.",
+      "B) Determinação divina e soberania monárquica.",
+      "C) Intervenção consensual e autonomia comunitária.",
+      "D) Mediação jurídica e regras contratualistas.",
+      "E) Gestão coletiva e obrigações tributárias."
+    ],
+    "year": "2018",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "53"
+  },
+  {
+    "description": "QUESTÃO 49) O filósofo reconhece-se pela posse inseparável do gosto da evidência e do sentido da ambiguidade. Quando se limita a suportar a ambiguidade, esta se chama equívoco. Sempre aconteceu que, mesmo aqueles que pretenderam construir uma filosofia absolutamente positiva, só conseguiram ser filósofos na medida em que, simultaneamente, se recusaram o direito de se instalar no saber absoluto. O que caracteriza o filósofo é o movimento que leva incessantemente do saber à ignorância, da ignorância ao saber, e um certo repouso neste movimento.\nMERLEAU-PONTY, M. Elogio da filosofia. O texto apresenta um entendimento acerca dos elementos constitutivos da atividade do filósofo, que se caracteriza por",
+    "alternatives": [
+      "A) reunir os antagonismos das opiniões ao método dialético.",
+      "B) ajustar a clareza do conhecimento ao inatismo das ideias.",
+      "C) associar a certeza do intelecto à imutabilidade da verdade.",
+      "D) conciliar o rigor da investigação à inquietude do questionamento.",
+      "E) compatibilizar as estruturas do pensamento aos princípios fundamentais."
+    ],
+    "year": "2018",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "54"
+  },
+  {
+    "description": "QUESTÃO 51) Desde que tenhamos compreendido o significado da palavra “Deus”, sabemos, de imediato, que Deus existe. Com efeito, essa palavra designa uma coisa de tal ordem que não podemos conceber nada que lhe seja maior. Ora, o que existe na realidade e no pensamento é maior do que o que existe apenas no pensamento. Donde se segue que o objeto designado pela palavra “Deus”, que existe no pensamento, desde que se entenda essa palavra, também existe na realidade. Por conseguinte, a existência de Deus é evidente.\nTOMÁS DE AQUINO. Suma teológica. Rio de Janeiro: Loyola, 2002.\nO texto apresenta uma elaboração teórica de Tomás de Aquino caracterizada por",
+    "alternatives": [
+      "A) reiterar a ortodoxia religiosa contra os heréticos.",
+      "B) sustentar racionalmente doutrina alicerçada na fé.",
+      "C) explicar as virtudes teologais pela demonstração.",
+      "D) flexibilizar a interpretação oficial dos textos sagrados.",
+      "E) justificar pragmaticamente crença livre de dogmas."
+    ],
+    "year": "2018",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "56"
+  },
+  {
+    "description": "QUESTÃO 52) TEXTO I Tudo aquilo que é válido para um tempo de guerra, em que todo homem é inimigo de todo homem, é válido também para o tempo durante o qual os homens vivem sem outra segurança senão a que lhes pode ser oferecida por sua própria força e invenção.\nHOBBES, T. Leviatã. São Paulo: Abril Cultural, 1983.\nTEXTO II Não vamos concluir, com Hobbes que, por não ter nenhuma ideia de bondade, o homem seja naturalmente mau. Esse autor deveria dizer que, sendo o estado de natureza aquele em que o cuidado de nossa conservação é menos prejudicial à dos outros, esse estado era, por conseguinte, o mais próprio à paz e o mais conveniente ao gênero humano.\nROUSSEAU, J.-J. Discurso sobre a origem e o fundamento da desigualdade entre os Os trechos apresentam divergências conceituais entre autores que sustentam um entendimento segundo o qual a igualdade entre os homens se dá em razão de uma",
+    "alternatives": [
+      "A) predisposição ao conhecimento.",
+      "B) submissão ao transcendente.",
+      "C) tradição epistemológica.",
+      "D) condição original.",
+      "E) vocação política."
+    ],
+    "year": "2018",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "57"
+  },
+  {
+    "description": "QUESTÃO 53) Foi-se o tempo em que era possível mostrar um mundo econômico organizado em camadas bem definidas, onde grandes centros urbanos se ligavam, por si próprios, a economias adjacentes “lentas”, com o ritmo muito mais rápido do comércio e das finanças de longo alcance. Hoje tudo ocorre como se essas camadas sobrepostas estivessem mescladas e interpermeadas. Interdependências de curto e longo alcance não podem mais ser separadas umas das outras.\nBRENNER, N. A globalização como reterritorialização. Cadernos Metrópole, A maior complexidade dos espaços urbanos contemporâneos ressaltada no texto explica-se pela",
+    "alternatives": [
+      "A) expansão de áreas metropolitanas.",
+      "B) emancipação de novos municípios.",
+      "C) consolidação de domínios jurídicos.",
+      "D) articulação de redes multiescalares.",
+      "E) redefinição de regiões administrativas."
+    ],
+    "year": "2018",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "58"
+  },
+  {
+    "description": "QUESTÃO 54) TEXTO I E pois que em outra cousa nesta parte me não posso vingar do demônio, admoesto da parte da cruz de Cristo Jesus a todos que este lugar lerem, que deem a esta terra o nome que com tanta solenidade lhe foi posto, sob pena de a mesma cruz que nos há de ser mostrada no dia final, os acusar de mais devotos do pau-brasil que dela.\nBARROS, J. In: SOUZA, L. M. Inferno atlântico: demonologia e colonização: séculos XVI-XVIII. São Paulo: Cia. das Letras, 1993.\nTEXTO II E deste modo se hão os povoadores, os quais, por mais arraigados que na terra estejam e mais ricos que sejam, tudo pretendem levar a Portugal, e, se as fazendas e bens que possuem souberam falar, também lhes houveram de ensinar a dizer como os papagaios, aos quais a primeira coisa que ensinam é: papagaio real para Portugal, porque tudo querem para lá.\nSALVADOR, F. V. In: SOUZA, L. M. (Org.). História da vida privada no Brasil: cotidiano e vida privada na América portuguesa. São Paulo: Cia. das Letras, 1997.\nAs críticas desses cronistas ao processo de colonização portuguesa na América estavam relacionadas à",
+    "alternatives": [
+      "A) utilização do trabalho escravo.",
+      "B) implantação de polos urbanos.",
+      "C) devastação de áreas naturais.",
+      "D) ocupação de terras indígenas.",
+      "E) expropriação de riquezas locais."
+    ],
+    "year": "2018",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "59"
+  },
+  {
+    "description": "QUESTÃO 55) Os soviéticos tinham chegado a Cuba muito cedo na década de 1960, esgueirando-se pela fresta aberta pela imediata hostilidade norte-americana em relação ao processo social revolucionário. Durante três décadas os soviéticos mantiveram sua presença em Cuba com bases e ajuda militar, mas, sobretudo, com todo o apoio econômico que, como saberíamos anos mais tarde, mantinha o país à tona, embora nos deixasse em dívida com os irmãos soviéticos – e depois com seus herdeiros russos – por cifras que chegavam a US$ 32 bilhões. Ou seja, o que era oferecido em nome da solidariedade socialista tinha um preço definido.\nPADURA, L. Cuba e os russos. Folha de São Paulo, O texto indica que durante a Guerra Fria as relações internas em um mesmo bloco foram marcadas pelo(a)",
+    "alternatives": [
+      "A) busca da neutralidade política.",
+      "B) estímulo à competição comercial.",
+      "C) subordinação à potência hegemônica.",
+      "D) elasticidade das fronteiras geográficas.",
+      "E) compartilhamento de pesquisas científicas."
+    ],
+    "year": "2018",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "60"
+  },
+  {
+    "description": "QUESTÃO 57) A poetisa Emília Freitas subiu a um palanque, nervosa, pedindo desculpas por não possuir títulos nem conhecimentos, mas orgulhosa ofereceu a sua pena que “sem ser hábil, é, em compensação, guiada pelo poder da vontade”. Maria Tomásia pronunciava orações que levantavam os ouvintes. A escritora Francisca Clotilde arrebatava, declamando seus poemas. Aquelas “angélicas senhoras”, “heroínas da caridade”, levantavam dinheiro para comprar liberdades e usavam de seu entusiasmo a fim de convencer os donos de escravos a fazerem alforrias gratuitamente.\nAs práticas culturais narradas remetem, historicamente, ao movimento",
+    "alternatives": [
+      "A) feminista.",
+      "B) sufragista.",
+      "C) socialista.",
+      "D) republicano.",
+      "E) abolicionista."
+    ],
+    "year": "2018",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "62"
+  },
+  {
+    "description": "QUESTÃO 59) A rebelião luso-brasileira em Pernambuco começou a ser urdida em 1644 e explodiu em 13 de junho de 1645, dia de Santo Antônio. Uma das primeiras medidas de João Fernandes foi decretar nulas as dívidas que os rebeldes tinham com os holandeses. Houve grande adesão da “nobreza da terra”, entusiasmada com esta proclamação heroica.\nVAINFAS, R. Guerra declarada e paz fingida na restauração portuguesa. Tempo, n. 27, 2009.\nO desencadeamento dessa revolta na América portuguesa seiscentista foi o resultado do(a)",
+    "alternatives": [
+      "A) fraqueza bélica dos protestantes batavos.",
+      "B) comércio transatlântico da África ocidental.",
+      "C) auxílio financeiro dos negociantes flamengos.",
+      "D) diplomacia internacional dos Estados ibéricos.",
+      "E) interesse econômico dos senhores de engenho."
+    ],
+    "year": "2018",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "64"
+  },
+  {
+    "description": "QUESTÃO 60) Em Beirute, no Líbano, quando perguntado sobre onde se encontram os refugiados sírios, a resposta do homem é imediata: “em todos os lugares e em lugar nenhum”. Andando ao acaso, não é raro ver, sob um prédio ou num canto de calçada, ao abrigo do vento, uma família refugiada em volta de uma refeição frugal posta sobre jornais como se fossem guardanapos. Também se vê de vez em quando uma tenda com a sigla ACNUR (Alto Comissariado das Nações Unidas para Refugiados), erguida em um dos raros terrenos vagos da capital.\nJABER, H. Quem realmente acolhe os refugiados? O cenário descrito aponta para uma crise humanitária que é explicada pelo processo de",
+    "alternatives": [
+      "A) migração massiva de pessoas atingidas por catástrofe natural.",
+      "B) hibridização cultural de grupos caracterizados por homogeneidade social.",
+      "C) desmobilização voluntária de militantes cooptados por seitas extremistas.",
+      "D) peregrinação religiosa de fiéis orientados por lideranças fundamentalistas.",
+      "E) desterritorialização forçada de populações afetadas por conflitos armados."
+    ],
+    "year": "2018",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "65"
+  },
+  {
+    "description": "QUESTÃO 62) A situação demográfica de Israel é muito particular. Desde 1967, a esquerda sionista afirma que Israel deveria se desfazer rapidamente da Cisjordânia e da Faixa de Gaza, argumentando a partir de uma lógica demográfica aparentemente inexorável. Devido à taxa de nascimento árabe ser muito mais elevada, a anexação dos territórios palestinos, formal ou informal, acarretaria dentro de uma ou duas gerações uma maioria árabe “entre o rio e o mar”.\nDEMANT, P. Israel: a crise próxima. História, n. 2, jul.-dez. 2014.\nA preocupação apresentada no texto revela um aspecto da condução política desse Estado identificado ao(à)",
+    "alternatives": [
+      "A) abdicação da interferência militar em conflito local.",
+      "B) busca da preeminência étnica sobre o espaço nacional.",
+      "C) admissão da participação proativa em blocos regionais.",
+      "D) rompimento com os interesses geopolíticos das potências globais.",
+      "E) compromisso com as resoluções emanadas dos organismos internacionais."
+    ],
+    "year": "2018",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "67"
+  },
+  {
+    "description": "QUESTÃO 63) Trajetória de ciclones tropicais Qual característica do meio físico é condição necessária para a distribuição espacial do fenômeno representado?",
+    "alternatives": [
+      "A) Cobertura vegetal com porte arbóreo.",
+      "B) Barreiras orográficas com altitudes elevadas.",
+      "C) Pressão atmosférica com diferença acentuada.",
+      "D) Superfície continental com refletividade intensa.",
+      "E) Correntes marinhas com direções convergentes."
+    ],
+    "year": "2018",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "68"
+  },
+  {
+    "description": "QUESTÃO 64) Outra importante manifestação das crenças e tradições africanas na Colônia eram os objetos conhecidos como “bolsas de mandinga”. A insegurança tanto física como espiritual gerava uma necessidade generalizada de proteção: das catástrofes da natureza, das doenças, da má sorte, da violência dos núcleos urbanos, dos roubos, das brigas, dos malefícios de feiticeiros etc. Também para trazer sorte, dinheiro e até atrair mulheres, o costume era corrente nas primeiras décadas do século XVIII, envolvendo não apenas escravos, mas também homens brancos.\n CALAINHO, D. B. Feitiços e feiticeiros. In: FIGUEIREDO, L. História do Brasil para ocupados. A prática histórico-cultural de matriz africana descrita no texto representava um(a)",
+    "alternatives": [
+      "A) expressão do valor das festividades da população pobre.",
+      "B) ferramenta para submeter os cativos ao trabalho forçado.",
+      "C) estratégia de subversão do poder da monarquia portuguesa.",
+      "D) elemento de conversão dos escravos ao catolicismo romano.",
+      "E) instrumento para minimizar o sentimento de desamparo social."
+    ],
+    "year": "2018",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "69"
+  },
+  {
+    "description": "QUESTÃO 65) Os portos sempre foram respostas ao comércio praticado em grande volume, que se dá via marítima, lacustre e fluvial, e sofreram adaptações, ou modernizações, de acordo com um conjunto de fatores que vão desde a sua localização privilegiada frente a extensas hinterlândias, passando por sua conectividade com modernas redes de transportes que garantam acessibilidade, associados, no atual momento, à tecnologia, que os transformam em pontas de lança de uma economia globalizada que comprime o tempo em nome da produtividade e da competitividade.\nROCHA NETO, J. M.; CRAVIDÃO, F. D. Portos no contexto do meio técnico. Uma mudança que permitiu aos portos adequarem-se às novas necessidades comerciais apontadas no texto foi a",
+    "alternatives": [
+      "A) intensificação do uso de contêineres.",
+      "B) compactação das áreas de estocagem.",
+      "C) burocratização dos serviços de alfândega.",
+      "D) redução da profundidade dos atracadouros.",
+      "E) superação da especialização dos cargueiros."
+    ],
+    "year": "2018",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "70"
+  },
+  {
+    "description": "QUESTÃO 66) O século XVIII é, por diversas razões, um século diferenciado. Razão e experimentação se aliavam no que se acreditava ser o verdadeiro caminho para o estabelecimento do conhecimento científico, por tanto tempo almejado. O fato, a análise e a indução passavam a ser parceiros fundamentais da razão. É ainda no século XVIII que o homem começa a tomar consciência de sua situação na história.\nODALIA, N. In: PINSKY, J.; PINSKY, C. B. História da cidadania. São Paulo: Contexto, 2003.\nNo ambiente cultural do Antigo Regime, a discussão filosófica mencionada no texto tinha como uma de suas características a",
+    "alternatives": [
+      "A) aproximação entre inovação e saberes antigos.",
+      "B) conciliação entre revelação e metafísica platônica.",
+      "C) vinculação entre escolástica e práticas de pesquisa.",
+      "D) separação entre teologia e fundamentalismo religioso.",
+      "E) contraposição entre clericalismo e liberdade de pensamento."
+    ],
+    "year": "2018",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "71"
+  },
+  {
+    "description": "QUESTÃO 68) O encontro entre o Velho e o Novo Mundo, que a descoberta de Colombo tornou possível, é de um tipo muito particular: é uma guerra – ou a Conquista –, como se dizia então. E um mistério continua: o resultado do combate. Por que a vitória fulgurante, se os habitantes da América eram tão superiores em número aos adversários e lutaram no próprio solo? Se nos limitarmos à conquista do México – a mais espetacular, já que a civilização mexicana é a mais brilhante do mundo pré-colombiano – como explicar que Cortez, liderando centenas de homens, tenha conseguido tomar o reino de Montezuma, que dispunha de centenas de milhares de guerreiros? No contexto da conquista, conforme análise apresentada no texto, uma estratégia para superar as disparidades levantadas foi",
+    "alternatives": [
+      "A) implantar as missões cristãs entre as comunidades submetidas.",
+      "B) utilizar a superioridade física dos mercenários africanos.",
+      "C) explorar as rivalidades existentes entre os povos nativos.",
+      "D) introduzir vetores para a disseminação de doenças epidêmicas.",
+      "E) comprar terras para o enfraquecimento das teocracias autóctones."
+    ],
+    "year": "2018",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "73"
+  },
+  {
+    "description": "QUESTÃO 69) São Paulo, 10 de janeiro de 1979.\nExmo. Sr. Presidente Ernesto Geisel.\nConsiderando as instruções dadas por V. S. de que sejam negados os passaportes aos senhores Francisco Julião, Miguel Arraes, Leonel Brizola, Luis Prestes, Paulo Schilling, Gregório Bezerra, Márcio Moreira Alves e Paulo Freire.\nConsiderando que, desde que nasci, me identifico plenamente com a pele, a cor dos cabelos, a cultura, o sorriso, as aspirações, a história e o sangue destes oito senhores.\nConsiderando tudo isto, por imperativo de minha consciência, venho por meio desta devolver o passaporte que, negado a eles, me foi concedido pelos órgãos competentes de seu governo.\nCarta do cartunista Henrique de Souza Filho, conhecido como Henfil. In: HENFIL. No referido contexto histórico, a manifestação do cartunista Henfil expressava uma crítica ao(à)",
+    "alternatives": [
+      "A) censura moral das produções culturais.",
+      "B) limite do processo de distensão política.",
+      "C) interferência militar de países estrangeiros.",
+      "D) representação social das agremiações partidárias.",
+      "E) impedimento de eleição das assembleias estaduais."
+    ],
+    "year": "2018",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "74"
+  },
+  {
+    "description": "QUESTÃO 70) A primeira fase da dominação da economia sobre a vida social acarretou, no modo de definir toda realização humana, uma evidente degradação do ser para o ter. A fase atual, em que a vida social está totalmente tomada pelos resultados da economia, leva a um deslizamento generalizado do ter para o parecer, do qual todo ter efetivo deve extrair seu prestígio imediato e sua função última. Ao mesmo tempo, toda realidade individual tornou-se social, diretamente dependente da força social, moldada por ela.\nDEBORD, G. A sociedade do espetáculo. Rio de Janeiro: Contraponto, 2015.\nUma manifestação contemporânea do fenômeno descrito no texto é o(a)",
+    "alternatives": [
+      "A) valorização dos conhecimentos acumulados.",
+      "B) exposição nos meios de comunicação.",
+      "C) aprofundamento da vivência espiritual.",
+      "D) fortalecimento das relações interpessoais.",
+      "E) reconhecimento na esfera artística."
+    ],
+    "year": "2018",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "75"
+  },
+  {
+    "description": "QUESTÃO 71) Os seus líderes terminaram presos e assassinados. A “marujada” rebelde foi inteiramente expulsa da esquadra. Num sentido histórico, porém, eles foram vitoriosos. A “chibata” e outros castigos físicos infamantes nunca mais foram oficialmente utilizados; a partir de então, os marinheiros – agora respeitados – teriam suas condições de vida melhoradas significativamente. Sem dúvida fizeram avançar a História.\nMAESTRI, M. 1910: a revolta dos marinheiros – uma saga negra. São Paulo: Global, 1982.\nA eclosão desse conflito foi resultado da tensão acumulada na Marinha do Brasil pelo(a)",
+    "alternatives": [
+      "A) engajamento de civis analfabetos após a emergência de guerras externas.",
+      "B) insatisfação de militares positivistas após a consolidação da política dos governadores.",
+      "C) rebaixamento de comandantes veteranos após a repressão a insurreições milenaristas.",
+      "D) sublevação das classes populares do campo após a instituição do alistamento obrigatório.",
+      "E) manutenção da mentalidade escravocrata da oficialidade após a queda do regime imperial."
+    ],
+    "year": "2018",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "76"
+  },
+  {
+    "description": "QUESTÃO 75) Os países industriais adotaram uma concepção diferente das relações familiares e do lugar da fecundidade na vida familiar e social. A preocupação de garantir uma transmissão integral das vantagens econômicas e sociais adquiridas tem como resultado uma ação voluntária de limitação do número de nascimentos.\nEm meados do século XX, o fenômeno social descrito contribuiu para o processo europeu de",
+    "alternatives": [
+      "A) estabilização da pirâmide etária.",
+      "B) conclusão da transição demográfica.",
+      "C) contenção da entrada de imigrantes.",
+      "D) elevação do crescimento vegetativo.",
+      "E) formação de espaços superpovoados."
+    ],
+    "year": "2018",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "80"
+  },
+  {
+    "description": "QUESTÃO 76) Código Penal dos Estados Unidos do Brasil, 1890 Dos crimes contra a saúde pública Art. 156. Exercer a medicina em qualquer dos seus ramos, a arte dentária ou a farmácia; praticar a homeopatia, a dosimetria, o hipnotismo ou magnetismo animal, sem estar habilitado segundo as leis e regulamentos.\nArt. 158. Ministrar, ou simplesmente prescrever, como meio curativo para uso interno ou externo, e sob qualquer forma preparada, substância de qualquer dos reinos da natureza, fazendo, ou exercendo assim, o ofício denominado curandeiro.\nNo início da Primeira República, a legislação penal vigente evidenciava o(a)",
+    "alternatives": [
+      "A) negligência das religiões cristãs sobre as moléstias.",
+      "B) desconhecimento das origens das crenças tradicionais.",
+      "C) preferência da população pelos tratamentos alopáticos.",
+      "D) abandono pela comunidade das práticas terapêuticas de magia.",
+      "E) condenação pela ciência dos conhecimentos populares de cura."
+    ],
+    "year": "2018",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "81"
+  },
+  {
+    "description": "QUESTÃO 77) A presunção de que a superfície das chapadas e chapadões representa uma velha peneplanície é corroborada pelo fato de que ela é coberta por acumulações superficiais, tais como massas de areia, camadas de cascalhos e seixos e pela ocorrência generalizada de concreções ferruginosas que formam uma crosta laterítica, denominada “canga”.\nQual tipo climático favorece o processo de alteração do solo descrito no texto?",
+    "alternatives": [
+      "A) Árido, com déficit hídrico.",
+      "B) Subtropical, com baixas temperaturas.",
+      "C) Temperado, com invernos frios e secos.",
+      "D) Tropical, com sazonalidade das chuvas.",
+      "E) Equatorial, com pluviosidade abundante."
+    ],
+    "year": "2018",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "82"
+  },
+  {
+    "description": "QUESTÃO 78) O marco inicial das discussões parlamentares em torno do direito do voto feminino são os debates que antecederam a Constituição de 1824, que não trazia qualquer impedimento ao exercício dos direitos políticos por mulheres, mas, por outro lado, também não era explícita quanto à possibilidade desse exercício. Foi somente em 1932, dois anos antes de estabelecido o voto aos 18 anos, que as mulheres obtiveram o direito de votar, o que veio a se concretizar no ano seguinte. Isso ocorreu a partir da aprovação do Código Eleitoral de 1932.\nUm dos fatores que contribuíram para a efetivação da medida mencionada no texto foi a",
+    "alternatives": [
+      "A) superação da cultura patriarcal.",
+      "B) influência de igrejas protestantes.",
+      "C) pressão do governo revolucionário.",
+      "D) fragilidade das oligarquias regionais.",
+      "E) campanha de extensão da cidadania."
+    ],
+    "year": "2018",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "83"
+  },
+  {
+    "description": "QUESTÃO 79) A quem não basta pouco, nada basta.\nEPICURO. Os pensadores. São Paulo: Abril Cultural, 1985.\nRemanescente do período helenístico, a máxima apresentada valoriza a seguinte virtude:",
+    "alternatives": [
+      "A) Esperança, tida como confiança no porvir.",
+      "B) Justiça, interpretada como retidão de caráter.",
+      "C) Temperança, marcada pelo domínio da vontade.",
+      "D) Coragem, definida como fortitude na dificuldade.",
+      "E) Prudência, caracterizada pelo correto uso da razão."
+    ],
+    "year": "2018",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "84"
+  },
+  {
+    "description": "QUESTÃO 80) Em algumas línguas de Moçambique não existe a palavra “pobre”. O indivíduo é pobre quando não tem parentes. A pobreza é a solidão, a ruptura das relações familiares que, na sociedade rural, servem de apoio à sobrevivência. Os consultores internacionais, especialistas em elaborar relatórios sobre a miséria, talvez não tenham em conta o impacto dramático da destruição dos laços familiares e das relações de entreajuda. Nações inteiras estão tornando-se “órfãs”, e a mendicidade parece ser a única via de uma agonizante sobrevivência.\nCOUTO, M. E se Obama fosse africano? & outras intervenções. Em uma leitura que extrapola a esfera econômica, o autor associa o acirramento da pobreza à",
+    "alternatives": [
+      "A) afirmação das origens ancestrais.",
+      "B) fragilização das redes de sociabilidade.",
+      "C) padronização das políticas educacionais.",
+      "D) fragmentação das propriedades agrícolas.",
+      "E) globalização das tecnologias de comunicação."
+    ],
+    "year": "2018",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "85"
+  },
+  {
+    "description": "QUESTÃO 81) TEXTO I As fronteiras, ao mesmo tempo que se separam, unem e articulam, por elas passando discursos de legitimação da ordem social tanto quanto do conflito.\nCUNHA, L. Terras lusitanas e gentes dos brasis: a nação e o seu retrato literário. Revista Ciências Sociais, n. 2, 2009.\nTEXTO II As últimas barreiras ao livre movimento do dinheiro e das mercadorias e informação que rendem dinheiro andam de mãos dadas com a pressão para cavar novos fossos e erigir novas muralhas que barrem o movimento daqueles que em consequência perdem, física ou espiritualmente, suas raízes.\nBAUMAN, Z. Globalização: as consequências humanas. Rio de Janeiro: Jorge Zahar, 1999.\nA ressignificação contemporânea da ideia de fronteira compreende a",
+    "alternatives": [
+      "A) liberação da circulação de pessoas.",
+      "B) preponderância dos limites naturais.",
+      "C) supressão dos obstáculos aduaneiros.",
+      "D) desvalorização da noção de nacionalismo.",
+      "E) seletividade dos mecanismos segregadores."
+    ],
+    "year": "2018",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "86"
+  },
+  {
+    "description": "QUESTÃO 82) TEXTO I Há mais de duas décadas, os cientistas e ambientalistas têm alertado para o fato de a água doce ser um recurso escasso em nosso planeta. Desde o começo de 2014, o Sudeste do Brasil adquiriu uma clara percepção dessa realidade em função da seca.\nTEXTO II Dinâmicas atmosféricas no Brasil Elementos relevantes ao transporte de umidade na América do Sul a leste dos Andes pelos Jatos de Baixos Níveis (JBN), Frentes Frias (FF) e transporte de umidade do Atlântico Sul, assim como a presença da Zona de Convergência do Atlântico Sul (ZCAS), para um verão normal e para o verão seco de 2014. “A” representa o centro da anomalia de alta pressão atmosférica.\nSolo úmido ZCAS JBN 0° 20° S 40° S 60° W Verão normal FF Fluxo do Oceano Atlântico Solo seco JBN 0° 20° S 40° S 60° W Verão de 2014 FF Fluxo do Oceano Atlântico Amazônia Amazônia De acordo com as informações apresentadas, a seca de 2014, no Sudeste, teve como causa natural o(a)",
+    "alternatives": [
+      "A) constituição de frentes quentes barrando as chuvas convectivas.",
+      "B) formação de anticiclone impedindo a entrada de umidade.",
+      "C) presença de nebulosidade na região de cordilheira.",
+      "D) avanço de massas polares para o continente.",
+      "E) baixa pressão atmosférica no litoral."
+    ],
+    "year": "2018",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "87"
+  },
+  {
+    "description": "QUESTÃO 83) Não é verdade que estão ainda cheios de velhice espiritual aqueles que nos dizem: “Que fazia Deus antes de criar o céu e a terra? Se estava ocioso e nada realizava”, dizem eles, “por que não ficou sempre assim no decurso dos séculos, abstendo-se, como antes, de toda ação? Se existiu em Deus um novo movimento, uma vontade nova para dar o ser a criaturas que nunca antes criara, como pode haver verdadeira eternidade, se n’Ele aparece uma vontade que antes não existia?” AGOSTINHO. Confissões. São Paulo: Abril Cultural, 1984.\nA questão da eternidade, tal como abordada pelo autor, é um exemplo da reflexão filosófica sobre a(s)",
+    "alternatives": [
+      "A) essência da ética cristã.",
+      "B) natureza universal da tradição.",
+      "C) certezas inabaláveis da experiência.",
+      "D) abrangência da compreensão humana.",
+      "E) interpretações da realidade circundante."
+    ],
+    "year": "2018",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "88"
+  },
+  {
+    "description": "QUESTÃO 85) Então disse: “Este é o local onde construirei. Tudo pode chegar aqui pelo Eufrates, o Tigre e uma rede de canais. Só um lugar como este sustentará o exército e a população geral”. Assim ele traçou e destinou as verbas para a sua construção, e deitou o primeiro tijolo com sua própria mão, dizendo: “Em nome de Deus, e em louvor a Ele. Construí, e que Deus vos abençoe”.\nAL-TABARI, M. Uma história dos povos árabes. A decisão do califa Al-Mansur (754-775) de construir Bagdá nesse local orientou-se pela",
+    "alternatives": [
+      "A) disponibilidade de rotas e terras férteis como base da dominação política.",
+      "B) proximidade de áreas populosas como afirmação da superioridade bélica.",
+      "C) submissão à hierarquia e à lei islâmica como controle do poder real.",
+      "D) fuga da península arábica como afastamento dos conflitos sucessórios.",
+      "E) ocupação de região fronteiriça como contenção do avanço mongol."
+    ],
+    "year": "2018",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "90"
+  },
+  {
+    "description": "QUESTÃO 86) A agricultura ecológica e a produção orgânica de alimentos estão ganhando relevância em diferentes partes do mundo. No campo brasileiro, também acontece o mesmo. Impulsionado especialmente pela expansão da demanda de alimentos saudáveis, o setor cresce a cada ano, embora permaneça relativamente marginalizado na agenda de prioridades da política agrícola praticada no país.\nAQUINO, J. R.; GAZOLLA, M.; SCHNEIDER, S. In: SAMBUICHI, R. H. R. et al. (Org.). A política nacional de agroecologia e produção orgânica no Brasil: uma trajetória de Que tipo de intervenção do poder público no espaço rural é capaz de reduzir a marginalização produtiva apresentada no texto?",
+    "alternatives": [
+      "A) Subsidiar os cultivos de base familiar.",
+      "B) Favorecer as práticas de fertilização química.",
+      "C) Restringir o emprego de maquinário moderno.",
+      "D) Controlar a expansão de sistemas de irrigação.",
+      "E) Regulamentar o uso de sementes selecionadas."
+    ],
+    "year": "2018",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "91"
+  },
+  {
+    "description": "QUESTÃO 89) No início da década de 1990, dois biólogos importantes, Redford e Robinson, produziram um modelo largamente aceito de “produção sustentável” que previa quantos indivíduos de cada espécie poderiam ser caçados de forma sustentável baseado nas suas taxas de reprodução. Os seringueiros do Alto Juruá tinham um modelo diferente: a quem lhes afirmava que estavam caçando acima do sustentável (dentro do modelo), eles diziam que não, que o nível da caça dependia da existência de áreas de refúgio em que ninguém caçava. Ora, esse acabou sendo o modelo batizado de “fonte-ralo” proposto dez anos após o primeiro por Novaro, Bodmer e o próprio Redford e que suplantou o modelo anterior.\nCUNHA, M. C. Revista USP, n. 75, set.-nov. 2007.\nNo contexto da produção científica, a necessidade de reconstrução desse modelo, conforme exposto no texto, foi determinada pelo confronto com um(a)",
+    "alternatives": [
+      "A) conclusão operacional obtida por lógica dedutiva.",
+      "B) visão de mundo marcada por preconceitos morais.",
+      "C) hábito social condicionado pela religiosidade popular.",
+      "D) conhecimento empírico apropriado pelo senso comum.",
+      "E) padrão de preservação construído por experimentação dirigida."
+    ],
+    "year": "2018",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "94"
+  },
+  {
+    "description": "QUESTÃO 90) Um dos teóricos da democracia moderna, Hans Kelsen, considera elemento essencial da democracia real (não da democracia ideal, que não existe em lugar algum) o método da seleção dos líderes, ou seja, a eleição. Exemplar, neste sentido, é a afirmação de um juiz da Corte Suprema dos Estados Unidos, por ocasião de uma eleição de 1902: “A cabine eleitoral é o templo das instituições americanas, onde cada um de nós é um sacerdote, ao qual é confiada a guarda da arca da aliança e cada um oficia do seu próprio altar”.\nAs metáforas utilizadas no texto referem-se a uma concepção de democracia fundamentada no(a)",
+    "alternatives": [
+      "A) justificação teísta do direito.",
+      "B) rigidez da hierarquia de classe.",
+      "C) ênfase formalista na administração.",
+      "D) protagonismo do Executivo no poder.",
+      "E) centralidade do indivíduo na sociedade."
+    ],
+    "year": "2018",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "95"
+  }
+]

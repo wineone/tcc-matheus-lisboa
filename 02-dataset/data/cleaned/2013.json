@@ -1,0 +1,1318 @@
+[
+  {
+    "description": "QUESTÃO 02) Trata-se de um gigantesco movimento de construção de cidades, necessário para o assentamento residencial dessa população, bem como de suas necessidades de trabalho, abastecimento, transportes, saúde, energia, água etc. Ainda que o rumo tomado pelo crescimento urbano não tenha respondido satisfatoriamente a todas essas necessidades, o território foi ocupado e foram construídas as condições para viver nesse espaço.\nMARICATO, E. Brasil, cidades: alternativas para a crise urbana. Petrópolis: Vozes, 2001.\nA dinâmica de transformação das cidades tende a apresentar como consequência a expansão das áreas periféricas pelo(a)",
+    "alternatives": [
+      "A) crescimento da população urbana e aumento da especulação imobiliária.",
+      "B) direcionamento maior do fl uxo de pessoas, devido à existência de um grande número de serviços.",
+      "C) delimitação de áreas para uma ocupação organizada do espaço físico, melhorando a qualidade de vida.",
+      "D) implantação de políticas públicas que promovem a moradia e o direito à cidade aos seus moradores.",
+      "E) reurbanização de moradias nas áreas centrais, mantendo o trabalhador próximo ao seu emprego, diminuindo os deslocamentos para a periferia."
+    ],
+    "year": "2013",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "2"
+  },
+  {
+    "description": "QUESTÃO 04) TEXTO I Há já algum tempo eu me apercebi de que, desde meus primeiros anos, recebera muitas falsas opiniões como verdadeiras, e de que aquilo que depois eu fundei em princípios tão mal assegurados não podia ser senão mui duvidoso e incerto. Era necessário tentar seriamente, uma vez em minha vida, desfazer-me de todas as opiniões a que até então dera crédito, e começar tudo novamente a fim de estabelecer um saber firme e inabalável.\nDESCARTES, R. Meditações concernentes à Primeira Filosofia. TEXTO II É o caráter radical do que se procura que exige a radicalização do próprio processo de busca. Se todo o espaço for ocupado pela dúvida, qualquer certeza que aparecer a partir daí terá sido de alguma forma gerada pela própria dúvida, e não será seguramente nenhuma daquelas que foram anteriormente varridas por essa mesma dúvida.\nA exposição e a análise do projeto cartesiano indicam que, para viabilizar a reconstrução radical do conhecimento, deve-se",
+    "alternatives": [
+      "A) retomar o método da tradição para edificar a ciência com legitimidade.",
+      "B) questionar de forma ampla e profunda as antigas ideias e concepções.",
+      "C) investigar os conteúdos da consciência dos homens menos esclarecidos.",
+      "D) buscar uma via para eliminar da memória saberes antigos e ultrapassados.",
+      "E) encontrar ideias e pensamentos evidentes que dispensam ser questionados."
+    ],
+    "year": "2013",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "4"
+  },
+  {
+    "description": "QUESTÃO 06) O canto triste dos conquistados: os últimos dias de Tenochtitlán Nos caminhos jazem dardos quebrados; os cabelos estão espalhados.\nDestelhadas estão as casas, Vermelhas estão as águas, os rios, como se alguém as tivesse tingido, Nos escudos esteve nosso resguardo, mas os escudos não detêm a desolação...\nPINSKY, J. et al. História da América através de textos. São Paulo: Contexto, 2007 (fragmento). O texto é um registro asteca, cujo sentido está relacionado ao(à)",
+    "alternatives": [
+      "A) tragédia causada pela destruição da cultura desse povo.",
+      "B) tentativa frustrada de resistência a um poder considerado superior.",
+      "C) extermínio das populações indígenas pelo Exército espanhol.",
+      "D) dissolução da memória sobre os feitos de seus antepassados.",
+      "E) profetização das consequências da colonização da América."
+    ],
+    "year": "2013",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "6"
+  },
+  {
+    "description": "QUESTÃO 08) As Brigadas Internacionais foram unidades de combatentes formadas por voluntários de 53 nacionalidades dispostos a lutar em defesa da República espanhola. Estima-se que cerca de 60 mil cidadãos de várias partes do mundo – incluindo 40 brasileiros – tenham se incorporado a essas unidades. Apesar de coordenadas pelos comunistas, as Brigadas contaram com membros socialistas, liberais e de outras correntes político-ideológicas.\nSOUZA, I. I. A Guerra Civil Europeia. História Viva, n. 70, 2009 (fragmento).\nA Guerra Civil Espanhola expressou as disputas em curso na Europa na década de 1930. A perspectiva política comum que promoveu a mobilização descrita foi o(a)",
+    "alternatives": [
+      "A) crítica ao stalinismo.",
+      "B) combate ao fascismo.",
+      "C) rejeição ao federalismo.",
+      "D) apoio ao corporativismo.",
+      "E) adesão ao anarquismo."
+    ],
+    "year": "2013",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "8"
+  },
+  {
+    "description": "QUESTÃO 09) De todas as transformações impostas pelo meio técnico-científico-informacional à logística de transportes, interessa-nos mais de perto a intermodalidade. E por uma razão muito simples: o potencial que tal “ferramenta logística” ostenta permite que haja, de fato, um sistema de transportes condizente com a escala geográfica do Brasil.\nHUERTAS, D. M. O papel dos transportes na expansão recente da fronteira agrícola brasileira. A necessidade de modais de transporte interligados, no território brasileiro, justifica-se pela(s)",
+    "alternatives": [
+      "A) variações climáticas no território, associadas à interiorização da produção.",
+      "B) grandes distâncias e a busca da redução dos custos de transporte.",
+      "C) formação geológica do país, que impede o uso de um único modal.",
+      "D) proximidade entre a área de produção agrícola intensiva e os portos.",
+      "E) diminuição dos fluxos materiais em detrimento de fluxos imateriais."
+    ],
+    "year": "2013",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "9"
+  },
+  {
+    "description": "QUESTÃO 10) Nasce daqui uma questão: se vale mais ser amado que temido ou temido que amado. Responde-se que ambas as coisas seriam de desejar; mas porque é difícil juntá-las, é muito mais seguro ser temido que amado, quando haja de faltar uma das duas. Porque dos homens se pode dizer, duma maneira geral, que são ingratos, volúveis, simuladores, covardes e ávidos de lucro, e enquanto lhes fazes bem são inteiramente teus, oferecem-te o sangue, os bens, a vida e os filhos, quando, como acima disse, o perigo está longe; mas quando ele chega, revoltam-se.\nMAQUIAVEL, N. O príncipe. Rio de Janeiro: Bertrand, 1991.\nA partir da análise histórica do comportamento humano em suas relações sociais e políticas, Maquiavel define o homem como um ser",
+    "alternatives": [
+      "A) munido de virtude, com disposição nata a praticar o bem a si e aos outros.",
+      "B) possuidor de fortuna, valendo-se de riquezas para alcançar êxito na política.",
+      "C) guiado por interesses, de modo que suas ações são imprevisíveis e inconstantes.",
+      "D) naturalmente racional, vivendo em um estado pré-social e portando seus direitos naturais.",
+      "E) sociável por natureza, mantendo relações pacíficas com seus pares."
+    ],
+    "year": "2013",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "10"
+  },
+  {
+    "description": "QUESTÃO 11) Nos estados, entretanto, se instalavam as oligarquias, de cujo perigo já nos advertia Saint-Hilaire, e sob o disfarce do que se chamou “a política dos governadores”. Em círculos concêntricos esse sistema vem cumular no próprio poder central que é o sol do nosso sistema.\nPRADO, P. Retrato do Brasil. Rio de Janeiro: José Olympio, 1972.\nA crítica presente no texto remete ao acordo que fundamentou o regime republicano brasileiro durante as três primeiras décadas do século XX e fortaleceu o(a)",
+    "alternatives": [
+      "A) poder militar, enquanto fiador da ordem econômica.",
+      "B) presidencialismo, com o objetivo de limitar o poder dos coronéis.",
+      "C) domínio de grupos regionais sobre a ordem federativa.",
+      "D) intervenção nos estados, autorizada pelas normas constitucionais.",
+      "E) isonomia do governo federal no tratamento das disputas locais."
+    ],
+    "year": "2013",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "11"
+  },
+  {
+    "description": "QUESTÃO 12) No final do século XIX, as Grandes Sociedades carnavalescas alcançaram ampla popularidade entre os foliões cariocas. Tais sociedades cultivavam um pretensioso objetivo em relação à comemoração carnavalesca em si mesma: com seus desfiles de carros enfeitados pelas principais ruas da cidade, pretendiam abolir o entrudo (brincadeira que consistia em jogar água nos foliões) e outras práticas difundidas entre a população desde os tempos coloniais, substituindo-os por formas de diversão que consideravam mais civilizadas, inspiradas nos carnavais de Veneza. Contudo, ninguém parecia disposto a abrir mão de suas diversões para assistir ao carnaval das sociedades. O entrudo, na visão dos seus animados praticantes, poderia coexistir perfeitamente com os desfiles.\n PEREIRA, C. S. Os senhores da alegria: a presença das mulheres nas Grandes Sociedades carnavalescas cariocas em fins do século XIX. In: CUNHA, M. C. P. Carnavais e outras Manifestações culturais como o carnaval também têm sua própria história, sendo constantemente reinventadas ao longo do tempo. A atuação das Grandes Sociedades, descrita no texto, mostra que o carnaval representava um momento em que as",
+    "alternatives": [
+      "A) distinções sociais eram deixadas de lado em nome da celebração.",
+      "B) aspirações cosmopolitas da elite impediam a realização da festa fora dos clubes.",
+      "C) liberdades individuais eram extintas pelas regras das autoridades públicas.",
+      "D) tradições populares se transformavam em matéria de disputas sociais.",
+      "E) perseguições policiais tinham caráter xenófobo por repudiarem tradições estrangeiras."
+    ],
+    "year": "2013",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "12"
+  },
+  {
+    "description": "QUESTÃO 15) Na produção social que os homens realizam, eles entram em determinadas relações indispensáveis e independentes de sua vontade; tais relações de produção correspondem a um estágio definido de desenvolvimento das suas forças materiais de produção. A totalidade dessas relações constitui a estrutura econômica da sociedade — fundamento real, sobre o qual se erguem as superestruturas política e jurídica, e ao qual correspondem determinadas formas de consciência social.\nMARX, K. Prefácio à Crítica da economia política. In: MARX, K.; ENGELS, F. Para o autor, a relação entre economia e política estabelecida no sistema capitalista faz com que",
+    "alternatives": [
+      "A) o proletariado seja contemplado pelo processo de mais-valia.",
+      "B) o trabalho se constitua como o fundamento real da produção material.",
+      "C) a consolidação das forças produtivas seja compatível com o progresso humano.",
+      "D) a autonomia da sociedade civil seja proporcional ao desenvolvimento econômico.",
+      "E) a burguesia revolucione o processo social de formação da consciência de classe."
+    ],
+    "year": "2013",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "15"
+  },
+  {
+    "description": "QUESTÃO 16) Um trabalhador em tempo flexível controla o local do trabalho, mas não adquire maior controle sobre o processo em si. A essa altura, vários estudos sugerem que a supervisão do trabalho é muitas vezes maior para os ausentes do escritório do que para os presentes. O trabalho é fisicamente descentralizado e o poder sobre o trabalhador, mais direto.\nSENNETT, R. A corrosão do caráter: consequências pessoais do novo capitalismo. Comparada à organização do trabalho característica do taylorismo e do fordismo, a concepção de tempo analisada no texto pressupõe que",
+    "alternatives": [
+      "A) as tecnologias de informação sejam usadas para democratizar as relações laborais.",
+      "B) as estruturas burocráticas sejam transferidas da empresa para o espaço doméstico.",
+      "C) os procedimentos de terceirização sejam aprimorados pela qualificação profissional.",
+      "D) as organizações sindicais sejam fortalecidas com a valorização da especialização funcional.",
+      "E) os mecanismos de controle sejam deslocados dos processos para os resultados do trabalho."
+    ],
+    "year": "2013",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "16"
+  },
+  {
+    "description": "QUESTÃO 18) A África também já serviu como ponto de partida para comédias bem vulgares, mas de muito sucesso, como Um príncipe em Nova York e Ace Ventura: um maluco na África; em ambas, a África parece um lugar cheio de tribos doidas e rituais de desenho animado. A animação O rei Leão, da Disney, o mais bem-sucedido filme americano ambientado na África, não chegava a contar com elenco de seres humanos.\nLEIBOWITZ, E. Filmes de Hollywood sobre África ficam no clichê. produção cinematográfica referida no texto contribui para a constituição de uma memória sobre a África e seus habitantes. Essa memória enfatiza e negligencia, respectivamente, os seguintes aspectos do continente africano:",
+    "alternatives": [
+      "A) A história e a natureza.",
+      "B) O exotismo e as culturas.",
+      "C) A sociedade e a economia.",
+      "D) O comércio e o ambiente.",
+      "E) A diversidade e a política."
+    ],
+    "year": "2013",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "18"
+  },
+  {
+    "description": "QUESTÃO 19) Disneylândia Multinacionais japonesas instalam empresas em Hong-Kong E produzem com matéria-prima brasileira Para competir no mercado americano [...] Pilhas americanas alimentam eletrodomésticos ingleses na Nova Guiné Gasolina árabe alimenta automóveis americanos na África do Sul [...] Crianças iraquianas fugidas da guerra Não obtêm visto no consulado americano do Egito Para entrarem na Disneylândia Na canção, ressalta-se a coexistência, no contexto internacional atual, das seguintes situações:",
+    "alternatives": [
+      "A) Acirramento do controle alfandegário e estímulo ao capital especulativo.",
+      "B) Ampliação das trocas econômicas e seletividade dos fluxos populacionais.",
+      "C) Intensificação do controle informacional e adoção de barreiras fitossanitárias.",
+      "D) Aumento da circulação mercantil e desregulamentação do sistema financeiro.",
+      "E) Expansão do protecionismo comercial e descaracterização de identidades nacionais."
+    ],
+    "year": "2013",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "19"
+  },
+  {
+    "description": "QUESTÃO 21) Um gigante da indústria da internet, em gesto simbólico, mudou o tratamento que conferia à sua página palestina. O site de buscas alterou sua página quando acessada da Cisjordânia. Em vez de “territórios palestinos”, a empresa escreve agora “Palestina” logo abaixo do logotipo.\nBERCITO, D. Google muda tratamento de territórios palestinos. O gesto simbólico sinalizado pela mudança no status dos territórios palestinos significa o",
+    "alternatives": [
+      "A) surgimento de um país binacional.",
+      "B) fortalecimento de movimentos antissemitas.",
+      "C) esvaziamento de assentamentos judaicos.",
+      "D) reconhecimento de uma autoridade jurídica.",
+      "E) estabelecimento de fronteiras nacionais."
+    ],
+    "year": "2013",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "21"
+  },
+  {
+    "description": "QUESTÃO 22) Para que não haja abuso, é preciso organizar as coisas de maneira que o poder seja contido pelo poder. Tudo estaria perdido se o mesmo homem ou o mesmo corpo dos principais, ou dos nobres, ou do povo, exercesse esses três poderes: o de fazer leis, o de executar as resoluções públicas e o de julgar os crimes ou as divergências dos indivíduos. Assim, criam-se os poderes Legislativo, Executivo e Judiciário, atuando de forma independente para a efetivação da liberdade, sendo que esta não existe se uma mesma pessoa ou grupo exercer os referidos poderes concomitantemente.\nA divisão e a independência entre os poderes são condições necessárias para que possa haver liberdade em um Estado. Isso pode ocorrer apenas sob um modelo político em que haja",
+    "alternatives": [
+      "A) exercício de tutela sobre atividades jurídicas e políticas.",
+      "B) consagração do poder político pela autoridade religiosa.",
+      "C) concentração do poder nas mãos de elites técnico-cientifícas.",
+      "D) estabelecimento de limites aos atores públicos e às instituições do governo.",
+      "E) reunião das funções de legislar, julgar e executar nas mãos de um governante eleito."
+    ],
+    "year": "2013",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "22"
+  },
+  {
+    "description": "QUESTÃO 23) Quando ninguém duvida da existência de um outro mundo, a morte é uma passagem que deve ser celebrada entre parentes e vizinhos. O homem da Idade Média tem a convicção de não desaparecer completamente, esperando a ressurreição. Pois nada se detém e tudo continua na eternidade. A perda contemporânea do sentimento religioso fez da morte uma provação aterrorizante, um trampolim para as trevas e o desconhecido.\nDUBY, G. Ano 1000 ano 2000 na pista dos nossos medos. Ao comparar as maneiras com que as sociedades têm lidado com a morte, o autor considera que houve um processo de",
+    "alternatives": [
+      "A) mercantilização das crenças religiosas.",
+      "B) transformação das representações sociais.",
+      "C) disseminação do ateísmo nos países de maioria cristã.",
+      "D) diminuição da distância entre saber científico e eclesiástico.",
+      "E) amadurecimento da consciência ligada à civilização moderna."
+    ],
+    "year": "2013",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "23"
+  },
+  {
+    "description": "QUESTÃO 24) O edifício é circular. Os apartamentos dos prisioneiros ocupam a circunferência. Você pode chamá-los, se quiser, de celas. O apartamento do inspetor ocupa o centro; você pode chamá-lo, se quiser, de alojamento do inspetor. A moral reformada; a saúde preservada; a indústria revigorada; a instrução difundida; os encargos públicos aliviados; a economia assentada, como deve ser, sobre uma rocha; o nó górdio da Lei sobre os Pobres não cortado, mas desfeito — tudo por uma simples ideia de arquitetura! BENTHAM, J. O panóptico. Belo Horizonte: Autêntica, 2008.\nEssa é a proposta de um sistema conhecido como panóptico, um modelo que mostra o poder da disciplina nas sociedades contemporâneas, exercido preferencialmente por mecanismos",
+    "alternatives": [
+      "A) religiosos, que se constituem como um olho divino controlador que tudo vê.",
+      "B) ideológicos, que estabelecem limites pela alienação, impedindo a visão da dominação sofrida.",
+      "C) repressivos, que perpetuam as relações de dominação entre os homens por meio da tortura física.",
+      "D) sutis, que adestram os corpos no espaço-tempo por meio do olhar como instrumento de controle.",
+      "E) consensuais, que pactuam acordos com base na compreensão dos benefícios gerais de se ter as próprias ações controladas."
+    ],
+    "year": "2013",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "24"
+  },
+  {
+    "description": "QUESTÃO 26) Durante a realeza, e nos primeiros anos republicanos, as leis eram transmitidas oralmente de uma geração para outra. A ausência de uma legislação escrita permitia aos patrícios manipular a justiça conforme seus interesses. Em 451 a.C., porém, os plebeus conseguiram eleger uma comissão de dez pessoas — os decênviros — para escrever as leis. Dois deles viajaram a Atenas, na Grécia, para estudar a legislação de Sólon.\nCOULANGES, F. A cidade antiga. São Paulo: Martins Fontes, 2000.\nA superação da tradição jurídica oral no mundo antigo, descrita no texto, esteve relacionada à",
+    "alternatives": [
+      "A) adoção do sufrágio universal masculino.",
+      "B) extensão da cidadania aos homens livres.",
+      "C) afirmação de instituições democráticas.",
+      "D) implantação de direitos sociais.",
+      "E) tripartição dos poderes políticos."
+    ],
+    "year": "2013",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "26"
+  },
+  {
+    "description": "QUESTÃO 27) A felicidade é, portanto, a melhor, a mais nobre e a mais aprazível coisa do mundo, e esses atributos não devem estar separados como na inscrição existente em Delfos “das coisas, a mais nobre é a mais justa, e a melhor é a saúde; porém a mais doce é ter o que amamos”. Todos estes atributos estão presentes nas mais excelentes atividades, e entre essas a melhor, nós a identificamos como felicidade.\nARISTÓTELES. A Política. São Paulo: Cia. das Letras, 2010.\nAo reconhecer na felicidade a reunião dos mais excelentes atributos, Aristóteles a identifica como",
+    "alternatives": [
+      "A) busca por bens materiais e títulos de nobreza.",
+      "B) plenitude espiritual e ascese pessoal.",
+      "C) finalidade das ações e condutas humanas.",
+      "D) conhecimento de verdades imutáveis e perfeitas.",
+      "E) expressão do sucesso individual e reconhecimento público."
+    ],
+    "year": "2013",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "27"
+  },
+  {
+    "description": "QUESTÃO 29) Seguiam-se vinte criados custosamente vestidos e montados em soberbos cavalos; depois destes, marchava o Embaixador do Rei do Congo magnificamente ornado de seda azul para anunciar ao Senado que a vinda do Rei estava destinada para o dia dezesseis. Em resposta obteve repetidas vivas do povo que concorreu alegre e admirado de tanta grandeza.\nCoroação do Rei do Congo em Santo Amaro, Bahia apud DEL PRIORE, M. Festas e utopias no Brasil colonial. In: CATELLI JR., R. Um olhar sobre as festas populares brasileiras. Originária dos tempos coloniais, a festa da Coroação do Rei do Congo evidencia um processo de",
+    "alternatives": [
+      "A) exclusão social.",
+      "B) imposição religiosa.",
+      "C) acomodação política.",
+      "D) supressão simbólica.",
+      "E) ressignificação cultural."
+    ],
+    "year": "2013",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "29"
+  },
+  {
+    "description": "QUESTÃO 30) TEXTO I A nossa luta é pela democratização da propriedade da terra, cada vez mais concentrada em nosso país. Cerca de 1% de todos os proprietários controla 46% das terras. Fazemos pressão por meio da ocupação de latifúndios improdutivos e grandes propriedades, que não cumprem a função social, como determina a Constituição de 1988. Também ocupamos as fazendas que têm origem na grilagem de terras públicas.\nTEXTO II O pequeno proprietário rural é igual a um pequeno proprietário de loja: quanto menor o negócio mais difícil de manter, pois tem de ser produtivo e os encargos são difíceis de arcar. Sou a favor de propriedades produtivas e sustentáveis e que gerem empregos. Apoiar uma empresa produtiva que gere emprego é muito mais barato e gera muito mais do que apoiar a reforma agrária.\nNos fragmentos dos textos, os posicionamentos em relação à reforma agrária se opõem. Isso acontece porque os autores associam a reforma agrária, respectivamente, à",
+    "alternatives": [
+      "A) redução do inchaço urbano e à crítica ao minifúndio camponês.",
+      "B) ampliação da renda nacional e à prioridade ao mercado externo.",
+      "C) contenção da mecanização agrícola e ao combate ao êxodo rural.",
+      "D) privatização de empresas estatais e ao estímulo ao crescimento econômico.",
+      "E) correção de distorções históricas e ao prejuízo ao agronegócio."
+    ],
+    "year": "2013",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "30"
+  },
+  {
+    "description": "QUESTÃO 35) Rua Preciados, seis da tarde. Ao longe, a massa humana que abarrota a Praça Puerta Del Sol, em Madri, se levanta. Um grupo de garotas, ao ver a cena, corre em direção à multidão. Milhares de pessoas fazem ressoar o slogan: “Que não, que não, que não nos representem”. Um garoto fala pelo megafone: “Demandamos submeter a referendo o resgate bancário”.\nRODRÍGUEZ, O. Puerta Del Sol, o grande alto-falante. Brasil de Fato, Em 2011, o acampamento dos Indignados espanhóis expressou todo o descontentamento político da juventude europeia. Que proposta sintetiza o conjunto de reivindicações políticas destes jovens?",
+    "alternatives": [
+      "A) Voto universal.",
+      "B) Democracia direta.",
+      "C) Pluralidade partidária.",
+      "D) Autonomia legislativa.",
+      "E) Imunidade parlamentar."
+    ],
+    "year": "2013",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "35"
+  },
+  {
+    "description": "QUESTÃO 36) Até hoje admitia-se que nosso conhecimento se devia regular pelos objetos; porém, todas as tentativas para descobrir, mediante conceitos, algo que ampliasse nosso conhecimento, malogravam-se com esse pressuposto. Tentemos, pois, uma vez, experimentar se não se resolverão melhor as tarefas da metafísica, admitindo que os objetos se deveriam regular pelo nosso conhecimento.\nO trecho em questão é uma referência ao que ficou conhecido como revolução copernicana na filosofia. Nele, confrontam-se duas posições filosóficas que",
+    "alternatives": [
+      "A) assumem pontos de vista opostos acerca da natureza do conhecimento.",
+      "B) defendem que o conhecimento é impossível, restando-nos somente o ceticismo.",
+      "C) revelam a relação de interdependência entre os dados da experiência e a reflexão filosófica.",
+      "D) apostam, no que diz respeito às tarefas da filosofia, na primazia das ideias em relação aos objetos.",
+      "E) refutam-se mutuamente quanto à natureza do nosso conhecimento e são ambas recusadas por Kant."
+    ],
+    "year": "2013",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "36"
+  },
+  {
+    "description": "QUESTÃO 37) Nos últimos decênios, o território conhece grandes mudanças em função de acréscimos técnicos que renovam a sua materialidade, como resultado e condição, ao mesmo tempo, dos processos econômicos e sociais em curso.\nSANTOS, M.; SILVEIRA; M. L. O Brasil: território e sociedade no início do século XXI. A partir da última década, verifica-se a ocorrência no Brasil de alterações significativas no território, ocasionando impactos sociais, culturais e econômicos sobre comunidades locais, e com maior intensidade, na Amazônia Legal, com a",
+    "alternatives": [
+      "A) reforma e ampliação de aeroportos nas capitais dos estados.",
+      "B) ampliação de estádios de futebol para a realização de eventos esportivos.",
+      "C) construção de usinas hidrelétricas sobre os rios Tocantins, Xingu e Madeira.",
+      "D) instalação de cabos para a formação de uma rede informatizada de comunicação.",
+      "E) formação de uma infraestrutura de torres que permitem a comunicação móvel na região."
+    ],
+    "year": "2013",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "37"
+  },
+  {
+    "description": "QUESTÃO 38) A recuperação da herança cultural africana deve levar em conta o que é próprio do processo cultural: seu movimento, pluralidade e complexidade. Não se trata, portanto, do resgate ingênuo do passado nem do seu cultivo nostálgico, mas de procurar perceber o próprio rosto cultural brasileiro. O que se quer é captar seu movimento para melhor compreendê-lo historicamente.\nMINAS GERAIS. Cadernos do Arquivo 1: Escravidão em Minas Gerais.\nBelo Horizonte: Arquivo Público Mineiro, 1988.\nCom base no texto, a análise de manifestações culturais de origem africana, como a capoeira ou o candomblé, deve considerar que elas",
+    "alternatives": [
+      "A) permanecem como reprodução dos valores e costumes africanos.",
+      "B) perderam a relação com o seu passado histórico.",
+      "C) derivam da interação entre valores africanos e a experiência histórica brasileira.",
+      "D) contribuem para o distanciamento cultural entre negros e brancos no Brasil atual.",
+      "E) demonstram a maior complexidade cultural dos africanos em relação aos europeus."
+    ],
+    "year": "2013",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "38"
+  },
+  {
+    "description": "QUESTÃO 40) TEXTO I Ela acorda tarde depois de ter ido ao teatro e à dança; ela lê romances, além de desperdiçar o tempo a olhar para a rua da sua janela ou da sua varanda; passa horas no toucador a arrumar o seu complicado penteado; um número igual de horas praticando piano e mais outras na sua aula de francês ou de dança. V. Z. Mulheres, cultura e literatura brasileira. Ipotesi — Revista de Estudos Literários, Juiz de Fora, v. 2. n. 2, 1998. TEXTO II As janelas e portas gradeadas com treliças não eram cadeias confessas, positivas; mas eram, pelo aspecto e pelo seu destino, grandes gaiolas, onde os pais e maridos zelavam, sonegadas à sociedade, as filhas e as esposas.\nA representação social do feminino comum aos dois textos é o(a)",
+    "alternatives": [
+      "A) submissão de gênero, apoiada pela concepção patriarcal de família.",
+      "B) acesso aos produtos de beleza, decorrência da abertura dos portos.",
+      "C) ampliação do espaço de entretenimento, voltado às distintas classes sociais.",
+      "D) proteção da honra, mediada pela disputa masculina em relação às damas da corte.",
+      "E) valorização do casamento cristão, respaldado pelos interesses vinculados à herança."
+    ],
+    "year": "2013",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "40"
+  },
+  {
+    "description": "QUESTÃO 41) Os produtos e seu consumo constituem a meta declarada do empreendimento tecnológico. Essa meta foi proposta pela primeira vez no início da Modernidade, como expectativa de que o homem poderia dominar a natureza. No entanto, essa expectativa, convertida em programa anunciado por pensadores como Descartes e Bacon e impulsionado pelo Iluminismo, não surgiu “de um prazer de poder”, “de um mero imperialismo humano”, mas da aspiração de libertar o homem e de enriquecer sua vida, física e culturalmente.\nCUPANI, A. A tecnologia como problema filosófico: três enfoques. Autores da filosofia moderna, notadamente Descartes e Bacon, e o projeto iluminista concebem a ciência como uma forma de saber que almeja libertar o homem das intempéries da natureza. Nesse contexto, a investigação científica consiste em",
+    "alternatives": [
+      "A) expor a essência da verdade e resolver definitivamente as disputas teóricas ainda existentes.",
+      "B) oferecer a última palavra acerca das coisas que existem e ocupar o lugar que outrora foi da filosofia.",
+      "C) ser a expressão da razão e servir de modelo para outras áreas do saber que almejam o progresso.",
+      "D) explicitar as leis gerais que permitem interpretar a natureza e eliminar os discursos éticos e religiosos.",
+      "E) explicar a dinâmica presente entre os fenômenos naturais e impor limites aos debates acadêmicos."
+    ],
+    "year": "2013",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "41"
+  },
+  {
+    "description": "QUESTÃO 43) Empresa vai fornecer 230 turbinas para o segundo complexo de energia à base de ventos, no sudeste da Bahia. O Complexo Eólico Alto Sertão, em 2014, terá capacidade para gerar 375 MW (megawatts), total suficiente para abastecer uma cidade de 3 milhões de habitantes.\nMATOS, C. GE busca bons ventos e fecha contrato de R$ 820 mi na Bahia. Folha de S. Paulo, 2 dez. 2012.\nA opção tecnológica retratada na notícia proporciona a seguinte consequência para o sistema energético brasileiro:",
+    "alternatives": [
+      "A) Redução da utilização elétrica.",
+      "B) Ampliação do uso bioenergético.",
+      "C) Expansão das fontes renováveis.",
+      "D) Contenção da demanda urbano-industrial.",
+      "E) Intensificação da dependência geotérmica."
+    ],
+    "year": "2013",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "43"
+  },
+  {
+    "description": "QUESTÃO 45) Tenho 44 anos e presenciei uma transformação impressionante na condição de homens e mulheres gays nos Estados Unidos. Quando nasci, relações homossexuais eram ilegais em todos os Estados Unidos, menos Illinois. Gays e lésbicas não podiam trabalhar no governo federal. Não havia nenhum político abertamente gay. Alguns homossexuais não assumidos ocupavam posições de poder, mas a tendência era eles tornarem as coisas ainda piores para seus semelhantes.\nROSS, A. Na máquina do tempo. Época, ed. 766, 28 jan. 2013.\nA dimensão política da transformação sugerida no texto teve como condição necessária a",
+    "alternatives": [
+      "A) ampliação da noção de cidadania.",
+      "B) reformulação de concepções religiosas.",
+      "C) manutenção de ideologias conservadoras.",
+      "D) implantação de cotas nas listas partidárias.",
+      "E) alteração da composição étnica da população."
+    ],
+    "year": "2013",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "45"
+  },
+  {
+    "description": "QUESTÃO 47) O brasileiro consome em média 500 miligramas de cálcio por dia, quando a quantidade recomendada é o dobro. Uma alimentação balanceada é a melhor decisão para evitar problemas no futuro, como a osteoporose, uma doença que atinge os ossos. Ela se caracteriza pela diminuição substancial de massa óssea, tornando os ossos frágeis e mais suscetíveis a fraturas.\nConsiderando-se o valor de 6 × 1023 mol–1 para a constante de Avogadro e a massa molar do cálcio igual a 40 g/mol, qual a quantidade mínima diária de átomos de cálcio a ser ingerida para que uma pessoa supra suas necessidades?",
+    "alternatives": [
+      "A) 7,5 × 1021",
+      "B) 1,5 × 1022",
+      "C) 7,5 × 1023",
+      "D) 1,5 × 1025",
+      "E) 4,8 × 1025"
+    ],
+    "year": "2013",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "47"
+  },
+  {
+    "description": "QUESTÃO 48) Em um experimento foram utilizadas duas garrafas PET, uma pintada de branco e a outra de preto, acopladas cada uma a um termômetro. No ponto médio da distância entre as garrafas, foi mantida acesa, durante alguns minutos, uma lâmpada incandescente. Em seguida a lâmpada foi desligada. Durante o experimento, foram monitoradas as temperaturas das garrafas: a) enquanto a lâmpada permaneceu acesa e b) após a lâmpada ser desligada e atingirem equilíbrio térmico com o ambiente.\nTermômetro A taxa de variação da temperatura da garrafa preta, em comparação à da branca, durante todo experimento, foi",
+    "alternatives": [
+      "A) igual no aquecimento e igual no resfriamento.",
+      "B) maior no aquecimento e igual no resfriamento.",
+      "C) menor no aquecimento e igual no resfriamento.",
+      "D) maior no aquecimento e menor no resfriamento.",
+      "E) maior no aquecimento e maior no resfriamento."
+    ],
+    "year": "2013",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "48"
+  },
+  {
+    "description": "QUESTÃO 50) Milhares de pessoas estavam morrendo de varíola humana no final do século XVIII. Em 1796, o médico Edward Jenner (1749-1823) inoculou em um menino de 8 anos o pus extraído de feridas de vacas contaminadas com o vírus da varíola bovina, que causa uma doença branda em humanos. O garoto contraiu uma infecção benigna e, dez dias depois, estava recuperado. Meses depois, Jenner inoculou, no mesmo menino, o pus varioloso humano, que causava muitas mortes. O menino não adoeceu.\nConsiderando o resultado do experimento, qual a contribuição desse médico para a saúde humana?",
+    "alternatives": [
+      "A) A prevenção de diversas doenças infectocontagiosas em todo o mundo.",
+      "B) A compreensão de que vírus podem se multiplicar em matéria orgânica.",
+      "C) O tratamento para muitas enfermidades que acometem milhões de pessoas.",
+      "D) O estabelecimento da ética na utilização de crianças em modelos experimentais.",
+      "E) A explicação de que alguns vírus de animais podem ser transmitidos para os humanos."
+    ],
+    "year": "2013",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "50"
+  },
+  {
+    "description": "QUESTÃO 51) Química Verde pode ser definida como a criação, o desenvolvimento e a aplicação de produtos e processos químicos para reduzir ou eliminar o uso e a geração de substâncias nocivas à saúde humana e ao ambiente. Sabe-se que algumas fontes energéticas desenvolvidas pelo homem exercem, ou têm potencial para exercer, em algum nível, impactos ambientais negativos.\nCORRÊA, A. G.; ZUIN, V. G. (Orgs.). Química Verde: fundamentos e aplicações. São Carlos: EdUFSCar, 2009.\nÀ luz da Química Verde, métodos devem ser desenvolvidos para eliminar ou reduzir a poluição do ar causada especialmente pelas",
+    "alternatives": [
+      "A) hidrelétricas.",
+      "B) termelétricas.",
+      "C) usinas geotérmicas.",
+      "D) fontes de energia solar.",
+      "E) fontes de energia eólica."
+    ],
+    "year": "2013",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "51"
+  },
+  {
+    "description": "QUESTÃO 52) Em viagens de avião, é solicitado aos passageiros o desligamento de todos os aparelhos cujo funcionamento envolva a emissão ou a recepção de ondas eletromagnéticas. O procedimento é utilizado para eliminar fontes de radiação que possam interferir nas comunicações via rádio dos pilotos com a torre de controle.\nA propriedade das ondas emitidas que justifica o procedimento adotado é o fato de",
+    "alternatives": [
+      "A) terem fases opostas.",
+      "B) serem ambas audíveis.",
+      "C) terem intensidades inversas.",
+      "D) serem de mesma amplitude.",
+      "E) terem frequências próximas."
+    ],
+    "year": "2013",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "52"
+  },
+  {
+    "description": "QUESTÃO 53) As serpentes que habitam regiões de seca podem ficar em jejum por um longo período de tempo devido à escassez de alimento. Assim, a sobrevivência desses predadores está relacionada ao aproveitamento máximo dos nutrientes obtidos com a presa capturada. De acordo com essa situação, essas serpentes apresentam alterações morfológicas e fisiológicas, como o aumento das vilosidades intestinais e a intensificação da irrigação sanguínea na porção interna dessas estruturas.\nA função do aumento das vilosidades intestinais para essas serpentes é maximizar o(a)",
+    "alternatives": [
+      "A) comprimento do trato gastrointestinal para caber mais alimento.",
+      "B) área de contato com o conteúdo intestinal para absorção dos nutrientes.",
+      "C) liberação de calor via irrigação sanguínea para controle térmico do sistema digestório.",
+      "D) secreção de enzimas digestivas para aumentar a degradação proteica no estômago.",
+      "E) processo de digestão para diminuir o tempo de permanência do alimento no intestino."
+    ],
+    "year": "2013",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "53"
+  },
+  {
+    "description": "QUESTÃO 54) O uso de embalagens plásticas descartáveis vem crescendo em todo o mundo, juntamente com o problema ambiental gerado por seu descarte inapropriado. O politereftalato de etileno (PET), cuja estrutura é mostrada, tem sido muito utilizado na indústria de refrigerantes e pode ser reciclado e reutilizado. Uma das opções possíveis envolve a produção de matérias-primas, como o etilenoglicol (1,2-etanodiol), a partir de objetos compostos de PET pós-consumo.\nHO C O CH2 CH2 O n Com base nas informações do texto, uma alternativa para a obtenção de etilenoglicol a partir do PET é a",
+    "alternatives": [
+      "A) solubilização dos objetos.",
+      "B) combustão dos objetos.",
+      "C) trituração dos objetos.",
+      "D) hidrólise dos objetos.",
+      "E) fusão dos objetos."
+    ],
+    "year": "2013",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "54"
+  },
+  {
+    "description": "QUESTÃO 59) Plantas terrestres que ainda estão em fase de crescimento fixam grandes quantidades de CO2, utilizando-o para formar novas moléculas orgânicas, e liberam grande quantidade de O2. No entanto, em florestas maduras, cujas árvores já atingiram o equilíbrio, o consumo de O2 pela respiração tende a igualar sua produção pela fotossíntese. A morte natural de árvores nessas florestas afeta temporariamente a concentração de O2 e de CO2 próximo à superfície do solo onde elas caíram.\nA concentração de O2 próximo ao solo, no local da queda, será",
+    "alternatives": [
+      "A) menor, pois haverá consumo de O2 durante a decomposição dessas árvores.",
+      "B) maior, pois haverá economia de O2 pela ausência das árvores mortas.",
+      "C) maior, pois haverá liberação de O2 durante a fotossíntese das árvores jovens.",
+      "D) igual, pois haverá consumo e produção de O2 pelas árvores maduras restantes.",
+      "E) menor, pois haverá redução de O2 pela falta da fotossíntese realizada pelas árvores mortas."
+    ],
+    "year": "2013",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "59"
+  },
+  {
+    "description": "QUESTÃO 60) As fêmeas de algumas espécies de aranhas, escorpiões e de outros invertebrados predam os machos após a cópula e inseminação. Como exemplo, fêmeas canibais do inseto conhecido como louva-a-deus, Tenodera aridofolia, possuem até 63% da sua dieta composta por machos parceiros. Para as fêmeas, o canibalismo sexual pode assegurar a obtenção de nutrientes importantes na reprodução. Com esse incremento na dieta, elas geralmente produzem maior quantidade de ovos.\nApesar de ser um comportamento aparentemente desvantajoso para os machos, o canibalismo sexual evoluiu nesses táxons animais porque",
+    "alternatives": [
+      "A) promove a maior ocupação de diferentes nichos ecológicos pela espécie.",
+      "B) favorece o sucesso reprodutivo individual de ambos os parentais.",
+      "C) impossibilita a transmissão de genes do macho para a prole.",
+      "D) impede a sobrevivência e reprodução futura do macho.",
+      "E) reduz a variabilidade genética da população."
+    ],
+    "year": "2013",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "60"
+  },
+  {
+    "description": "QUESTÃO 61) Para oferecer acessibilidade aos portadores de dificuldades de locomoção, é utilizado, em ônibus e automóveis, o elevador hidráulico. Nesse dispositivo é usada uma bomba elétrica, para forçar um fluido a passar de uma tubulação estreita para outra mais larga, e dessa forma acionar um pistão que movimenta a plataforma. Considere um elevador hidráulico cuja área da cabeça do pistão seja cinco vezes maior do que a área da tubulação que sai da bomba. Desprezando o atrito e considerando uma aceleração gravitacional de 10 m/s2, deseja-se elevar uma pessoa de 65 kg em uma cadeira de rodas de 15 kg sobre a plataforma de 20 kg.\nQual deve ser a força exercida pelo motor da bomba sobre o fluido, para que o cadeirante seja elevado com velocidade constante?",
+    "alternatives": [
+      "A) 20 N",
+      "B) 100 N",
+      "C) 200 N",
+      "D) 1 000 N",
+      "E) 5 000 N"
+    ],
+    "year": "2013",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "61"
+  },
+  {
+    "description": "QUESTÃO 62) A estratégia de obtenção de plantas transgênicas pela inserção de transgenes em cloroplastos, em substituição à metodologia clássica de inserção do transgene no núcleo da célula hospedeira, resultou no aumento quantitativo da produção de proteínas recombinantes com diversas finalidades biotecnológicas. O mesmo tipo de estratégia poderia ser utilizada para produzir proteínas recombinantes em células de organismos eucarióticos não fotossintetizantes, como as leveduras, que são usadas para produção comercial de várias proteínas recombinantes e que podem ser cultivadas em grandes fermentadores.\nConsiderando a estratégia metodológica descrita, qual organela celular poderia ser utilizada para inserção de transgenes em leveduras?",
+    "alternatives": [
+      "A) Lisossomo.",
+      "B) Mitocôndria.",
+      "C) Peroxissomo.",
+      "D) Complexo golgiense.",
+      "E) Retículo endoplasmático."
+    ],
+    "year": "2013",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "62"
+  },
+  {
+    "description": "QUESTÃO 64) Uma das etapas do tratamento da água é a desinfecção, sendo a cloração o método mais empregado. Esse método consiste na dissolução do gás cloro numa solução sob pressão e sua aplicação na água a ser desinfectada. As equações das reações químicas envolvidas são: Cl2 (g) + 2 H2O (l) HClO (aq) + H3O+ (aq) + Cl− (aq) HClO (aq) + H2O (l) H3O+ (aq) + ClO− (aq) pKa = − log Ka = 7,53 A ação desinfetante é controlada pelo ácido hipocloroso, que possui um potencial de desinfecção cerca de 80 vezes superior ao ânion hipoclorito. O pH do meio é importante, porque influencia na extensão com que o ácido hipocloroso se ioniza.\nPara que a desinfecção seja mais efetiva, o pH da água a ser tratada deve estar mais próximo de",
+    "alternatives": [
+      "A) 0.",
+      "B) 5.",
+      "C) 7.",
+      "D) 9.",
+      "E) 14."
+    ],
+    "year": "2013",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "64"
+  },
+  {
+    "description": "QUESTÃO 66) Para serrar ossos e carnes congeladas, um açougueiro utiliza uma serra de fita que possui três polias e um motor. O equipamento pode ser montado de duas formas diferentes, P e Q. Por questão de segurança, é necessário que a serra possua menor velocidade linear.\nSerra de fita Montagem P Polia 3 Polia 2 Correia Motor Serra de fita Montagem Q Polia 3 Polia 2 Correia Motor Polia 1 Polia 1 Por qual montagem o açougueiro deve optar e qual a justificativa desta opção?",
+    "alternatives": [
+      "A) Q, pois as polias 1 e 3 giram com velocidades lineares iguais em pontos periféricos e a que tiver maior raio terá menor frequência.",
+      "B) Q, pois as polias 1 e 3 giram com frequências iguais e a que tiver maior raio terá menor velocidade linear em um ponto periférico.",
+      "C) P, pois as polias 2 e 3 giram com frequências diferentes e a que tiver maior raio terá menor velocidade linear em um ponto periférico.",
+      "D) P, pois as polias 1 e 2 giram com diferentes velocidades lineares em pontos periféricos e a que tiver menor raio terá maior frequência.",
+      "E) Q, pois as polias 2 e 3 giram com diferentes velocidades lineares em pontos periféricos e a que tiver maior raio terá menor frequência."
+    ],
+    "year": "2013",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "66"
+  },
+  {
+    "description": "QUESTÃO 67) Sabe-se que o aumento da concentração de gases como CO2, CH4 e N2O na atmosfera é um dos fatores responsáveis pelo agravamento do efeito estufa. A agricultura é uma das atividades humanas que pode contribuir tanto para a emissão quanto para o sequestro desses gases, dependendo do manejo da matéria orgânica do solo.\nROSA, A. H.; COELHO, J. C. R. Cadernos Temáticos de Química Nova na Escola, De que maneira as práticas agrícolas podem ajudar a minimizar o agravamento do efeito estufa?",
+    "alternatives": [
+      "A) Evitando a rotação de culturas.",
+      "B) Liberando o CO2 presente no solo.",
+      "C) Aumentando a quantidade de matéria orgânica do solo.",
+      "D) Queimando a matéria orgânica que se deposita no solo.",
+      "E) Atenuando a concentração de resíduos vegetais do solo."
+    ],
+    "year": "2013",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "67"
+  },
+  {
+    "description": "QUESTÃO 71) A varfarina é um fármaco que diminui a agregação plaquetária, e por isso é utilizada como anticoagulante, desde que esteja presente no plasma, com uma concentração superior a 1,0 mg/L. Entretanto, concentrações plasmáticas superiores a 4,0 mg/L podem desencadear hemorragias. As moléculas desse fármaco ficam retidas no espaço intravascular e dissolvidas exclusivamente no plasma, que representa aproximadamente 60% do sangue em volume. Em um medicamento, a varfarina é administrada por via intravenosa na forma de solução aquosa, com concentração de 3,0 mg/mL. Um indivíduo adulto, com volume sanguíneo total de 5,0 L, será submetido a um tratamento com solução injetável desse medicamento.\nQual é o máximo volume da solução do medicamento que pode ser administrado a esse indivíduo, pela via intravenosa, de maneira que não ocorram hemorragias causadas pelo anticoagulante?",
+    "alternatives": [
+      "A) 1,0 mL",
+      "B) 1,7 mL",
+      "C) 2,7 mL",
+      "D) 4,0 mL",
+      "E) 6,7 mL"
+    ],
+    "year": "2013",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "71"
+  },
+  {
+    "description": "QUESTÃO 74) Eu também podia decompor a água, se fosse salgada ou acidulada, usando a pilha de Daniell como fonte de força. Lembro o prazer extraordinário que sentia ao decompor um pouco de água em uma taça para ovos quentes, vendo-a separar-se em seus elementos, o oxigênio em um eletrodo, o hidrogênio no outro. A eletricidade de uma pilha de 1 volt parecia tão fraca, e no entanto podia ser suficiente para desfazer um composto químico, a água...\nSACKS, O. Tio Tungstênio: memórias de uma infância química. São Paulo: Cia. das Letras, 2002.\nO fragmento do romance de Oliver Sacks relata a separação dos elementos que compõem a água. O princípio do método apresentado é utilizado industrialmente na",
+    "alternatives": [
+      "A) obtenção de ouro a partir de pepitas.",
+      "B) obtenção de calcário a partir de rochas.",
+      "C) obtenção de alumínio a partir da bauxita.",
+      "D) obtenção de ferro a partir de seus óxidos.",
+      "E) obtenção de amônia a partir de hidrogênio e nitrogênio."
+    ],
+    "year": "2013",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "74"
+  },
+  {
+    "description": "QUESTÃO 75) O chuveiro elétrico é um dispositivo capaz de transformar energia elétrica em energia térmica, o que possibilita a elevação da temperatura da água. Um chuveiro projetado para funcionar em 110 V pode ser adaptado para funcionar em 220 V, de modo a manter inalterada sua potência.\nUma das maneiras de fazer essa adaptação é trocar a resistência do chuveiro por outra, de mesmo material e com o(a)",
+    "alternatives": [
+      "A) dobro do comprimento do fio.",
+      "B) metade do comprimento do fio.",
+      "C) metade da área da seção reta do fio.",
+      "D) quádruplo da área da seção reta do fio.",
+      "E) quarta parte da área da seção reta do fio."
+    ],
+    "year": "2013",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "75"
+  },
+  {
+    "description": "QUESTÃO 76) Uma pessoa necessita da força de atrito em seus pés para se deslocar sobre uma superfície. Logo, uma pessoa que sobe uma rampa em linha reta será auxiliada pela força de atrito exercida pelo chão em seus pés.\nEm relação ao movimento dessa pessoa, quais são a direção e o sentido da força de atrito mencionada no texto?",
+    "alternatives": [
+      "A) Perpendicular ao plano e no mesmo sentido do movimento.",
+      "B) Paralelo ao plano e no sentido contrário ao movimento.",
+      "C) Paralelo ao plano e no mesmo sentido do movimento.",
+      "D) Horizontal e no mesmo sentido do movimento.",
+      "E) Vertical e sentido para cima."
+    ],
+    "year": "2013",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "76"
+  },
+  {
+    "description": "QUESTÃO 77) A produção de aço envolve o aquecimento do minério de ferro, junto com carvão (carbono) e ar atmosférico em uma série de reações de oxirredução. O produto é chamado de ferro-gusa e contém cerca de 3,3% de carbono. Uma forma de eliminar o excesso de carbono é a oxidação a partir do aquecimento do ferro-gusa com gás oxigênio puro. Os dois principais produtos formados são aço doce (liga de ferro com teor de 0,3% de carbono restante) e gás carbônico. As massas molares aproximadas dos elementos carbono e oxigênio são, respectivamente, 12 g/mol e 16 g/mol.\nConsiderando que um forno foi alimentado com 2,5 toneladas de ferro-gusa, a massa de gás carbônico formada, em quilogramas, na produção de aço doce, é mais próxima de",
+    "alternatives": [
+      "A) 28.",
+      "B) 75.",
+      "C) 175.",
+      "D) 275.",
+      "E) 303."
+    ],
+    "year": "2013",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "77"
+  },
+  {
+    "description": "QUESTÃO 78) A contaminação pelo vírus da rubéola é especialmente preocupante em grávidas, devido à síndrome da rubéola congênita (SRC), que pode levar ao risco de aborto e malformações congênitas. Devido a campanhas de vacinação específicas, nas últimas décadas houve uma grande diminuição de casos de rubéola entre as mulheres, e, a partir de 2008, as campanhas se intensificaram e têm dado maior enfoque à vacinação de homens jovens.\nBRASIL. Brasil livre da rubéola: campanha nacional de vacinação para eliminação da Considerando a preocupação com a ocorrência da SRC, as campanhas passaram a dar enfoque à vacinação dos homens, porque eles",
+    "alternatives": [
+      "A) ficam mais expostos a esse vírus.",
+      "B) transmitem o vírus a mulheres gestantes.",
+      "C) passam a infecção diretamente para o feto.",
+      "D) transferem imunidade às parceiras grávidas.",
+      "E) são mais sucetíveis a esse vírus que as mulheres."
+    ],
+    "year": "2013",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "78"
+  },
+  {
+    "description": "QUESTÃO 79) Um circuito em série é formado por uma pilha, uma lâmpada incandescente e uma chave interruptora. Ao se ligar a chave, a lâmpada acende quase instantaneamente, irradiando calor e luz. Popularmente, associa-se o fenômeno da irradiação de energia a um desgaste da corrente elétrica, ao atravessar o filamento da lâmpada, e à rapidez com que a lâmpada começa a brilhar. Essa explicação está em desacordo com o modelo clássico de corrente.\nDe acordo com o modelo mencionado, o fato de a lâmpada acender quase instantaneamente está relacionado à rapidez com que",
+    "alternatives": [
+      "A) o fluido elétrico se desloca no circuito.",
+      "B) as cargas negativas móveis atravessam o circuito.",
+      "C) a bateria libera cargas móveis para o filamento da lâmpada.",
+      "D) o campo elétrico se estabelece em todos os pontos do circuito.",
+      "E) as cargas positivas e negativas se chocam no filamento da lâmpada."
+    ],
+    "year": "2013",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "79"
+  },
+  {
+    "description": "QUESTÃO 80) Estudos de fluxo de energia em ecossistemas demonstram que a alta produtividade nos manguezais está diretamente relacionada às taxas de produção primária líquida e à rápida reciclagem dos nutrientes. Como exemplo de seres vivos encontrados nesse ambiente, temos: aves, caranguejos, insetos, peixes e algas.\nDos grupos de seres vivos citados, os que contribuem diretamente para a manutenção dessa produtividade no referido ecossistema são",
+    "alternatives": [
+      "A) aves.",
+      "B) algas.",
+      "C) peixes.",
+      "D) insetos.",
+      "E) caranguejos."
+    ],
+    "year": "2013",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "80"
+  },
+  {
+    "description": "QUESTÃO 83) Medir temperatura é fundamental em muitas aplicações, e apresentar a leitura em mostradores digitais é bastante prático. O seu funcionamento é baseado na correspondência entre valores de temperatura e de diferença de potencial elétrico. Por exemplo, podemos usar o circuito elétrico apresentado, no qual o elemento sensor de temperatura ocupa um dos braços do circuito (Rs) e a dependência da resistência com a temperatura é conhecida.\n+ 10 V 470 Ω 470 Ω RS = 100 Ω 120 Ω Voltímetro Para um valor de temperatura em que RS = 100 Ω, a leitura apresentada pelo voltímetro será de",
+    "alternatives": [
+      "A) + 6,2 V.",
+      "B) + 1,7 V.",
+      "C) + 0,3 V.",
+      "D) – 0,3 V.",
+      "E) – 6,2 V."
+    ],
+    "year": "2013",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "83"
+  },
+  {
+    "description": "QUESTÃO 84) Apesar de belos e impressionantes, corais exóticos encontrados na Ilha Grande podem ser uma ameaça ao equilíbrio dos ecossistemas do litoral do Rio de Janeiro. Originários do Oceano Pacífico, esses organismos foram trazidos por plataformas de petróleo e outras embarcações, provavelmente na década de 1980, e disputam com as espécies nativas elementos primordiais para a sobrevivência, como espaço e alimento. Organismos invasores são a segunda maior causa de perda de biodiversidade, superados somente pela destruição direta de hábitats pela ação do homem. As populações de espécies invasoras crescem indefinidamente e ocupam o espaço de organismos nativos.\nAs populações de espécies invasoras crescem bastante por terem a vantagem de",
+    "alternatives": [
+      "A) não apresentarem genes deletérios no seu pool gênico.",
+      "B) não possuírem parasitas e predadores naturais presentes no ambiente exótico.",
+      "C) apresentarem características genéticas para se adaptarem a qualquer clima ou condição ambiental.",
+      "D) apresentarem capacidade de consumir toda a variedade de alimentos disponibilizados no ambiente exótico.",
+      "E) apresentarem características fisiológicas que lhes conferem maior tamanho corporal que o das espécies nativas."
+    ],
+    "year": "2013",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "84"
+  },
+  {
+    "description": "QUESTÃO 85) Desenvolve-se um dispositivo para abrir automaticamente uma porta no qual um botão, quando acionado, faz com que uma corrente elétrica i = 6 A percorra uma barra condutora de comprimento L = 5 cm, cujo ponto médio está preso a uma mola de constante elástica k = 5 × 10–2 N/cm. O sistema mola-condutor está imerso em um campo magnético uniforme perpendicular ao plano. Quando acionado o botão, a barra sairá da posição de equilíbrio a uma velocidade média de 5 m/s e atingirá a catraca em 6 milisegundos, abrindo a porta. x (cm) 0 mola isolante fio catraca x x x x x x x x x x x x x x x x x x i k x B v i A intensidade do campo magnético, para que o dispostivo funcione corretamente, é de",
+    "alternatives": [
+      "A) 5 × 10–1 T.",
+      "B) 5 × 10–2 T.",
+      "C) 5 × 101 T.",
+      "D) 2 × 10–2 T.",
+      "E) 2 × 100 T."
+    ],
+    "year": "2013",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "85"
+  },
+  {
+    "description": "QUESTÃO 86) As fraldas descartáveis que contêm o polímero poliacrilato de sódio (1) são mais eficientes na retenção de água que as fraldas de pano convencionais, constituídas de fibras de celulose (2).\nn n O Na HO OH OH – + (1) (2) A maior eficiência dessas fraldas descartáveis, em relação às de pano, deve-se às",
+    "alternatives": [
+      "A) interações dipolo-dipolo mais fortes entre o poliacrilato e a água, em relação às ligações de hidrogênio entre a celulose e as moléculas de água.",
+      "B) interações íon-íon mais fortes entre o poliacrilato e as moléculas de água, em relação às ligações de hidrogênio entre a celulose e as moléculas de água.",
+      "C) ligações de hidrogênio mais fortes entre o poliacrilato e a água, em relação às interações íon-dipolo entre a celulose e as moléculas de água.",
+      "D) ligações de hidrogênio mais fortes entre o poliacrilato e as moléculas de água, em relação às interações dipolo induzido-dipolo induzido entre a celulose e as moléculas de água.",
+      "E) interações íon-dipolo mais fortes entre o poliacrilato e as moléculas de água, em relação às ligações de hidrogênio entre a celulose e as moléculas de água."
+    ],
+    "year": "2013",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "86"
+  },
+  {
+    "description": "QUESTÃO 89) Aquecedores solares usados em residências têm o objetivo de elevar a temperatura da água até 70 °C. No entanto, a temperatura ideal da água para um banho é de 30 °C. Por isso, deve-se misturar a água aquecida com a água à temperatura ambiente de um outro reservatório, que se encontra a 25 °C.\nQual a razão entre a massa de água quente e a massa de água fria na mistura para um banho à temperatura ideal?",
+    "alternatives": [
+      "A) 0,111.",
+      "B) 0,125.",
+      "C) 0,357.",
+      "D) 0,428.",
+      "E) 0,833."
+    ],
+    "year": "2013",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "89"
+  },
+  {
+    "description": "QUESTÃO 92) Do one thing for diversity and inclusion The United Nations Alliance of Civilizations (UNAOC) is launching a campaign aimed at engaging people around the world to Do One Thing to support Cultural Diversity and Inclusion. Every one of us can do ONE thing for diversity and inclusion; even one very little thing can become a global action if we all take part in it.\nSimple things YOU can do to celebrate the World Day for Cultural Diversity for Dialogue and Development on May 21.\n1. Visit an art exhibit or a museum dedicated to other cultures.\n2. Read about the great thinkers of other cultures.\n3. Visit a place of worship different than yours and participate in the celebration.\n4. Spread your own culture around the world and learn about other cultures.\n5. Explore music of a different culture.\n There are thousands of things that you can do, are you taking part in it? Internautas costumam manifestar suas opiniões sobre artigos on-line por meio da postagem de comentários. O comentário que exemplifica o engajamento proposto na quarta dica da campanha apresentada no texto é:",
+    "alternatives": [
+      "A) “Lá na minha escola, aprendi a jogar capoeira para uma apresentação no Dia da Consciência Negra.”",
+      "B) “Outro dia assisti na TV uma reportagem sobre respeito à diversidade. Gente de todos os tipos, várias tribos. Curti bastante.”",
+      "C) “Eu me inscrevi no Programa Jovens Embaixadores para mostrar o que tem de bom em meu país e conhecer outras formas de ser.”",
+      "D) “Curto muito bater papo na internet. Meus amigos estrangeiros me ajudam a aperfeiçoar minha proficiência em língua estrangeira.”",
+      "E) “Pesquisei em sites de culinária e preparei uma festa árabe para uns amigos da escola. Eles adoraram, principalmente, os doces!”"
+    ],
+    "year": "2013",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "92"
+  },
+  {
+    "description": "QUESTÃO 93) After prison blaze kills hundreds in Honduras, UN warns on overcrowding 15 February 2012 A United Nations human rights official today called on Latin American countries to tackle the problem of prison overcrowding in the wake of an overnight fire at a jail in Honduras that killed hundreds of inmates. More than 300 prisoners are reported to have died in the blaze at the prison, located north of the capital, Tegucigalpa, with dozens of others still missing and presumed dead. Antonio Maldonado, human rights adviser for the UN system in Honduras, told UN Radio today that overcrowding may have contributed to the death toll. “But we have to wait until a thorough investigation is conducted so we can reach a precise cause,” he said. “But of course there is a problem of overcrowding in the prison system, not only in this country, but also in many other prisons in Latin America.” Os noticiários destacam acontecimentos diários, que são veiculados em jornal impresso, rádio, televisão e internet. Nesse texto, o acontecimento reportado é a",
+    "alternatives": [
+      "A) ocorrência de um incêndio em um presídio superlotado em Honduras.",
+      "B) questão da superlotação nos presídios em Honduras e na América Latina.",
+      "C) investigação da morte de um oficial das Nações Unidas em visita a um presídio.",
+      "D) conclusão do relatório sobre a morte de mais de trezentos detentos em Honduras.",
+      "E) causa da morte de doze detentos em um presídio superlotado ao norte de Honduras."
+    ],
+    "year": "2013",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "93"
+  },
+  {
+    "description": "QUESTÃO 94) National Geographic News Christine Dell’Amore Published April 26, 2010 Our bodies produce a small steady amount of natural morphine, a new study suggests. Traces of the chemical are often found in mouse and human urine, leading scientists to wonder whether the drug is being made naturally or being delivered by something the subjects consumed. The new research shows that mice produce the “incredible painkiller” — and that humans and other mammals possess the same chemical road map for making it, said study co-author Meinhart Zenk, who studies plant-based pharmaceuticals at the Donald Danforth Plant Science Center in St. Louis, Missouri.\nAo ler a matéria publicada na National Geographic, para a realização de um trabalho escolar, um estudante descobriu que",
+    "alternatives": [
+      "A) os compostos químicos da morfina, produzidos por humanos, são manipulados no Missouri.",
+      "B) os ratos e os humanos possuem a mesma via metabólica para produção de morfina.",
+      "C) a produção de morfina em grande quantidade minimiza a dor em ratos e humanos.",
+      "D) os seres humanos têm uma predisposição genética para inibir a dor.",
+      "E) a produção de morfina é um traço incomum entre os animais."
+    ],
+    "year": "2013",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "94"
+  },
+  {
+    "description": "QUESTÃO 95) Steve Jobs: A Life Remembered 1955-2011 Readersdigest.ca takes a look back at Steve Jobs, and his contribution to our digital world.\nCEO. Tech-Guru. Artist. There are few corporate figures as famous and well-regarded as former-Apple CEO Steve Jobs. His list of achievements is staggering, and his contribution to modern technology, digital media, and indeed the world as a whole, cannot be downplayed.\nWith his passing on October 5, 2011, readersdigest.ca looks back at some of his greatest achievements, and pays our respects to a digital pioneer who helped pave the way for a generation of technology, and possibilities, few could have imagined.\nInformações sobre pessoas famosas são recorrentes na mídia, divulgadas de forma impressa ou virtualmente. Em relação a Steve Jobs, esse texto propõe",
+    "alternatives": [
+      "A) expor as maiores conquistas da sua empresa.",
+      "B) descrever suas criações na área da tecnologia.",
+      "C) enaltecer sua contribuição para o mundo digital.",
+      "D) lamentar sua ausência na criação de novas tecnologias.",
+      "E) discutir o impacto de seu trabalho para a geração digital."
+    ],
+    "year": "2013",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "95"
+  },
+  {
+    "description": "QUESTÃO 91) Cabra sola Hay quien dice que soy como la cabra; Lo dicen lo repiten, ya lo creo; Pero soy una cabra muy extraña Que lleva una medalla y siete cuernos. ¡Cabra! En vez de mala leche yo doy llanto. ¡Cabra! Por lo más peligroso me paseo. ¡Cabra! Me llevo bien con alimañas todas, ¡Cabra! Y escribo en los tebeos. Vivo sola, cabra sola, — que no quise cabrito en compañía — cuando subo a lo alto de este valle siempre encuentro un lirio de alegría. Y vivo por mi cuenta, cabra sola; Que yo a ningún rebaño pertenezco. Si sufrir es estar como una cabra, Entonces sí lo estoy, no dudar de ello.\nFUERTES, G. Poeta de guardia. Barcelona: Lumen, 1990.\nNo poema, o eu lírico se compara à cabra e no quinto verso utiliza a expressão “mala leche” para se autorrepresentar como uma pessoa",
+    "alternatives": [
+      "A) influenciável pela opinião das demais.",
+      "B) consciente de sua diferença perante as outras.",
+      "C) conformada por não pertencer a nenhum grupo.",
+      "D) corajosa diante de situações arriscadas.",
+      "E) capaz de transformar mau humor em pranto."
+    ],
+    "year": "2013",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "96"
+  },
+  {
+    "description": "QUESTÃO 93) Pensar la lengua del siglo XXI Aceptada la dicotomía entre “español general” académico y “español periférico” americano, la capacidad financiera de la Real Academia, apoyada por la corona y las grandes empresas transnacionales españolas, no promueve la conservación de la unidad, sino la unificación del español, dirigida e impuesta desde España (la Fundación Español Urgente: Fundeu). Unidad y unificación no son lo mismo: la unidad ha existido siempre y con ella la variedad de la lengua, riqueza suprema de nuestras culturas nacionales; la unificación lleva a la pérdida de las diferencias culturales, que nutren al ser humano y son tan importantes como la diversidad biológica de la Tierra.\nCulturas nacionales: desde que nacieron los primeros criollos, mestizos y mulatos en el continente hispanoamericano, las diferencias de colonización, las improntas que dejaron en las nacientes sociedades americanas los pueblo aborígenes, la explotación de las riquezas naturales, las redes comerciales coloniales fueron creando culturas propias, diferentes entre sí, aunque con el fondo común de la tradición española. Después de las independencias, cuando se instituyeron nuestras naciones, bajo diferentes influencias, ya francesas, ya inglesas; cuando los inmigrantes italianos, sobre todo, dieron su pauta a Argentina, Uruguay o Venezuela, esas culturas nacionales se consolidaron y con ellas su español, pues la lengua es, ante todo, constituyente. Así, el español actual de España no es sino una más de las lenguas nacionales del mundo hispánico. El español actual es el conjunto de veintidós españoles nacionales, que tienen sus propias características; ninguno vale más que otro. La lengua del siglo XXI es, por eso, una lengua pluricéntrica.\nO texto aborda a questão da língua espanhola no século XXI e tem como função apontar que",
+    "alternatives": [
+      "A) as especificidades culturais rompem com a unidade hispânica.",
+      "B) as variedades do espanhol têm igual relevância linguística e cultural.",
+      "C) a unidade linguística do espanhol fortalece a identidade cultural hispânica.",
+      "D) a consolidação das diferenças da língua prejudica sua projeção mundial.",
+      "E) a unificação da língua enriquece a competência linguística dos falantes."
+    ],
+    "year": "2013",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "98"
+  },
+  {
+    "description": "QUESTÃO 95) Duerme negrito Duerme, duerme, negrito, que tu mamá está en el campo, negrito...\nTe va a traer codornices para ti. Te va a traer rica fruta para ti. Te va a traer carne de cerdo para ti. Te va a traer muchas cosas para ti [...] Duerme, duerme, negrito, que tu mamá está en el campo, negrito... Trabajando, trabajando duramente, trabajando sí. Trabajando y no le pagan, trabajando sí. Duerme negrito é uma cantiga de ninar da cultura popular hispânica, cuja letra problematiza uma questão social, ao",
+    "alternatives": [
+      "A) destacar o orgulho da mulher como provedora do lar.",
+      "B) evidenciar a ausência afetiva da mãe na criação do fi lho.",
+      "C) retratar a precariedade das relações de trabalho no campo.",
+      "D) ressaltar a inserção da mulher no mercado de trabalho rural.",
+      "E) exaltar liricamente a voz materna na formação cidadã do fi lho. Questões de 96 a 135"
+    ],
+    "year": "2013",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "100"
+  },
+  {
+    "description": "QUESTÃO 98) Querô DELEGADO — Então desce ele. Vê o que arrancam desse sacana.\nSARARÁ — Só que tem um porém. Ele é menor.\nDELEGADO — Então vai com jeito. Depois a gente entrega pro juiz.\n(Luz apaga no delegado e acende no repórter, que se dirige ao público.) REPÓRTER — E o Querô foi espremido, empilhado, esmagado de corpo e alma num cubículo imundo, com outros meninos. Meninos todos espremidos, empilhados, esmagados de corpo e alma, alucinados pelos seus desesperos, cegados por muitas aflições. Muitos meninos, com seus desesperos e seus ódios, empilhados, espremidos, esmagados de corpo e alma no imundo cubículo do reformatório. E foi lá que o Querô cresceu.\nMARCOS, P. Melhor teatro. São Paulo: Global, 2003 (fragmento).\nNo discurso do repórter, a repetição causa um efeito de sentido de intensificação, construindo a ideia de",
+    "alternatives": [
+      "A) opressão física e moral, que gera rancor nos meninos.",
+      "B) repressão policial e social, que gera apatia nos meninos.",
+      "C) polêmica judicial e midiática, que gera confusão entre os meninos.",
+      "D) concepção educacional e carcerária, que gera comoção nos meninos.",
+      "E) informação crítica e jornalística, que gera indignação entre os meninos."
+    ],
+    "year": "2013",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "103"
+  },
+  {
+    "description": "QUESTÃO 100) Secretaria de Cultura EDITAL NOTIFICAÇÃO — Síntese da resolução publicada no Diário Oficial da Cidade, 29/07/2011 — página 41 — 511ª Reunião Ordinária, em 21/06/2011.\nResolução nº 08/2011 — TOMBAMENTO dos imóveis da Rua Augusta, nº 349 e n° 353, esquina com a Rua Marquês de Paranaguá, nº 315, n° 327 e n° 329 (Setor 010, Quadra 026, Lotes 0016-2 e 00170-0), bairro da Consolação, Subprefeitura da Sé, conforme o processo administrativo nº 1991-0.005.365-1.\nUm leitor interessado nas decisões governamentais escreve uma carta para o jornal que publicou o edital, concordando com a resolução sintetizada no Edital da Secretaria de Cultura. Uma frase adequada para expressar sua concordância é:",
+    "alternatives": [
+      "A) Que sábia iniciativa! Os prédios em péssimo estado de conservação devem ser derrubados.",
+      "B) Até que enfim! Os edifícios localizados nesse trecho descaracterizam o conjunto arquitetônico da Rua Augusta.",
+      "C) Parabéns! O poder público precisa mostrar sua força como guardião das tradições dos moradores locais.",
+      "D) Justa decisão! O governo dá mais um passo rumo à eliminação do problema da falta de moradias populares.",
+      "E) Congratulações! O patrimônio histórico da cidade merece todo empenho para ser preservado."
+    ],
+    "year": "2013",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "105"
+  },
+  {
+    "description": "QUESTÃO 101) Adolescentes: mais altos, gordos e preguiçosos A oferta de produtos industrializados e a falta de tempo têm sua parcela de responsabilidade no aumento da silhueta dos jovens. “Os nossos hábitos alimentares, de modo geral, mudaram muito”, observa Vivian Ellinger, presidente da Sociedade Brasileira de Endocrinologia e Metabologia (SBEM), no Rio de Janeiro. Pesquisas mostram que, aqui no Brasil, estamos exagerando no sal e no açúcar, além de tomar pouco leite e comer menos frutas e feijão.\nOutro pecado, velho conhecido de quem exibe excesso de gordura por causa da gula, surge como marca da nova geração: a preguiça. “Cem por cento das meninas que participam do Programa não praticavam nenhum esporte”, revela a psicóloga Cristina Freire, que monitora o desenvolvimento emocional das voluntárias.\nVocê provavelmente já sabe quais são as consequências de uma rotina sedentária e cheia de gordura. “E não é novidade que os obesos têm uma sobrevida menor”, acredita Claudia Cozer, endocrinologista da Associação Brasileira para o Estudo da Obesidade e da Síndrome Metabólica. Mas, se há cinco anos os estudos projetavam um futuro sombrio para os jovens, no cenário atual as doenças que viriam na velhice já são parte da rotina deles. “Os adolescentes já estão sofrendo com hipertensão e diabete”, exemplifica Claudia.\nSobre a relação entre os hábitos da população adolescente e as suas condições de saúde, as informações apresentadas no texto indicam que",
+    "alternatives": [
+      "A) a falta de atividade física somada a uma alimentação nutricionalmente desequilibrada constituem fatores relacionados ao aparecimento de doenças crônicas entre os adolescentes.",
+      "B) a diminuição do consumo de alimentos fontes de carboidratos combinada com um maior consumo de alimentos ricos em proteínas contribuíram para o aumento da obesidade entre os adolescentes.",
+      "C) a maior participação dos alimentos industrializados e gordurosos na dieta da população adolescente tem tornado escasso o consumo de sais e açúcares, o que prejudica o equilíbrio metabólico.",
+      "D) a ocorrência de casos de hipertensão e diabetes entre os adolescentes advém das condições de alimentação, enquanto que na população adulta os fatores hereditários são preponderantes.",
+      "E) a prática regular de atividade física é um importante fator de controle da diabetes entre a população adolescente, por provocar um constante aumento da pressão arterial sistólica."
+    ],
+    "year": "2013",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "106"
+  },
+  {
+    "description": "QUESTÃO 103) O jogo é uma atividade ou ocupação voluntária, exercida dentro de certos e determinados limites de tempo e de espaço, segundo regras livremente consentidas, mas absolutamente obrigatórias, dotado de um fim em si mesmo, acompanhado de um sentimento de tensão e de alegria e de uma consciência de ser diferente da “vida quotidiana”.\nHUIZINGA, J. Homo ludens: o jogo como elemento da cultura. São Paulo: Perspectiva, 2004.\nSegundo o texto, o jogo comporta a possibilidade de fruição. Do ponto de vista das práticas corporais, essa fruição se estabelece por meio do(a)",
+    "alternatives": [
+      "A) fixação de táticas, que define a padronização para maior alcance popular.",
+      "B) competitividade, que impulsiona o interesse pelo sucesso.",
+      "C) refinamento técnico, que gera resultados satisfatórios.",
+      "D) caráter lúdico, que permite experiências inusitadas.",
+      "E) uso tecnológico, que amplia as opções de lazer."
+    ],
+    "year": "2013",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "108"
+  },
+  {
+    "description": "QUESTÃO 109) Jogar limpo Argumentar não é ganhar uma discussão a qualquer preço. Convencer alguém de algo é, antes de tudo, uma alternativa à prática de ganhar uma questão no grito ou na violência física — ou não física. Não física, dois pontos. Um político que mente descaradamente pode cativar eleitores. Uma publicidade que joga baixo pode constranger multidões a consumir um produto danoso ao ambiente. Há manipulações psicológicas não só na religião. E é comum pessoas agirem emocionalmente, porque vítimas de ardilosa — e cangoteira — sedução. Embora a eficácia a todo preço não seja argumentar, tampouco se trata de admitir só verdades científicas — formar opinião apenas depois de ver a demonstração e as evidências, como a ciência faz. Argumentar é matéria da vida cotidiana, uma forma de retórica, mas é um raciocínio que tenta convencer sem se tornar mero cálculo manipulativo, e pode ser rigoroso sem ser científico.\nNo fragmento, opta-se por uma construção linguística bastante diferente em relação aos padrões normalmente empregados na escrita. Trata-se da frase “Não física, dois pontos”. Nesse contexto, a escolha por se representar por extenso o sinal de pontuação que deveria ser utilizado",
+    "alternatives": [
+      "A) enfatiza a metáfora de que o autor se vale para desenvolver seu ponto de vista sobre a arte de argumentar.",
+      "B) diz respeito a um recurso de metalinguagem, evidenciando as relações e as estruturas presentes no enunciado.",
+      "C) é um recurso estilístico que promove satisfatoriamente a sequenciação de ideias, introduzindo apostos exemplificativos.",
+      "D) ilustra a flexibilidade na estruturação do gênero textual, a qual se concretiza no emprego da linguagem conotativa.",
+      "E) prejudica a sequência do texto, provocando estranheza no leitor ao não desenvolver explicitamente o raciocínio a partir de argumentos."
+    ],
+    "year": "2013",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "114"
+  },
+  {
+    "description": "QUESTÃO 110) A diva Vamos ao teatro, Maria José? Quem me dera, desmanchei em rosca quinze kilos de farinha, tou podre. Outro dia a gente vamos.\nFalou meio triste, culpada, e um pouco alegre por recusar com orgulho.\nTEATRO! Disse no espelho.\nTEATRO! Mais alto, desgrenhada.\nTEATRO! E os cacos voaram sem nenhum aplauso.\nPerfeita.\nPRADO, A. Oráculos de maio. São Paulo: Siciliano, 1999.\nOs diferentes gêneros textuais desempenham funções sociais diversas, reconhecidas pelo leitor com base em suas características específicas, bem como na situação comunicativa em que ele é produzido. Assim, o texto A diva",
+    "alternatives": [
+      "A) narra um fato real vivido por Maria José.",
+      "B) surpreende o leitor pelo seu efeito poético.",
+      "C) relata uma experiência teatral profissional.",
+      "D) descreve uma ação típica de uma mulher sonhadora.",
+      "E) defende um ponto de vista relativo ao exercício teatral."
+    ],
+    "year": "2013",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "115"
+  },
+  {
+    "description": "QUESTÃO 112) TEXTO I É evidente que a vitamina D é importante — mas como obtê-la? Realmente, a vitamina D pode ser produzida naturalmente pela exposição à luz do sol, mas ela também existe em alguns alimentos comuns. Entretanto, como fonte dessa vitamina, certos alimentos são melhores do que outros. Alguns possuem uma quantidade significativa de vitamina D, naturalmente, e são alimentos que talvez você não queira exagerar: manteiga, nata, gema de ovo e fígado.\nTEXTO II Todos nós sabemos que a vitamina D (colecalciferol) é crucial para sua saúde. Mas a vitamina D é realmente uma vitamina? Está presente nas comidas que os humanos normalmente consomem? Embora exista em algum percentual na gordura do peixe, a vitamina D não está em nossas dietas, a não ser que os humanos artificialmente incrementem um produto alimentar, como o leite enriquecido com vitamina D. A natureza planejou que você a produzisse em sua pele, e não a colocasse direto em sua boca.\nEntão, seria a vitamina D realmente uma vitamina? Frequentemente circulam na mídia textos de divulgação científica que apresentam informações divergentes sobre um mesmo tema. Comparando os dois textos, constata-se que o Texto II contrapõe-se ao I quando",
+    "alternatives": [
+      "A) comprova cientificamente que a vitamina D não é uma vitamina.",
+      "B) demonstra a verdadeira importância da vitamina D para a saúde.",
+      "C) enfatiza que a vitamina D é mais comumente produzida pelo corpo que absorvida por meio de alimentos.",
+      "D) afirma que a vitamina D existe na gordura dos peixes e no leite, não em seus derivados.",
+      "E) levanta a possibilidade de o corpo humano produzir artificialmente a vitamina D."
+    ],
+    "year": "2013",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "117"
+  },
+  {
+    "description": "QUESTÃO 118) Futebol: “A rebeldia é que muda o mundo” Conheça a história de Afonsinho, o primeiro jogador do futebol brasileiro a derrotar a cartolagem e a conquistar o Passe Livre, há exatos 40 anos Pelé estava se aposentando pra valer pela primeira vez, então com a camisa do Santos (porque depois voltaria a atuar pelo New York Cosmos, dos Estados Unidos), em 1972, quando foi questionado se, finalmente, sentia-se um homem livre. O Rei respondeu sem titubear: — Homem livre no futebol só conheço um: o Afonsinho. Este sim pode dizer, usando as suas palavras, que deu o grito de independência ou morte. Ninguém mais. O resto é conversa.\nApesar de suas declarações serem motivo de chacota por parte da mídia futebolística e até dos torcedores brasileiros, o Atleta do Século acertou. E provavelmente acertaria novamente hoje.\nPela admiração por um de seus colegas de clube daquele ano. Pelo reconhecimento do caráter e personalidade de um dos jogadores mais contestadores do futebol nacional. E principalmente em razão da história de luta — e vitória — de Afonsinho sobre os cartolas.\nO autor utiliza marcas linguísticas que dão ao texto um caráter informal. Uma dessas marcas é identificada em:",
+    "alternatives": [
+      "A) “[...] o Atleta do Século acertou.”",
+      "B) “O Rei respondeu sem titubear [...]”.",
+      "C) “E provavelmente acertaria novamente hoje.”",
+      "D) “Pelé estava se aposentando pra valer pela primeira vez [...]”.",
+      "E) “Pela admiração por um de seus colegas de clube daquele ano.”"
+    ],
+    "year": "2013",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "123"
+  },
+  {
+    "description": "QUESTÃO 120) Pelas características da linguagem visual e pelas escolhas vocabulares, pode-se entender que o texto possibilita a reflexão sobre uma problemática contemporânea ao",
+    "alternatives": [
+      "A) criticar o transporte rodoviário brasileiro, em razão da grande quantidade de caminhões nas estradas.",
+      "B) ironizar a dificuldade de locomoção no trânsito urbano, devida ao grande fluxo de veículos.",
+      "C) expor a questão do movimento como um problema existente desde tempos antigos, conforme frase citada.",
+      "D) restringir os problemas de tráfego a veículos particulares, defendendo, como solução, o transporte público.",
+      "E) propor a ampliação de vias nas estradas, detalhando o espaço exíguo ocupado pelos veículos nas ruas."
+    ],
+    "year": "2013",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "125"
+  },
+  {
+    "description": "QUESTÃO 121) Gripado, penso entre espirros em como a palavra gripe nos chegou após uma série de contágios entre línguas. Partiu da Itália em 1743 a epidemia de gripe que disseminou pela Europa, além do vírus propriamente dito, dois vocábulos virais: o italiano influenza e o francês grippe. O primeiro era um termo derivado do latim medieval influentia, que significava “influência dos astros sobre os homens”. O segundo era apenas a forma nominal do verbo gripper, isto é, “agarrar”. Supõe-se que fizesse referência ao modo violento como o vírus se apossa do organismo infectado.\nRODRIGUES, S. Sobre palavras.Veja, São Paulo, 30 nov. 2011.\nPara se entender o trecho como uma unidade de sentido, é preciso que o leitor reconheça a ligação entre seus elementos. Nesse texto, a coesão é construída predominantemente pela retomada de um termo por outro e pelo uso da elipse. O fragmento do texto em que há coesão por elipse do sujeito é:",
+    "alternatives": [
+      "A) “[...] a palavra gripe nos chegou após uma série de contágios entre línguas.”",
+      "B) “Partiu da Itália em 1743 a epidemia de gripe [...]”.",
+      "C) “O primeiro era um termo derivado do latim medieval influentia, que significava ‘influência dos astros sobre os homens’.”",
+      "D) “O segundo era apenas a forma nominal do verbo gripper [...]”.",
+      "E) “Supõe-se que fizesse referência ao modo violento como o vírus se apossa do organismo infectado.”"
+    ],
+    "year": "2013",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "126"
+  },
+  {
+    "description": "QUESTÃO 122) Capítulo LIV — A pêndula Saí dali a saborear o beijo. Não pude dormir; estirei- me na cama, é certo, mas foi o mesmo que nada. Ouvi as horas todas da noite. Usualmente, quando eu perdia o sono, o bater da pêndula fazia-me muito mal; esse tique- taque soturno, vagaroso e seco parecia dizer a cada golpe que eu ia ter um instante menos de vida. Imaginava então um velho diabo, sentado entre dois sacos, o da vida e o da morte, e a contá-las assim: — Outra de menos...\n— Outra de menos...\n— Outra de menos...\n— Outra de menos...\nO mais singular é que, se o relógio parava, eu dava- lhe corda, para que ele não deixasse de bater nunca, e eu pudesse contar todos os meus instantes perdidos. Invenções há, que se transformam ou acabam; as mesmas instituições morrem; o relógio é definitivo e perpétuo. O derradeiro homem, ao despedir-se do sol frio e gasto, há de ter um relógio na algibeira, para saber a hora exata em que morre.\nNaquela noite não padeci essa triste sensação de enfado, mas outra, e deleitosa. As fantasias tumultuavam- me cá dentro, vinham umas sobre outras, à semelhança de devotas que se abalroam para ver o anjo-cantor das procissões. Não ouvia os instantes perdidos, mas os minutos ganhados.\nASSIS, M. Memórias póstumas de Brás Cubas. Rio de Janeiro: Nova Aguilar, 1992 (fragmento).\nO capítulo apresenta o instante em que Brás Cubas revive a sensação do beijo trocado com Virgília, casada com Lobo Neves. Nesse contexto, a metáfora do relógio desconstrói certos paradigmas românticos, porque",
+    "alternatives": [
+      "A) o narrador e Virgília não têm percepção do tempo em seus encontros adúlteros.",
+      "B) como “defunto autor”, Brás Cubas reconhece a inutilidade de tentar acompanhar o fluxo do tempo.",
+      "C) na contagem das horas, o narrador metaforiza o desejo de triunfar e acumular riquezas.",
+      "D) o relógio representa a materialização do tempo e redireciona o comportamento idealista de Brás Cubas.",
+      "E) o narrador compara a duração do sabor do beijo à perpetuidade do relógio."
+    ],
+    "year": "2013",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "127"
+  },
+  {
+    "description": "QUESTÃO 124) Na verdade, o que se chama genericamente de índios é um grupo de mais de trezentos povos que, juntos, falam mais de 180 línguas diferentes. Cada um desses povos possui diferentes histórias, lendas, tradições, conceitos e olhares sobre a vida, sobre a liberdade, sobre o tempo e sobre a natureza. Em comum, tais comunidades apresentam a profunda comunhão com o ambiente em que vivem, o respeito em relação aos indivíduos mais velhos, a preocupação com as futuras gerações, e o senso de que a felicidade individual depende do êxito do grupo. Para eles, o sucesso é resultado de uma construção coletiva. Estas ideias, partilhadas pelos povos indígenas, são indispensáveis para construir qualquer noção moderna de civilização. Os verdadeiros representantes do atraso no nosso país não são os índios, mas aqueles que se pautam por visões preconceituosas e ultrapassadas de “progresso”.\nAcesso em: 7 dez. 2012.\nConsiderando-se as informações abordadas no texto, ao iniciá-lo com a expressão “Na verdade”, o autor tem como objetivo principal",
+    "alternatives": [
+      "A) expor as características comuns entre os povos indígenas no Brasil e suas ideias modernas e civilizadas.",
+      "B) trazer uma abordagem inédita sobre os povos indígenas no Brasil e, assim, ser reconhecido como especialista no assunto.",
+      "C) mostrar os povos indígenas vivendo em comunhão com a natureza, e, por isso, sugerir que se deve respeitar o meio ambiente e esses povos.",
+      "D) usar a conhecida oposição entre moderno e antigo como uma forma de respeitar a maneira ultrapassada como vivem os povos indígenas em diferentes regiões do Brasil.",
+      "E) apresentar informações pouco divulgadas a respeito dos indígenas no Brasil, para defender o caráter desses povos como civilizações, em contraposição a visões preconcebidas."
+    ],
+    "year": "2013",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "129"
+  },
+  {
+    "description": "QUESTÃO 126) Dúvida Dois compadres viajavam de carro por uma estrada de fazenda quando um bicho cruzou a frente do carro. Um dos compadres falou: — Passou um largato ali! O outro perguntou: — Lagarto ou largato? O primeiro respondeu: — Num sei não, o bicho passou muito rápido.\nPiadas coloridas. Rio de Janeiro: Gênero, 2006.\nNa piada, a quebra de expectativa contribui para produzir o efeito de humor. Esse efeito ocorre porque um dos personagens",
+    "alternatives": [
+      "A) reconhece a espécie do animal avistado.",
+      "B) tem dúvida sobre a pronúncia do nome do réptil.",
+      "C) desconsidera o conteúdo linguístico da pergunta.",
+      "D) constata o fato de um bicho cruzar a frente do carro.",
+      "E) apresenta duas possibilidades de sentido para a mesma palavra."
+    ],
+    "year": "2013",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "131"
+  },
+  {
+    "description": "QUESTÃO 127) (Tradução da placa: “Não me esqueçam quando eu for um nome importante.”) NAZARETH, P. Mercado de Artes / Mercado de Bananas. Miami Art Basel, EUA, 2011.\nA contemporaneidade identificada na performance / instalação do artista mineiro Paulo Nazareth reside principalmente na forma como ele",
+    "alternatives": [
+      "A) resgata conhecidas referências do modernismo mineiro.",
+      "B) utiliza técnicas e suportes tradicionais na construção das formas.",
+      "C) articula questões de identidade, território e códigos de linguagens.",
+      "D) imita o papel das celebridades no mundo contemporâneo.",
+      "E) camufla o aspecto plástico e a composição visual de sua montagem."
+    ],
+    "year": "2013",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "132"
+  },
+  {
+    "description": "QUESTÃO 129) MUSEU DA LÍNGUA PORTUGUESA. Oswald de Andrade: o culpado de tudo. 27 set. 2011 a 29 jan. 2012. São Paulo: Prol Gráfica, 2012.\nO poema de Oswald de Andrade remonta à ideia de que a brasilidade está relacionada ao futebol. Quanto à questão da identidade nacional, as anotações em torno dos versos constituem",
+    "alternatives": [
+      "A) direcionamentos possíveis para uma leitura crítica de dados histórico-culturais.",
+      "B) forma clássica da construção poética brasileira.",
+      "C) rejeição à ideia do Brasil como o país do futebol.",
+      "D) intervenções de um leitor estrangeiro no exercício de leitura poética.",
+      "E) lembretes de palavras tipicamente brasileiras substitutivas das originais."
+    ],
+    "year": "2013",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "134"
+  },
+  {
+    "description": "QUESTÃO 131) O que é bullying virtual ou cyberbullying? É o bullying que ocorre em meios eletrônicos, com mensagens difamatórias ou ameaçadoras circulando por e-mails, sites, blogs (os diários virtuais), redes sociais e celulares. É quase uma extensão do que dizem e fazem na escola, mas com o agravante de que as pessoas envolvidas não estão cara a cara.\nDessa forma, o anonimato pode aumentar a crueldade dos comentários e das ameaças e os efeitos podem ser tão graves ou piores. “O autor, assim como o alvo, tem dificuldade de sair de seu papel e retomar valores esquecidos ou formar novos”, explica Luciene Tognetta, doutora em Psicologia Escolar e pesquisadora da Faculdade de Educação da Universidade Estadual de Campinas (Unicamp).\nSegundo o texto, com as tecnologias de informação e comunicação, a prática do bullying ganha novas nuances de perversidade e é potencializada pelo fato de",
+    "alternatives": [
+      "A) atingir um grupo maior de espectadores.",
+      "B) dificultar a identificação do agressor incógnito.",
+      "C) impedir a retomada de valores consolidados pela vítima.",
+      "D) possibilitar a participação de um número maior de autores.",
+      "E) proporcionar o uso de uma variedade de ferramentas da internet."
+    ],
+    "year": "2013",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "136"
+  },
+  {
+    "description": "QUESTÃO 134) Art. 2º Considera-se criança, para os efeitos desta Lei, a pessoa até doze anos de idade incompletos, e adolescente aquela entre doze e dezoito anos de idade. [...] Art. 3º A criança e o adolescente gozam de todos os direitos fundamentais inerentes à pessoa humana, sem prejuízo da proteção integral de que trata esta Lei, assegurando-se-lhes, por lei ou por outros meios, todas as oportunidades e facilidades, a fim de lhes facultar o desenvolvimento físico, mental, moral, espiritual e social, em condições de liberdade e de dignidade.\nArt. 4º É dever da família, da comunidade, da sociedade em geral e do poder público assegurar, com absoluta prioridade, a efetivação dos direitos referentes à vida, à saúde, à alimentação, à educação, ao esporte, ao lazer, à profissionalização, à cultura, à dignidade, ao respeito, à liberdade e à convivência familiar e comunitária. [...] BRASIL. Lei n. 8 069, de 13 de julho de 1990. Estatuto da criança e do adolescente.\nPara cumprir sua função social, o Estatuto da criança e do adolescente apresenta características próprias desse gênero quanto ao uso da língua e quanto à composição textual. Entre essas características, destaca-se o emprego de",
+    "alternatives": [
+      "A) repetição vocabular para facilitar o entendimento.",
+      "B) palavras e construções que evitem ambiguidade.",
+      "C) expressões informais para apresentar os direitos.",
+      "D) frases na ordem direta para apresentar as informações mais relevantes.",
+      "E) exemplificações que auxiliem a compreensão dos conceitos formulados."
+    ],
+    "year": "2013",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "139"
+  },
+  {
+    "description": "QUESTÃO 135) O sociólogo espanhol Manuel Castells sustenta que “a comunicação de valores e a mobilização em torno do sentido são fundamentais. Os movimentos culturais (entendidos como movimentos que têm como objetivo defender ou propor modos próprios de vida e sentido) constroem-se em torno de sistemas de comunicação — essencialmente a internet e os meios de comunicação — porque esta é a principal via que esses movimentos encontram para chegar àquelas pessoas que podem eventualmente partilhar os seus valores, e a partir daqui atuar na consciência da sociedade no seu conjunto”.\nEm 2011, após uma forte mobilização popular via redes sociais, houve a queda do governo de Hosni Mubarak, no Egito. Esse evento ratifica o argumento de que",
+    "alternatives": [
+      "A) a internet atribui verdadeiros valores culturais aos seus usuários.",
+      "B) a consciência das sociedades foi estabelecida com o advento da internet.",
+      "C) a revolução tecnológica tem como principal objetivo a deposição de governantes antidemocráticos.",
+      "D) os recursos tecnológicos estão a serviço dos opressores e do fortalecimento de suas práticas políticas.",
+      "E) os sistemas de comunicação são mecanismos importantes de adesão e compartilhamento de valores sociais."
+    ],
+    "year": "2013",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "140"
+  },
+  {
+    "description": "QUESTÃO 137) Muitos processos fisiológicos e bioquímicos, tais como batimentos cardíacos e taxa de respiração, apresentam escalas construídas a partir da relação entre superfície e massa (ou volume) do animal. Uma dessas escalas, por exemplo, considera que “o cubo da área S da superfície de um mamífero é proporcional ao quadrado de sua massa M”.\nIsso é equivalente a dizer que, para uma constante k > 0, a área S pode ser escrita em função de M por meio da expressão:",
+    "alternatives": [
+      "A) S = k • M",
+      "B) S = k • M 1 3",
+      "C) S = k 1 • M 1 3 3",
+      "D) S = k 1 • M 2 3 3",
+      "E) S = k 1 • M 2 3"
+    ],
+    "year": "2013",
+    "subject": "Matemática e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "142"
+  },
+  {
+    "description": "QUESTÃO 143) Uma indústria tem um reservatório de água com capacidade para 900 m3. Quando há necessidade de limpeza do reservatório, toda a água precisa ser escoada. O escoamento da água é feito por seis ralos, e dura 6 horas quando o reservatório está cheio. Esta indústria construirá um novo reservatório, com capacidade de 500 m3, cujo escoamento da água deverá ser realizado em 4 horas, quando o reservatório estiver cheio. Os ralos utilizados no novo reservatório deverão ser idênticos aos do já existente.\nA quantidade de ralos do novo reservatório deverá ser igual a",
+    "alternatives": [
+      "A) 2.",
+      "B) 4.",
+      "C) 5.",
+      "D) 8.",
+      "E) 9."
+    ],
+    "year": "2013",
+    "subject": "Matemática e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "148"
+  },
+  {
+    "description": "QUESTÃO 146) O contribuinte que vende mais de R$ 20 mil de ações em Bolsa de Valores em um mês deverá pagar Imposto de Renda. O pagamento para a Receita Federal consistirá em 15% do lucro obtido com a venda das ações.\nUm contribuinte que vende por R$ 34 mil um lote de ações que custou R$ 26 mil terá de pagar de Imposto de Renda à Receita Federal o valor de",
+    "alternatives": [
+      "A) R$ 900,00.",
+      "B) R$ 1 200,00.",
+      "C) R$ 2 100,00.",
+      "D) R$ 3 900,00.",
+      "E) R$ 5 100,00."
+    ],
+    "year": "2013",
+    "subject": "Matemática e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "151"
+  },
+  {
+    "description": "QUESTÃO 147) Para se construir um contrapiso, é comum, na constituição do concreto, se utilizar cimento, areia e brita, na seguinte proporção: 1 parte de cimento, 4 partes de areia e 2 partes de brita. Para construir o contrapiso de uma garagem, uma construtora encomendou um caminhão betoneira com 14 m3 de concreto.\nQual é o volume de cimento, em m3, na carga de concreto trazido pela betoneira?",
+    "alternatives": [
+      "A) 1,75",
+      "B) 2,00",
+      "C) 2,33",
+      "D) 4,00",
+      "E) 8,00"
+    ],
+    "year": "2013",
+    "subject": "Matemática e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "152"
+  },
+  {
+    "description": "QUESTÃO 151) Para aumentar as vendas no início do ano, uma loja de departamentos remarcou os preços de seus produtos 20% abaixo do preço original. Quando chegam ao caixa, os clientes que possuem o cartão fidelidade da loja têm direito a um desconto adicional de 10% sobre o valor total de suas compras.\nUm cliente deseja comprar um produto que custava R$ 50,00 antes da remarcação de preços. Ele não possui o cartão fidelidade da loja.\nCaso esse cliente possuísse o cartão fidelidade da loja, a economia adicional que obteria ao efetuar a compra, em reais, seria de",
+    "alternatives": [
+      "A) 15,00.",
+      "B) 14,00.",
+      "C) 10,00.",
+      "D) 5,00.",
+      "E) 4,00."
+    ],
+    "year": "2013",
+    "subject": "Matemática e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "156"
+  },
+  {
+    "description": "QUESTÃO 153) Um dos grandes problemas enfrentados nas rodovias brasileiras é o excesso de carga transportada pelos caminhões. Dimensionado para o tráfego dentro dos limites legais de carga, o piso das estradas se deteriora com o peso excessivo dos caminhões. Além disso, o excesso de carga interfere na capacidade de frenagem e no funcionamento da suspensão do veículo, causas frequentes de acidentes.\nCiente dessa responsabilidade e com base na experiência adquirida com pesagens, um caminhoneiro sabe que seu caminhão pode carregar, no máximo, 1 500 telhas ou 1 200 tijolos.\nConsiderando esse caminhão carregado com 900 telhas, quantos tijolos, no máximo, podem ser acrescentados à carga de modo a não ultrapassar a carga máxima do caminhão?",
+    "alternatives": [
+      "A) 300 tijolos",
+      "B) 360 tijolos",
+      "C) 400 tijolos",
+      "D) 480 tijolos",
+      "E) 600 tijolos"
+    ],
+    "year": "2013",
+    "subject": "Matemática e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "158"
+  },
+  {
+    "description": "QUESTÃO 159) Uma torneira não foi fechada corretamente e ficou pingando, da meia-noite às seis horas da manhã, com a frequência de uma gota a cada três segundos. Sabe-se que cada gota d’agua tem volume de 0,2 mL.\nQual foi o valor mais aproximado do total de água desperdiçada nesse período, em litros?",
+    "alternatives": [
+      "A) 0,2",
+      "B) 1,2",
+      "C) 1,4",
+      "D) 12,9",
+      "E) 64,8"
+    ],
+    "year": "2013",
+    "subject": "Matemática e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "164"
+  },
+  {
+    "description": "QUESTÃO 162) Em setembro de 1987, Goiânia foi palco do maior acidente radioativo ocorrido no Brasil, quando uma amostra de césio-137, removida de um aparelho de radioterapia abandonado, foi manipulada inadvertidamente por parte da população. A meia-vida de um material radioativo é o tempo necessário para que a massa desse material se reduza à metade. A meia-vida do césio-137 é 30 anos e a quantidade restante de massa de um material radioativo, após t anos, é calculada pela expressão M(t) = A · (2,7)kt, onde A é a massa inicial e k é uma constante negativa.\nConsidere 0,3 como aproximação para log10 2.\nQual o tempo necessário, em anos, para que uma quantidade de massa do césio-137 se reduza a 10% da quantidade inicial?",
+    "alternatives": [
+      "A) 27",
+      "B) 36",
+      "C) 50",
+      "D) 54",
+      "E) 100"
+    ],
+    "year": "2013",
+    "subject": "Matemática e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "167"
+  },
+  {
+    "description": "QUESTÃO 163) Nos Estados Unidos a unidade de medida de volume mais utilizada em latas de refrigerante é a onça fluida (fl oz), que equivale a aproximadamente 2,95 centilitros (cL).\nSabe-se que o centilitro é a centésima parte do litro e que a lata de refrigerante usualmente comercializada no Brasil tem capacidade de 355 mL.\nAssim, a medida do volume da lata de refrigerante de 355 mL, em onça fluida (fl oz), é mais próxima de",
+    "alternatives": [
+      "A) 0,83.",
+      "B) 1,20.",
+      "C) 12,03.",
+      "D) 104,73.",
+      "E) 120,34."
+    ],
+    "year": "2013",
+    "subject": "Matemática e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "168"
+  },
+  {
+    "description": "QUESTÃO 164) Na aferição de um novo semáforo, os tempos são ajustados de modo que, em cada ciclo completo (verde- amarelo-vermelho), a luz amarela permaneça acesa por 5 segundos, e o tempo em que a luz verde permaneça acesa seja igual a 2 3 do tempo em que a luz vermelha fique acesa. A luz verde fica acesa, em cada ciclo, durante X segundos e cada ciclo dura Y segundos.\nQual é a expressão que representa a relação entre X e Y?",
+    "alternatives": [
+      "A) 5X − 3Y + 15 = 0",
+      "B) 5X − 2Y + 10 = 0",
+      "C) 3X − 3Y + 15 = 0",
+      "D) 3X − 2Y + 15 = 0",
+      "E) 3X − 2Y + 10 = 0"
+    ],
+    "year": "2013",
+    "subject": "Matemática e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "169"
+  },
+  {
+    "description": "QUESTÃO 165) A temperatura T de um forno (em graus centígrados) é reduzida por um sistema a partir do instante de seu desligamento (t = 0) e varia de acordo com a expressão T(t) = − t 2 4 + 400, com t em minutos. Por motivos de segurança, a trava do forno só é liberada para abertura quando o forno atinge a temperatura de 39 ºC.\nQual o tempo mínimo de espera, em minutos, após se desligar o forno, para que a porta possa ser aberta?",
+    "alternatives": [
+      "A) 19,0",
+      "B) 19,8",
+      "C) 20,0",
+      "D) 38,0",
+      "E) 39,0"
+    ],
+    "year": "2013",
+    "subject": "Matemática e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "170"
+  },
+  {
+    "description": "QUESTÃO 166) O ciclo de atividade magnética do Sol tem um período de 11 anos. O início do primeiro ciclo registrado se deu no começo de 1755 e se estendeu até o final de 1765. Desde então, todos os ciclos de atividade magnética do Sol têm sido registrados.\nNo ano de 2101, o Sol estará no ciclo de atividade magnética de número",
+    "alternatives": [
+      "A) 32.",
+      "B) 34.",
+      "C) 33.",
+      "D) 35.",
+      "E) 31."
+    ],
+    "year": "2013",
+    "subject": "Matemática e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "171"
+  },
+  {
+    "description": "QUESTÃO 170) Uma falsa relação O cruzamento da quantidade de horas estudadas com o desempenho no Programa Internacional de Avaliação de Estudantes (Pisa) mostra que mais tempo na escola não é garantia de nota acima da média.\nNOTAS NO PISA E CARGA HORÁRIA (PAÍSES SELECIONADOS)* * Considerando as médias de cada país no exame de matemática. NOTAS NO PISA Finlândia Coreia do Sul Japão Rússia Portugal Itália Israel México 600 550 4.500 5.000 5.500 6.000 6.500 7.000 7.500 8.000 8.500 9.000 450 400 350 Holanda Austrália Média HORAS DE ESTUDO (dos 7 aos 14 anos) Dos países com notas abaixo da média nesse exame, aquele que apresenta maior quantidade de horas de estudo é",
+    "alternatives": [
+      "A) Finlândia.",
+      "B) Holanda.",
+      "C) Israel.",
+      "D) México.",
+      "E) Rússia."
+    ],
+    "year": "2013",
+    "subject": "Matemática e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "175"
+  },
+  {
+    "description": "QUESTÃO 174) A cerâmica constitui-se em um artefato bastante presente na história da humanidade. Uma de suas várias propriedades é a retração (contração), que consiste na evaporação da água existente em um conjunto ou bloco cerâmico quando submetido a uma determinada temperatura elevada. Essa elevação de temperatura, que ocorre durante o processo de cozimento, causa uma redução de até 20% nas dimensões lineares de uma peça.\nSuponha que uma peça, quando moldada em argila, possuía uma base retangular cujos lados mediam 30 cm e 15 cm. Após o cozimento, esses lados foram reduzidos em 20%.\nEm relação à área original, a área da base dessa peça, após o cozimento, ficou reduzida em",
+    "alternatives": [
+      "A) 4%.",
+      "B) 20%.",
+      "C) 36%.",
+      "D) 64%.",
+      "E) 96%."
+    ],
+    "year": "2013",
+    "subject": "Matemática e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "179"
+  }
+]

@@ -1,0 +1,3 @@
+{
+  "text": "Question 179) A scientist, in his studies to model a person's blood pressure, uses a function of type P (t) = a + bcos (kt) where A, B and K are positive real constants and t represents the time variable , measured second. Consider that a heartbeat represents the time interval between two successive maximum pressures.\nWhen analyzing a specific case, the scientist obtained the data: Minimum pressure 78 Maximum pressure 120 Number of heartbeat per minute 90 The function p (t) obtained by this scientist, when analyzing the specific case was\nA) P (t) = 99 + 21cos (3πt)\nB) p (t) = 78 + 42cos (3πt)\nC) p (t) = 99 + 21cos (2πt)\nD) p (t) = 99 + 21cos (t)\nE) p (t) = 78 + 42cos (t)"
+}

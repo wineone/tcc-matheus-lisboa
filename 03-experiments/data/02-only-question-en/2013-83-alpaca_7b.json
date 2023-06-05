@@ -1,0 +1,4 @@
+{
+  "time_to_run": 19.243419647216797,
+  "result": " Temperature sensor element is connected to the circuit, so that when temperature increases, the resistance of the sensor decreases and the voltage drop across it decreases as well. This way, when the temperature is +10V, the voltmeter will present a reading of + 6.2 V."
+}

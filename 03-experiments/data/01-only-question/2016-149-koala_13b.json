@@ -1,0 +1,4 @@
+{
+  "time_to_run": 53.831509590148926,
+  "result": " A) 156. Explanation: The policy of replenishment states that the quantity in stock at the beginning of each month should be equal to 12 times the average of the previous months' quantities, so we need to calculate the average of the last five months and multiply it by 12."
+}

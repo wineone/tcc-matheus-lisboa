@@ -1,0 +1,3 @@
+{
+  "text": "Question 151) An institute of electoral polls receives an order in which the margin of error should be a maximum of 2 percentage points (0.02).\nThe institute has 5 recent surveys, p1 to P5, on the theme object of the order and will use the one with the error less than the order.\nThe research data are as follows: Search σ P1 0.5 1 764 42 p2 0.4 784 28 p3 0.3 576 24 p4 0.2 441 21 p5 0.1 64 8 The error and can be expressed by | | , and <196 σ where σ is a parameter and n is the number of people interviewed by the research.\nWhat research should be used?\nA) P1\nB) P2\nC) p3\nD) P4\nE) P5"
+}

@@ -1,0 +1,940 @@
+[
+  {
+    "description": "QUESTÃO 03) Os dois principais rios que alimentavam o Mar de Aral, Amurdarya e Sydarya, mantiveram o nível e o volume do mar por muitos séculos. Entretanto, o projeto de estabelecer e expandir a produção de algodão irrigado aumentou a dependência de várias repúblicas da Ásia Central da irrigação e monocultura. O aumento da demanda resultou no desvio crescente de água para a irrigação, acarretando redução drástica do volume de tributários do Mar de Aral. Foi criado na Ásia Central um novo deserto, com mais de 5 milhões de hectares, como resultado da redução em volume. TUNDISI, J. G. Água no século XXI: enfrentando a escassez. São Carlos: Rima, 2003.\nA intensa interferência humana na região descrita provocou o surgimento de uma área desértica em decorrência da",
+    "alternatives": [
+      "A) erosão.",
+      "B) salinização.",
+      "C) laterização.",
+      "D) compactação.",
+      "E) sedimentação."
+    ],
+    "year": "2014",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "3"
+  },
+  {
+    "description": "QUESTÃO 04) É o caráter radical do que se procura que exige a radicalização do próprio processo de busca. Se todo o espaço for ocupado pela dúvida, qualquer certeza que aparecer a partir daí terá sido de alguma forma gerada pela própria dúvida, e não será seguramente nenhuma daquelas que foram anteriormente varridas por essa mesma dúvida.\nApesar de questionar os conceitos da tradição, a dúvida radical da filosofia cartesiana tem caráter positivo por contribuir para o(a)",
+    "alternatives": [
+      "A) dissolução do saber científico.",
+      "B) recuperação dos antigos juízos.",
+      "C) exaltação do pensamento clássico.",
+      "D) surgimento do conhecimento inabalável.",
+      "E) fortalecimento dos preconceitos religiosos."
+    ],
+    "year": "2014",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "4"
+  },
+  {
+    "description": "QUESTÃO 07) Mas plantar pra dividir Não faço mais isso, não.\nEu sou um pobre caboclo, Ganho a vida na enxada.\nO que eu colho é dividido Com quem não planta nada.\nSe assim continuar vou deixar o meu sertão, mesmo os olhos cheios d’água e com dor no coração.\nVou pro Rio carregar massas pros pedreiros em construção.\nDeus até está ajudando: está chovendo no sertão! Mas plantar pra dividir, Não faço mais isso, não.\nVALE, J.; AQUINO, J. B. Sina de caboclo. São Paulo: Polygram, 1994 (fragmento).\nNo trecho da canção, composta na década de 1960, retrata-se a insatisfação do trabalhador rural com",
+    "alternatives": [
+      "A) a distribuição desigual da produção.",
+      "B) os financiamentos feitos ao produtor rural.",
+      "C) a ausência de escolas técnicas no campo.",
+      "D) os empecilhos advindos das secas prolongadas.",
+      "E) a precariedade de insumos no trabalho do campo."
+    ],
+    "year": "2014",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "7"
+  },
+  {
+    "description": "QUESTÃO 08) O cidadão norte-americano desperta num leito construído segundo padrão originário do Oriente Próximo, mas modificado na Europa Setentrional antes de ser transmitido à América. Sai debaixo de cobertas feitas de algodão cuja planta se tornou doméstica na Índia. No restaurante, toda uma série de elementos tomada de empréstimo o espera. O prato é feito de uma espécie de cerâmica inventada na China. A faca é de aço, liga feita pela primeira vez na Índia do Sul; o garfo é inventado na Itália medieval; a colher vem de um original romano. Lê notícias do dia impressas em caracteres inventados pelos antigos semitas, em material inventado na China e por um processo inventado na Alemanha.\nA situação descrita é um exemplo de como os costumes resultam da",
+    "alternatives": [
+      "A) assimilação de valores de povos exóticos.",
+      "B) experimentação de hábitos sociais variados.",
+      "C) recuperação de heranças da Antiguidade Clássica.",
+      "D) fusão de elementos de tradições culturais diferentes.",
+      "E) valorização de comportamento de grupos privilegiados."
+    ],
+    "year": "2014",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "8"
+  },
+  {
+    "description": "QUESTÃO 11) Compreende-se assim o alcance de uma reivindicação que surge desde o nascimento da cidade na Grécia antiga: a redação das leis. Ao escrevê-las, não se faz mais que assegurar-lhes permanência e fixidez. As leis tornam-se bem comum, regra geral, suscetível de ser aplicada a todos da mesma maneira.\nVERNANT, J. P. As origens do pensamento grego. Rio de Janeiro: Para o autor, a reivindicação atendida na Grécia antiga, ainda vigente no mundo contemporâneo, buscava garantir o seguinte princípio:",
+    "alternatives": [
+      "A) Isonomia — igualdade de tratamento aos cidadãos.",
+      "B) Transparência — acesso às informações governamentais.",
+      "C) Tripartição — separação entre os poderes políticos estatais.",
+      "D) Equiparação — igualdade de gênero na participação política.",
+      "E) Elegibilidade — permissão para candidatura aos cargos públicos."
+    ],
+    "year": "2014",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "11"
+  },
+  {
+    "description": "QUESTÃO 12) Panayiotis Zavos “quebrou” o último tabu da clonagem humana — transferiu embriões para o útero de mulheres, que os gerariam. Esse procedimento é crime em inúmeros países. Aparentemente, o médico possuía um laboratório secreto, no qual fazia seus experimentos. “Não tenho nenhuma dúvida de que uma criança clonada irá aparecer em breve. Posso não ser eu o médico que irá criá-la, mas vai acontecer”, declarou Zavos. “Se nos esforçarmos, podemos ter um bebê clonado daqui a um ano, ou dois, mas não sei se é o caso. Não sofremos pressão para entregar um bebê clonado ao mundo. Sofremos pressão para entregar um bebê clonado saudável ao mundo.” A clonagem humana é um importante assunto de reflexão no campo da bioética que, entre outras questões, dedica-se a",
+    "alternatives": [
+      "A) refletir sobre as relações entre o conhecimento da vida e os valores éticos do homem.",
+      "B) legitimar o predomínio da espécie humana sobre as demais espécies animais no planeta.",
+      "C) relativizar, no caso da clonagem humana, o uso dos valores de certo e errado, de bem e mal.",
+      "D) legalizar, pelo uso das técnicas de clonagem, os processos de reprodução humana e animal.",
+      "E) fundamentar técnica e economicamente as pesquisas sobre células-tronco para uso em seres humanos."
+    ],
+    "year": "2014",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "12"
+  },
+  {
+    "description": "QUESTÃO 13) Quando é meio-dia nos Estados Unidos, o Sol, todo mundo sabe, está se deitando na França. Bastaria ir à França num minuto para assistir ao pôr do sol.\nSAINT-EXUPÉRY, A. O Pequeno Príncipe. Rio de Janeiro: Agir, 1996.\nA diferença espacial citada é causada por qual característica física da Terra?",
+    "alternatives": [
+      "A) Achatamento de suas regiões polares.",
+      "B) Movimento em torno de seu próprio eixo.",
+      "C) Arredondamento de sua forma geométrica.",
+      "D) Variação periódica de sua distância do Sol.",
+      "E) Inclinação em relação ao seu plano de órbita."
+    ],
+    "year": "2014",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "13"
+  },
+  {
+    "description": "QUESTÃO 14) Uma norma só deve pretender validez quando todos os que possam ser concernidos por ela cheguem (ou possam chegar), enquanto participantes de um discurso prático, a um acordo quanto à validade dessa norma.\nHABERMAS, J. Consciência moral e agir comunicativo. Rio de Janeiro: Tempo Brasileiro, 1989.\nSegundo Habermas, a validez de uma norma deve ser estabelecida pelo(a)",
+    "alternatives": [
+      "A) liberdade humana, que consagra a vontade.",
+      "B) razão comunicativa, que requer um consenso.",
+      "C) conhecimento filosófico, que expressa a verdade.",
+      "D) técnica científica, que aumenta o poder do homem.",
+      "E) poder político, que se concentra no sistema partidário."
+    ],
+    "year": "2014",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "14"
+  },
+  {
+    "description": "QUESTÃO 15) O índio era o único elemento então disponível para ajudar o colonizador como agricultor, pescador, guia, conhecedor da natureza tropical e, para tudo isso, deveria ser tratado como gente, ter reconhecidas sua inocência e alma na medida do possível. A discussão religiosa e jurídica em torno dos limites da liberdade dos índios se confundiu com uma disputa entre jesuítas e colonos. Os padres se apresentavam como defensores da liberdade, enfrentando a cobiça desenfreada dos colonos.\nEntre os séculos XVI e XVIII, os jesuítas buscaram a conversão dos indígenas ao catolicismo. Essa aproximação dos jesuítas em relação ao mundo indígena foi mediada pela",
+    "alternatives": [
+      "A) demarcação do território indígena.",
+      "B) manutenção da organização familiar.",
+      "C) valorização dos líderes religiosos indígenas.",
+      "D) preservação do costume das moradias coletivas.",
+      "E) comunicação pela língua geral baseada no tupi."
+    ],
+    "year": "2014",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "15"
+  },
+  {
+    "description": "QUESTÃO 18) Todo homem de bom juízo, depois que tiver realizado sua viagem, reconhecerá que é um milagre manifesto ter podido escapar de todos os perigos que se apresentam em sua peregrinação; tanto mais que há tantos outros acidentes que diariamente podem aí ocorrer que seria coisa pavorosa àqueles que aí navegam querer pô-los todos diante dos olhos quando querem empreender suas viagens.\nJ. P. T. Histoire de plusieurs voyages aventureux. 1600. In: DELUMEAU, J. História do Esse relato, associado ao imaginário das viagens marítimas da época moderna, expressa um sentimento de",
+    "alternatives": [
+      "A) gosto pela aventura.",
+      "B) fascínio pelo fantástico.",
+      "C) temor do desconhecido.",
+      "D) interesse pela natureza.",
+      "E) purgação dos pecados."
+    ],
+    "year": "2014",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "18"
+  },
+  {
+    "description": "QUESTÃO 19) TEXTO I Olhamos o homem alheio às atividades públicas não como alguém que cuida apenas de seus próprios interesses, mas como um inútil; nós, cidadãos atenienses, decidimos as questões públicas por nós mesmos na crença de que não é o debate que é empecilho à ação, e sim o fato de não se estar esclarecido pelo debate antes de chegar a hora da ação.\nTEXTO II Um cidadão integral pode ser definido por nada mais nada menos que pelo direito de administrar justiça e exercer funções públicas; algumas destas, todavia, são limitadas quanto ao tempo de exercício, de tal modo que não podem de forma alguma ser exercidas duas vezes pela mesma pessoa, ou somente podem sê-lo depois de certos intervalos de tempo prefixados.\nARISTÓTELES. Política. Brasília: UnB, 1985.\nComparando os textos I e II, tanto para Tucídides (no século V a.C.) quanto para Aristóteles (no século IV a.C.), a cidadania era definida pelo(a)",
+    "alternatives": [
+      "A) prestígio social.",
+      "B) acúmulo de riqueza.",
+      "C) participação política.",
+      "D) local de nascimento.",
+      "E) grupo de parentesco."
+    ],
+    "year": "2014",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "19"
+  },
+  {
+    "description": "QUESTÃO 20) Antes de o sol começar a esquentar as terras da faixa ao sul do Saara conhecida como Sahel, duas dezenas de mulheres da aldeia de Widou, no norte do Senegal, regam a horta cujas frutas e verduras alimentam a população local. É um pequeno terreno que, visto do céu, forma uma mancha verde — um dos primeiros pedaços da “Grande Muralha Verde”, barreira vegetal que se estenderá por 7 000 km do Senegal ao Djibuti, e é parte de um plano conjunto de vinte países africanos.\nO projeto ambiental descrito proporciona a seguinte consequência regional imediata:",
+    "alternatives": [
+      "A) Facilita as trocas comerciais.",
+      "B) Soluciona os conflitos fundiários.",
+      "C) Restringe a diversidade biológica.",
+      "D) Fomenta a atividade de pastoreio.",
+      "E) Evita a expansão da desertificação."
+    ],
+    "year": "2014",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "20"
+  },
+  {
+    "description": "QUESTÃO 21) Estatuto da Frente Negra Brasileira (FNB) Art. 1º - Fica fundada nesta cidade de São Paulo, para se irradiar por todo o Brasil, a Frente Negra Brasileira, união política e social da Gente Negra Nacional, para a afirmação dos direitos históricos da mesma, em virtude da sua atividade material e moral no passado e para reivindicação de seus direitos sociais e políticos, atuais, na Comunhão Brasileira.\nDiário Oficial do Estado de São Paulo, 4 nov. 1931.\nQuando foi fechada pela ditadura do Estado Novo, em 1937, a FNB caracterizava-se como uma organização",
+    "alternatives": [
+      "A) política, engajada na luta por direitos sociais para a população negra no Brasil.",
+      "B) beneficente, dedicada ao auxílio dos negros pobres brasileiros depois da abolição.",
+      "C) paramilitar, voltada para o alistamento de negros na luta contra as oligarquias regionais.",
+      "D) democrático-liberal, envolvida na Revolução Constitucionalista conduzida a partir de São Paulo.",
+      "E) internacionalista, ligada à exaltação da identidade das populações africanas em situação de diáspora."
+    ],
+    "year": "2014",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "21"
+  },
+  {
+    "description": "QUESTÃO 22) No século XIX, o preço mais alto dos terrenos situados no centro das cidades é causa da especialização dos bairros e de sua diferenciação social. Muitas pessoas, que não têm meios de pagar os altos aluguéis dos bairros elegantes, são progressivamente rejeitadas para a periferia, como os subúrbios e os bairros mais afastados.\nUma consequência geográfica do processo socioespacial descrito no texto é a",
+    "alternatives": [
+      "A) criação de condomínios fechados de moradia.",
+      "B) decadência das áreas centrais de comércio popular.",
+      "C) aceleração do processo conhecido como cercamento.",
+      "D) ampliação do tempo de deslocamento diário da população.",
+      "E) contenção da ocupação de espaços sem infraestrutura satisfatória."
+    ],
+    "year": "2014",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "22"
+  },
+  {
+    "description": "QUESTÃO 23) Três décadas — de 1884 a 1914 — separam o século XIX — que terminou com a corrida dos países europeus para a África e com o surgimento dos movimentos de unificação nacional na Europa — do século XX, que começou com a Primeira Guerra Mundial. É o período do Imperialismo, da quietude estagnante na Europa e dos acontecimentos empolgantes na Ásia e na África. ARENDT, H. As origens do totalitarismo. São Paulo: Cia. das Letras, 2012.\nO processo histórico citado contribuiu para a eclosão da Primeira Grande Guerra na medida em que",
+    "alternatives": [
+      "A) difundiu as teorias socialistas.",
+      "B) acirrou as disputas territoriais.",
+      "C) superou as crises econômicas.",
+      "D) multiplicou os conflitos religiosos.",
+      "E) conteve os sentimentos xenófobos."
+    ],
+    "year": "2014",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "23"
+  },
+  {
+    "description": "QUESTÃO 26) –75 275 a –31 400 –31 399 a 0 0 a 19 168 19 169 a 293 119 Saldo do deslocamento Fluxo de pessoas 15 000 a 31 400 31 401 a 58 300 58 301 a 103 200 limite de município Confins Ribeirão das Neves Vespasiano Santa Luzia Sabará Nova Lima Betim Ibirité Região Metropolitana de Belo Horizonte Itabirito Contagem Belo Horizonte Nota: O saldo considera apenas as pessoas que se deslocavam para o trabalho e retornavam aos seus municípios diariamente.\nO fluxo migratório representado está associado ao processo de",
+    "alternatives": [
+      "A) fuga de áreas degradadas.",
+      "B) inversão da hierarquia urbana.",
+      "C) busca por amenidades ambientais.",
+      "D) conurbação entre municípios contíguos.",
+      "E) desconcentração dos investimentos produtivos."
+    ],
+    "year": "2014",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "26"
+  },
+  {
+    "description": "QUESTÃO 28) A Comissão Nacional da Verdade (CNV) reuniu representantes de comissões estaduais e de várias instituições para apresentar um balanço dos trabalhos feitos e assinar termos de cooperação com quatro organizações. O coordenador da CNV estima que, até o momento, a comissão examinou, “por baixo”, cerca de 30 milhões de páginas de documentos e fez centenas de entrevistas.\nA notícia descreve uma iniciativa do Estado que resultou da ação de diversos movimentos sociais no Brasil diante de eventos ocorridos entre 1964 e 1988. O objetivo dessa iniciativa é",
+    "alternatives": [
+      "A) anular a anistia concedida aos chefes militares.",
+      "B) rever as condenações judiciais aos presos políticos.",
+      "C) perdoar os crimes atribuídos aos militantes esquerdistas.",
+      "D) comprovar o apoio da sociedade aos golpistas anticomunistas.",
+      "E) esclarecer as circunstâncias de violações aos direitos humanos."
+    ],
+    "year": "2014",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "28"
+  },
+  {
+    "description": "QUESTÃO 30) Parecer CNE/CP nº 3/2004, que instituiu as Diretrizes Curriculares Nacionais para a Educação das Relações Étnico-Raciais e para o Ensino de História e Cultura Afro-Brasileira e Africana.\nProcura-se oferecer uma resposta, entre outras, na área da educação, à demanda da população afrodescendente, no sentido de políticas de ações afirmativas. Propõe a divulgação e a produção de conhecimentos, a formação de atitudes, posturas que eduquem cidadãos orgulhosos de seu pertencimento étnico-racial — descendentes de africanos, povos indígenas, descendentes de europeus, de asiáticos — para interagirem na construção de uma nação democrática, em que todos igualmente tenham seus direitos garantidos.\nA orientação adotada por esse parecer fundamenta uma política pública e associa o princípio da inclusão social a",
+    "alternatives": [
+      "A) práticas de valorização identitária.",
+      "B) medidas de compensação econômica.",
+      "C) dispositivos de liberdade de expressão.",
+      "D) estratégias de qualificação profissional.",
+      "E) instrumentos de modernização jurídica."
+    ],
+    "year": "2014",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "30"
+  },
+  {
+    "description": "QUESTÃO 31) A Praça da Concórdia, antiga Praça Luís XV, é a maior praça pública de Paris. Inaugurada em 1763, tinha em seu centro uma estátua do rei. Situada ao longo do Sena, ela é a intersecção de dois eixos monumentais. Bem nesse cruzamento está o Obelisco de Luxor, decorado com hieróglifos que contam os reinados dos faraós Ramsés II e Ramsés III. Em 1829, foi oferecido pelo vice-rei do Egito ao povo francês e, em 1836, instalado na praça diante de mais de 200 mil espectadores e da família real.\nA constituição do espaço público da Praça da Concórdia ao longo dos anos manifesta o(a)",
+    "alternatives": [
+      "A) lugar da memória na história nacional.",
+      "B) caráter espontâneo das festas populares.",
+      "C) lembrança da antiguidade da cultura local.",
+      "D) triunfo da nação sobre os países africanos.",
+      "E) declínio do regime de monarquia absolutista."
+    ],
+    "year": "2014",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "31"
+  },
+  {
+    "description": "QUESTÃO 32) Em 1879, cerca de cinco mil pessoas reuniram-se para solicitar a D. Pedro II a revogação de uma taxa de 20 réis, um vintém, sobre o transporte urbano. O vintém era a moeda de menor valor da época. A polícia não permitiu que a multidão se aproximasse do palácio. Ao grito de “Fora o vintém!”, os manifestantes espancaram condutores, esfaquearam mulas, viraram bondes e arrancaram trilhos. Um oficial ordenou fogo contra a multidão. As estatísticas de mortos e feridos são imprecisas. Muitos interesses se fundiram nessa revolta, de grandes e de políticos, de gente miúda e de simples cidadãos. Desmoralizado, o ministério caiu. Uma grande explosão social, detonada por um pobre vintém.\nA leitura do trecho indica que a coibição violenta das manifestações representou uma tentativa de",
+    "alternatives": [
+      "A) capturar os ativistas radicais.",
+      "B) proteger o patrimônio privado.",
+      "C) salvaguardar o espaço público.",
+      "D) conservar o exercício do poder.",
+      "E) sustentar o regime democrático."
+    ],
+    "year": "2014",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "32"
+  },
+  {
+    "description": "QUESTÃO 33) Existe uma cultura política que domina o sistema e é fundamental para entender o conservadorismo brasileiro. Há um argumento, partilhado pela direita e pela esquerda, de que a sociedade brasileira é conservadora. Isso legitimou o conservadorismo do sistema político: existiriam limites para transformar o país, porque a sociedade é conservadora, não aceita mudanças bruscas. Isso justifica o caráter vagaroso da redemocratização e da redistribuição da renda. Mas não é assim. A sociedade é muito mais avançada que o sistema político. Ele se mantém porque consegue convencer a sociedade de que é a expressão dela, de seu conservadorismo.\nA característica do sistema político brasileiro, ressaltada no texto, obtém sua legitimidade da",
+    "alternatives": [
+      "A) dispersão regional do poder econômico.",
+      "B) polarização acentuada da disputa partidária.",
+      "C) orientação radical dos movimentos populares.",
+      "D) condução eficiente das ações administrativas.",
+      "E) sustentação ideológica das desigualdades existentes."
+    ],
+    "year": "2014",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "33"
+  },
+  {
+    "description": "QUESTÃO 35) A convecção na Região Amazônica é um importante mecanismo da atmosfera tropical e sua variação, em termos de intensidade e posição, tem um papel importante na determinação do tempo e do clima dessa região. A nebulosidade e o regime de precipitação determinam o clima amazônico.\nFISCH, G.; MARENGO, J. A.; NOBRE, C. A. Uma revisão geral sobre o clima da Amazônia. O mecanismo climático regional descrito está associado à característica do espaço físico de",
+    "alternatives": [
+      "A) resfriamento da umidade da superfície.",
+      "B) variação da amplitude de temperatura.",
+      "C) dispersão dos ventos contra-alísios.",
+      "D) existência de barreiras de relevo.",
+      "E) convergência de fluxos de ar."
+    ],
+    "year": "2014",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "35"
+  },
+  {
+    "description": "QUESTÃO 38) A preservação da sustentabilidade do recurso natural exposto pressupõe",
+    "alternatives": [
+      "A) impedir a perfuração de poços.",
+      "B) coibir o uso pelo setor residencial.",
+      "C) substituir as leis ambientais vigentes.",
+      "D) reduzir o contingente populacional na área.",
+      "E) introduzir a gestão participativa entre os municípios."
+    ],
+    "year": "2014",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "38"
+  },
+  {
+    "description": "QUESTÃO 39) O problema central a ser resolvido pelo Novo Regime era a organização de outro pacto de poder que pudesse substituir o arranjo imperial com grau suficiente de estabilidade. O próprio presidente Campos Sales resumiu claramente seu objetivo: “É de lá, dos estados, que se governa a República, por cima das multidões que tumultuam agitadas nas ruas da capital da União.\nA política dos estados é a política nacional”.\nCARVALHO, J. M. Os Bestializados: o Rio de Janeiro e a República que não foi. Nessa citação, o presidente do Brasil no período expressa uma estratégia política no sentido de",
+    "alternatives": [
+      "A) governar com a adesão popular.",
+      "B) atrair o apoio das oligarquias regionais.",
+      "C) conferir maior autonomia às prefeituras.",
+      "D) democratizar o poder do governo central.",
+      "E) ampliar a influência da capital no cenário nacional."
+    ],
+    "year": "2014",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "39"
+  },
+  {
+    "description": "QUESTÃO 40) A Estrada de Ferro Noroeste do Brasil, que começa a ser construída apenas em 1905, foi criada, ao contrário das outras grandes ferrovias paulistas, para ser uma ferrovia de penetração, buscando novas áreas para a agricultura e povoamento. Até 1890, o café era quem ditava o traçado das ferrovias, que eram vistas apenas como auxiliadoras da produção cafeeira.\nCARVALHO, D. F. Café, ferrovias e crescimento populacional: o florescimento da região Acesso em: 2 ago. 2012.\nEssa nova orientação dada à expansão ferroviária, durante a Primeira República, tinha como objetivo a",
+    "alternatives": [
+      "A) articulação de polos produtores para exportação.",
+      "B) criação de infraestrutura para atividade industrial.",
+      "C) integração de pequenas propriedades policultoras.",
+      "D) valorização de regiões de baixa densidade demográfica.",
+      "E) promoção de fluxos migratórios do campo para a cidade."
+    ],
+    "year": "2014",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "40"
+  },
+  {
+    "description": "QUESTÃO 41) Em 1961, o presidente De Gaulle apelou com êxito aos recrutas franceses contra o golpe militar dos seus comandados, porque os soldados podiam ouvi-lo em rádios portáteis. Na década de 1970, os discursos do aiatolá Khomeini, líder exilado da futura Revolução Iraniana, eram gravados em fita magnética e prontamente levados para o Irã, copiados e difundidos.\nHOBSBAWM, E. Era dos extremos: o breve século XX (1914-1991). São Paulo: Cia. das Letras, 1995.\nOs exemplos mencionados no texto evidenciam um uso dos meios de comunicação identificado na",
+    "alternatives": [
+      "A) manipulação da vontade popular.",
+      "B) promoção da mobilização política.",
+      "C) insubordinação das tropas militares.",
+      "D) implantação de governos autoritários.",
+      "E) valorização dos socialmente desfavorecidos."
+    ],
+    "year": "2014",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "41"
+  },
+  {
+    "description": "QUESTÃO 42) TEXTO I O presidente do jornal de maior circulação do país destacava também os avanços econômicos obtidos naqueles vinte anos, mas, ao justificar sua adesão aos militares em 1964, deixava clara sua crença de que a intervenção fora imprescindível para a manutenção da democracia.\nTEXTO II Nada pode ser colocado em compensação à perda das liberdades individuais. Não existe nada de bom quando se aceita uma solução autoritária.\nEmbora enfatizem a defesa da democracia, as visões do movimento político-militar de 1964 divergem ao focarem, respectivamente:",
+    "alternatives": [
+      "A) Razões de Estado — Soberania popular.",
+      "B) Ordenação da Nação — Prerrogativas religiosas.",
+      "C) Imposição das Forças Armadas — Deveres sociais.",
+      "D) Normatização do Poder Judiciário — Regras morais.",
+      "E) Contestação do sistema de governo — Tradições culturais."
+    ],
+    "year": "2014",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "42"
+  },
+  {
+    "description": "QUESTÃO 43) A transferência da corte trouxe para a América portuguesa a família real e o governo da Metrópole. Trouxe também, e sobretudo, boa parte do aparato administrativo português. Personalidades diversas e funcionários régios continuaram embarcando para o Brasil atrás da corte, dos seus empregos e dos seus parentes após o ano de 1808.\nNOVAIS, F. A.; ALENCASTRO, L. F. (Org.). História da vida privada no Brasil.\n São Paulo: Cia. das Letras, 1997.\nOs fatos apresentados se relacionam ao processo de independência da América portuguesa por terem",
+    "alternatives": [
+      "A) incentivado o clamor popular por liberdade.",
+      "B) enfraquecido o pacto de dominação metropolitana.",
+      "C) motivado as revoltas escravas contra a elite colonial.",
+      "D) obtido o apoio do grupo constitucionalista português.",
+      "E) provocado os movimentos separatistas das províncias."
+    ],
+    "year": "2014",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "43"
+  },
+  {
+    "description": "QUESTÃO 44) Respeitar a diversidade de circunstâncias entre as pequenas sociedades locais que constituem uma mesma nacionalidade, tal deve ser a regra suprema das leis internas de cada Estado. As leis municipais seriam as cartas de cada povoação doadas pela assembleia provincial, alargadas conforme o seu desenvolvimento, alteradas segundo os conselhos da experiência. Então, administrar-se-ia de perto, governar-se-ia de longe, alvo a que jamais se atingirá de outra sorte.\nO discurso do autor, no período do Segundo Reinado no Brasil, tinha como meta a implantação do",
+    "alternatives": [
+      "A) regime monárquico representativo.",
+      "B) sistema educacional democrático.",
+      "C) modelo territorial federalista.",
+      "D) padrão político autoritário.",
+      "E) poder oligárquico regional."
+    ],
+    "year": "2014",
+    "subject": "Ciências humanas e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "44"
+  },
+  {
+    "description": "QUESTÃO 46) Christiaan Huygens, em 1656, criou o relógio de pêndulo. Nesse dispositivo, a pontualidade baseia-se na regularidade das pequenas oscilações do pêndulo. Para manter a precisão desse relógio, diversos problemas foram contornados. Por exemplo, a haste passou por ajustes até que, no início do século XX, houve uma inovação, que foi sua fabricação usando uma liga metálica que se comporta regularmente em um largo intervalo de temperaturas.\nYODER, J. G. Unrolling Time: Christiaan Huygens and the mathematization of nature. Desprezando a presença de forças dissipativas e considerando a aceleração da gravidade constante, para que esse tipo de relógio realize corretamente a contagem do tempo, é necessário que o(a)",
+    "alternatives": [
+      "A) comprimento da haste seja mantido constante.",
+      "B) massa do corpo suspenso pela haste seja pequena.",
+      "C) material da haste possua alta condutividade térmica.",
+      "D) amplitude da oscilação seja constante a qualquer temperatura.",
+      "E) energia potencial gravitacional do corpo suspenso se mantenha constante."
+    ],
+    "year": "2014",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "46"
+  },
+  {
+    "description": "QUESTÃO 47) Na década de 1940, na Região Centro-Oeste, produtores rurais, cujos bois, porcos, aves e cabras estavam morrendo por uma peste desconhecida, fizeram uma promessa, que consistiu em não comer carne e derivados até que a peste fosse debelada. Assim, durante três meses, arroz, feijão, verduras e legumes formaram o prato principal desses produtores. Para suprir o déficit nutricional a que os produtores rurais se submeteram durante o período da promessa, foi importante eles terem consumido alimentos ricos em",
+    "alternatives": [
+      "A) vitaminas A e E.",
+      "B) frutose e sacarose.",
+      "C) aminoácidos naturais.",
+      "D) aminoácidos essenciais.",
+      "E) ácidos graxos saturados."
+    ],
+    "year": "2014",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "47"
+  },
+  {
+    "description": "QUESTÃO 49) O potencial brasileiro para transformar lixo em energia permanece subutilizado — apenas pequena parte dos resíduos brasileiros é utilizada para gerar energia. Contudo, bons exemplos são os aterros sanitários, que utilizam a principal fonte de energia ali produzida. Alguns aterros vendem créditos de carbono com base no Mecanismo de Desenvolvimento Limpo (MDL), do Protocolo de Kyoto.\nEssa fonte de energia subutilizada, citada no texto, é o",
+    "alternatives": [
+      "A) etanol, obtido a partir da decomposição da matéria orgânica por bactérias.",
+      "B) gás natural, formado pela ação de fungos decompositores da matéria orgânica.",
+      "C) óleo de xisto, obtido pela decomposição da matéria orgânica pelas bactérias anaeróbias.",
+      "D) gás metano, obtido pela atividade de bactérias anaeróbias na decomposição da matéria orgânica.",
+      "E) gás liquefeito de petróleo, obtido pela decomposição de vegetais presentes nos restos de comida."
+    ],
+    "year": "2014",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "49"
+  },
+  {
+    "description": "QUESTÃO 51) Para impedir a contaminação microbiana do suprimento de água, deve-se eliminar as emissões de efluentes e, quando necessário, tratá-lo com desinfetante. O ácido hipocloroso (HClO), produzido pela reação entre cloro e água, é um dos compostos mais empregados como desinfetante. Contudo, ele não atua somente como oxidante, mas também como um ativo agente de cloração. A presença de matéria orgânica dissolvida no suprimento de água clorada pode levar à formação de clorofórmio (CHCl3) e outras espécies orgânicas cloradas tóxicas.\nSPIRO, T. G.; STIGLIANI, W. M. Química ambiental. Visando eliminar da água o clorofórmio e outras moléculas orgânicas, o tratamento adequado é a",
+    "alternatives": [
+      "A) filtração, com o uso de filtros de carvão ativo.",
+      "B) fluoretação, pela adição de fluoreto de sódio.",
+      "C) coagulação, pela adição de sulfato de alumínio.",
+      "D) correção do pH, pela adição de carbonato de sódio.",
+      "E) floculação, em tanques de concreto com a água em movimento."
+    ],
+    "year": "2014",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "51"
+  },
+  {
+    "description": "QUESTÃO 52) A talidomida é um sedativo leve e foi muito utilizado no tratamento de náuseas, comuns no início da gravidez. Quando foi lançada, era considerada segura para o uso de grávidas, sendo administrada como uma mistura racêmica composta pelos seus dois enantiômeros (R e S). Entretanto, não se sabia, na época, que o enantiômero S leva à malformação congênita, afetando principalmente o desenvolvimento normal dos braços e pernas do bebê.\nEssa malformação congênita ocorre porque esses enantiômeros",
+    "alternatives": [
+      "A) reagem entre si.",
+      "B) não podem ser separados.",
+      "C) não estão presentes em partes iguais.",
+      "D) interagem de maneira distinta com o organismo.",
+      "E) são estruturas com diferentes grupos funcionais."
+    ],
+    "year": "2014",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "52"
+  },
+  {
+    "description": "QUESTÃO 53) Embora seja um conceito fundamental para a biologia, o termo “evolução” pode adquirir significados diferentes no senso comum. A ideia de que a espécie humana é o ápice do processo evolutivo é amplamente difundida, mas não é compartilhada por muitos cientistas.\nPara esses cientistas, a compreensão do processo citado baseia-se na ideia de que os seres vivos, ao longo do tempo, passam por",
+    "alternatives": [
+      "A) modificação de características.",
+      "B) incremento no tamanho corporal.",
+      "C) complexificação de seus sistemas.",
+      "D) melhoria de processos e estruturas.",
+      "E) especialização para uma determinada finalidade."
+    ],
+    "year": "2014",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "53"
+  },
+  {
+    "description": "QUESTÃO 56) Diesel é uma mistura de hidrocarbonetos que também apresenta enxofre em sua composição. Esse enxofre é um componente indesejável, pois o trióxido de enxofre gerado é um dos grandes causadores da chuva ácida. Nos anos 1980, não havia regulamentação e era utilizado óleo diesel com 13 000 ppm de enxofre. Em 2009, o diesel passou a ter 1 800 ppm de enxofre (S1800) e, em seguida, foi inserido no mercado o diesel S500 (500 ppm). Em 2012, foi difundido o diesel S50, com 50 ppm de enxofre em sua composição. Atualmente, é produzido um diesel com teores de enxofre ainda menores.\nA substituição do diesel usado nos anos 1980 por aquele difundido em 2012 permitiu uma redução percentual de emissão de SO3 de",
+    "alternatives": [
+      "A) 86,2%.",
+      "B) 96,2%.",
+      "C) 97,2%.",
+      "D) 99,6%.",
+      "E) 99,9%."
+    ],
+    "year": "2014",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "56"
+  },
+  {
+    "description": "QUESTÃO 57) Um sistema de iluminação foi construído com um circuito de três lâmpadas iguais conectadas a um gerador (G) de tensão constante. Esse gerador possui uma chave que pode ser ligada nas posições A ou B.\n+ – 1 2 3 Considerando o funcionamento do circuito dado, a lâmpada 1 brilhará mais quando a chave estiver na posição",
+    "alternatives": [
+      "A) B, pois a corrente será maior nesse caso.",
+      "B) B, pois a potência total será maior nesse caso.",
+      "C) A, pois a resistência equivalente será menor nesse caso.",
+      "D) B, pois o gerador fornecerá uma maior tensão nesse caso.",
+      "E) A, pois a potência dissipada pelo gerador será menor nesse caso."
+    ],
+    "year": "2014",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "57"
+  },
+  {
+    "description": "QUESTÃO 58) A capacidade de limpeza e a eficiência de um sabão dependem de sua propriedade de formar micelas estáveis, que arrastam com facilidade as moléculas impregnadas no material a ser limpo. Tais micelas têm em sua estrutura partes capazes de interagir com substâncias polares, como a água, e partes que podem interagir com substâncias apolares, como as gorduras e os óleos.\nSANTOS, W. L. P.; MÓL, G. S. (Coords.). Química e sociedade. A substância capaz de formar as estruturas mencionadas é",
+    "alternatives": [
+      "A) C18H36.",
+      "B) C17H33COONa.",
+      "C) CH3CH2COONa.",
+      "D) CH3CH2CH2COOH.",
+      "E) CH3CH2CH2CH2OCH2CH2CH2CH3."
+    ],
+    "year": "2014",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "58"
+  },
+  {
+    "description": "QUESTÃO 60) Existem bactérias que inibem o crescimento de um fungo causador de doenças no tomateiro, por consumirem o ferro disponível no meio. As bactérias também fazem fixação de nitrogênio, disponibilizam cálcio e produzem auxinas, substâncias que estimulam diretamente o crescimento do tomateiro.\nPELZER, G. Q. et al. Mecanismos de controle da murcha-de-esclerócio e promoção de crescimento em tomateiro mediados por rizobactérias. Qual dos processos biológicos mencionados indica uma relação ecológica de competição?",
+    "alternatives": [
+      "A) Fixação de nitrogênio para o tomateiro.",
+      "B) Disponibilização de cálcio para o tomateiro.",
+      "C) Diminuição da quantidade de ferro disponível para o fungo.",
+      "D) Liberação de substâncias que inibem o crescimento do fungo.",
+      "E) Liberação de auxinas que estimulam o crescimento do tomateiro."
+    ],
+    "year": "2014",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "60"
+  },
+  {
+    "description": "QUESTÃO 66) A elevação da temperatura das águas de rios, lagos e mares diminui a solubilidade do oxigênio, pondo em risco as diversas formas de vida aquática que dependem desse gás. Se essa elevação de temperatura acontece por meios artificiais, dizemos que existe poluição térmica. As usinas nucleares, pela própria natureza do processo de geração de energia, podem causar esse tipo de poluição.\nQue parte do ciclo de geração de energia das usinas nucleares está associada a esse tipo de poluição?",
+    "alternatives": [
+      "A) Fissão do material radioativo.",
+      "B) Condensação do vapor-d’água no final do processo.",
+      "C) Conversão de energia das turbinas pelos geradores.",
+      "D) Aquecimento da água líquida para gerar vapor-d’água.",
+      "E) Lançamento do vapor-d’água sobre as pás das turbinas."
+    ],
+    "year": "2014",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "66"
+  },
+  {
+    "description": "QUESTÃO 68) Uma proposta de dispositivo capaz de indicar a qualidade da gasolina vendida em postos e, consequentemente, evitar fraudes, poderia utilizar o conceito de refração luminosa. Nesse sentido, a gasolina não adulterada, na temperatura ambiente, apresenta razão entre os senos dos raios incidente e refratado igual a 1,4. Desse modo, fazendo incidir o feixe de luz proveniente do ar com um ângulo fixo e maior que zero, qualquer modificação no ângulo do feixe refratado indicará adulteração no combustível.\nEm uma fiscalização rotineira, o teste apresentou o valor de 1,9. Qual foi o comportamento do raio refratado?",
+    "alternatives": [
+      "A) Mudou de sentido.",
+      "B) Sofreu reflexão total.",
+      "C) Atingiu o valor do ângulo limite.",
+      "D) Direcionou-se para a superfície de separação.",
+      "E) Aproximou-se da normal à superfície de separação."
+    ],
+    "year": "2014",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "68"
+  },
+  {
+    "description": "QUESTÃO 70) Visando minimizar impactos ambientais, a legislação brasileira determina que resíduos químicos lançados diretamente no corpo receptor tenham pH entre 5,0 e 9,0. Um resíduo líquido aquoso gerado em um processo industrial tem concentração de íons hidroxila igual a 1,0 × 10−10 mol/L. Para atender a legislação, um químico separou as seguintes substâncias, disponibilizadas no almoxarifado da empresa: CH3COOH, Na2SO4, CH3OH, K2CO3 e NH4Cl.\nPara que o resíduo possa ser lançado diretamente no corpo receptor, qual substância poderia ser empregada no ajuste do pH?",
+    "alternatives": [
+      "A) CH3COOH",
+      "B) Na2SO4",
+      "C) CH3OH",
+      "D) K2CO3",
+      "E) NH4Cl"
+    ],
+    "year": "2014",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "70"
+  },
+  {
+    "description": "QUESTÃO 73) Segundo a teoria evolutiva mais aceita hoje, as mitocôndrias, organelas celulares responsáveis pela produção de ATP em células eucariotas, assim como os cloroplastos, teriam sido originados de procariontes ancestrais que foram incorporados por células mais complexas.\nUma característica da mitocôndria que sustenta essa teoria é a",
+    "alternatives": [
+      "A) capacidade de produzir moléculas de ATP.",
+      "B) presença de parede celular semelhante à de procariontes.",
+      "C) presença de membranas envolvendo e separando a matriz mitocondrial do citoplasma.",
+      "D) capacidade de autoduplicação dada por DNA circular próprio semelhante ao bacteriano.",
+      "E) presença de um sistema enzimático eficiente às reações químicas do metabolismo aeróbio."
+    ],
+    "year": "2014",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "73"
+  },
+  {
+    "description": "QUESTÃO 74) No heredograma, os símbolos preenchidos representam pessoas portadoras de um tipo raro de doença genética. Os homens são representados pelos quadrados e as mulheres, pelos círculos.\nQual é o padrão de herança observado para essa doença?",
+    "alternatives": [
+      "A) Dominante autossômico, pois a doença aparece em ambos os sexos.",
+      "B) Recessivo ligado ao sexo, pois não ocorre a transmissão do pai para os filhos.",
+      "C) Recessivo ligado ao Y, pois a doença é transmitida dos pais heterozigotos para os filhos.",
+      "D) Dominante ligado ao sexo, pois todas as filhas de homens afetados também apresentam a doença.",
+      "E) Codominante autossômico, pois a doença é herdada pelos filhos de ambos os sexos, tanto do pai quanto da mãe."
+    ],
+    "year": "2014",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "74"
+  },
+  {
+    "description": "QUESTÃO 75) Um pesquisador percebe que o rótulo de um dos vidros em que guarda um concentrado de enzimas digestivas está ilegível. Ele não sabe qual enzima o vidro contém, mas desconfia de que seja uma protease gástrica, que age no estômago digerindo proteínas. Sabendo que a digestão no estômago é ácida e no intestino é básica, ele monta cinco tubos de ensaio com alimentos diferentes, adiciona o concentrado de enzimas em soluções com pH determinado e aguarda para ver se a enzima age em algum deles.\nO tubo de ensaio em que a enzima deve agir para indicar que a hipótese do pesquisador está correta é aquele que contém",
+    "alternatives": [
+      "A) cubo de batata em solução com pH = 9.",
+      "B) pedaço de carne em solução com pH = 5.",
+      "C) clara de ovo cozida em solução com pH = 9.",
+      "D) porção de macarrão em solução com pH = 5.",
+      "E) bolinha de manteiga em solução com pH = 9."
+    ],
+    "year": "2014",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "75"
+  },
+  {
+    "description": "QUESTÃO 76) Alguns sistemas de segurança incluem detectores de movimento. Nesses sensores, existe uma substância que se polariza na presença de radiação eletromagnética de certa região de frequência, gerando uma tensão que pode ser amplificada e empregada para efeito de controle. Quando uma pessoa se aproxima do sistema, a radiação emitida por seu corpo é detectada por esse tipo de sensor.\nA radiação captada por esse detector encontra-se na região de frequência",
+    "alternatives": [
+      "A) da luz visível.",
+      "B) do ultravioleta.",
+      "C) do infravermelho.",
+      "D) das micro-ondas.",
+      "E) das ondas longas de rádio."
+    ],
+    "year": "2014",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "76"
+  },
+  {
+    "description": "QUESTÃO 78) Com o objetivo de substituir as sacolas de polietileno, alguns supermercados têm utilizado um novo tipo de plástico ecológico, que apresenta em sua composição amido de milho e uma resina polimérica termoplástica, obtida a partir de uma fonte petroquímica.\nNesses plásticos, a fragmentação da resina polimérica é facilitada porque os carboidratos presentes",
+    "alternatives": [
+      "A) dissolvem-se na água.",
+      "B) absorvem água com facilidade.",
+      "C) caramelizam por aquecimento e quebram.",
+      "D) são digeridos por organismos decompositores.",
+      "E) decompõem-se espontaneamente em contato com água e gás carbônico."
+    ],
+    "year": "2014",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "78"
+  },
+  {
+    "description": "QUESTÃO 84) Ao sintonizarmos uma estação de rádio ou um canal de TV em um aparelho, estamos alterando algumas características elétricas de seu circuito receptor. Das inúmeras ondas eletromagnéticas que chegam simultaneamente ao receptor, somente aquelas que oscilam com determinada frequência resultarão em máxima absorção de energia.\nO fenômeno descrito é a",
+    "alternatives": [
+      "A) difração.",
+      "B) refração.",
+      "C) polarização.",
+      "D) interferência.",
+      "E) ressonância."
+    ],
+    "year": "2014",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "84"
+  },
+  {
+    "description": "QUESTÃO 85) Imunobiológicos: diferentes formas de produção, diferentes aplicações Aplicação do imunobiológico I Produção do imunobiológico III Aplicação do imunobiológico III Aplicação do imunobiológico II Vírus, bactérias Embora sejam produzidos e utilizados em situações distintas, os imunobiológicos I e II atuam de forma semelhante nos humanos e equinos, pois",
+    "alternatives": [
+      "A) conferem imunidade passiva.",
+      "B) transferem células de defesa.",
+      "C) suprimem a resposta imunológica.",
+      "D) estimulam a produção de anticorpos.",
+      "E) desencadeiam a produção de antígenos."
+    ],
+    "year": "2014",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "85"
+  },
+  {
+    "description": "QUESTÃO 86) Grande quantidade dos maus odores do nosso dia a dia está relacionada a compostos alcalinos. Assim, em vários desses casos, pode-se utilizar o vinagre, que contém entre 3,5% e 5% de ácido acético, para diminuir ou eliminar o mau cheiro. Por exemplo, lavar as mãos com vinagre e depois enxaguá-las com água elimina o odor de peixe, já que a molécula de piridina (C5H5N) é uma das substâncias responsáveis pelo odor característico de peixe podre.\nA efi ciência do uso do vinagre nesse caso se explica pela",
+    "alternatives": [
+      "A) sobreposição de odor, propiciada pelo cheiro característico do vinagre.",
+      "B) solubilidade da piridina, de caráter ácido, na solução ácida empregada.",
+      "C) inibição da proliferação das bactérias presentes, devido à ação do ácido acético.",
+      "D) degradação enzimática da molécula de piridina, acelerada pela presença de ácido acético.",
+      "E) reação de neutralização entre o ácido acético e a piridina, que resulta em compostos sem mau odor."
+    ],
+    "year": "2014",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "86"
+  },
+  {
+    "description": "QUESTÃO 87) Quando adolescente, as nossas tardes, após as aulas, consistiam em tomar às mãos o violão e o dicionário de acordes de Almir Chediak e desafi ar nosso amigo Hamilton a descobrir, apenas ouvindo o acorde, quais notas eram escolhidas. Sempre perdíamos a aposta, ele possui o ouvido absoluto.\nO ouvido absoluto é uma característica perceptual de poucos indivíduos capazes de identifi car notas isoladas sem outras referências, isto é, sem precisar relacioná-las com outras notas de uma melodia.\nNo contexto apresentado, a propriedade física das ondas que permite essa distinção entre as notas é a",
+    "alternatives": [
+      "A) frequência.",
+      "B) intensidade.",
+      "C) forma da onda.",
+      "D) amplitude da onda.",
+      "E) velocidade de propagação."
+    ],
+    "year": "2014",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "A",
+    "index_question": "87"
+  },
+  {
+    "description": "QUESTÃO 89) Na década de 1990, células do cordão umbilical de recém-nascidos humanos começaram a ser guardadas por criopreservação, uma vez que apresentam alto potencial terapêutico em consequência de suas características peculiares.\nO poder terapêutico dessas células baseia-se em sua capacidade de",
+    "alternatives": [
+      "A) multiplicação lenta.",
+      "B) comunicação entre células.",
+      "C) adesão a diferentes tecidos.",
+      "D) diferenciação em células especializadas.",
+      "E) reconhecimento de células semelhantes."
+    ],
+    "year": "2014",
+    "subject": "Ciências da natureza e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "89"
+  },
+  {
+    "description": "QUESTÃO 91) A internet tem servido a diferentes interesses, ampliando, muitas vezes, o contato entre pessoas e instituições. Um exemplo disso é o site WeFeedback, no qual a internauta Kate Watts",
+    "alternatives": [
+      "A) comprou comida em promoção.",
+      "B) inscreveu-se em concurso.",
+      "C) fez doação para caridade.",
+      "D) participou de pesquisa de opinião.",
+      "E) voluntariou-se para trabalho social."
+    ],
+    "year": "2014",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "91"
+  },
+  {
+    "description": "QUESTÃO 94) Aunque me cuesta mucho trabajo y me hace sudar la gota gorda, y, como todo escritor, siento a veces la amenaza de la parálisis, de la sequía de la imaginación, nada me ha hecho gozar en la vida tanto como pasarme los meses y los años construyendo una historia, desde su incierto despuntar, esa imagen que la memoria almacenó de alguna experiencia vivida, que se volvió un desasosiego, un entusiasmo, un fantaseo que germinó luego en un proyecto y en la decisión de intentar convertir esa niebla agitada de fantasmas en una historia. “Escribir es una manera de vivir”, dijo Flaubert.\nDiscurso de Mario Vargas Llosa al recibir el Premio Nobel de Literatura 2010.\nO trecho apresentado trata do fazer literário, a partir da perspectiva de Vargas Llosa. Com base no fragmento “me hace sudar la gota gorda”, infere-se que o artifício da escritura, para o escritor,",
+    "alternatives": [
+      "A) ativa a memória e a fantasia.",
+      "B) baseia-se na imaginação inspiradora.",
+      "C) fundamenta-se nas experiências de vida.",
+      "D) requer entusiasmo e motivação.",
+      "E) demanda expressiva dedicação."
+    ],
+    "year": "2014",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "99"
+  },
+  {
+    "description": "QUESTÃO 97) Óia eu aqui de novo xaxando Óia eu aqui de novo para xaxar Vou mostrar pr’esses cabras Que eu ainda dou no couro Isso é um desaforo Que eu não posso levar Que eu aqui de novo cantando Que eu aqui de novo xaxando Óia eu aqui de novo mostrando Como se deve xaxar Vem cá morena linda Vestida de chita Você é a mais bonita Desse meu lugar Vai, chama Maria, chama Luzia Vai, chama Zabé, chama Raque Diz que eu tou aqui com alegria Acesso em: 5 maio 2013 (fragmento).\nA letra da canção de Antônio de Barros manifesta aspectos do repertório linguístico e cultural do Brasil. O verso que singulariza uma forma característica do falar popular regional é:",
+    "alternatives": [
+      "A) “Isso é um desaforo”.",
+      "B) “Diz que eu tou aqui com alegria”.",
+      "C) “Vou mostrar pr’esses cabras”.",
+      "D) “Vai, chama Maria, chama Luzia”.",
+      "E) “Vem cá morena linda, vestida de chita”."
+    ],
+    "year": "2014",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "102"
+  },
+  {
+    "description": "QUESTÃO 98) Em uma escala de 0 a 10, o Brasil está entre 3 e 4 no quesito segurança da informação. “Estamos começando a acordar para o problema. Nessa história de espionagem corporativa, temos muita lição a fazer. Falta consciência institucional e um longo aprendizado. A sociedade caiu em si e viu que é uma coisa que nos afeta”, diz S.P., pós-doutor em segurança da informação. Para ele, devem ser estabelecidos canais de denúncia para esse tipo de situação. De acordo com o conselheiro do Comitê Gestor da Internet (CGI), o Brasil tem condições de desenvolver tecnologia própria para garantir a segurança dos dados do país, tanto do governo quanto da população. “Há uma massa de conhecimento dentro das universidades e em empresas inovadoras que podem contribuir propondo medidas para que possamos mudar isso [falta de segurança] no longo prazo”. Ele acredita que o governo tem de usar o seu poder de compra de softwares e hardwares para a área da segurança cibernética, de forma a fomentar essas empresas, a produção de conhecimento na área e a construção de uma cadeia de produção nacional. Considerando-se o surgimento da espionagem corporativa em decorrência do amplo uso da internet, o texto aponta uma necessidade advinda desse impacto, que se resume em",
+    "alternatives": [
+      "A) alertar a sociedade sobre os riscos de ser espionada.",
+      "B) promover a indústria de segurança da informação.",
+      "C) discutir a espionagem em fóruns internacionais.",
+      "D) incentivar o aparecimento de delatores.",
+      "E) treinar o país em segurança digital."
+    ],
+    "year": "2014",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "103"
+  },
+  {
+    "description": "QUESTÃO 101) Os meios de comunicação podem contribuir para a resolução de problemas sociais, entre os quais o da violência sexual infantil. Nesse sentido, a propaganda usa a metáfora do pesadelo para",
+    "alternatives": [
+      "A) informar crianças vítimas de abuso sexual sobre os perigos dessa prática, contribuindo para erradicá-la.",
+      "B) denunciar ocorrências de abuso sexual contra meninas, com o objetivo de colocar criminosos na cadeia.",
+      "C) dar a devida dimensão do que é o abuso sexual para uma criança, enfatizando a importância da denúncia.",
+      "D) destacar que a violência sexual infantil predomina durante a noite, o que requer maior cuidado dos responsáveis nesse período.",
+      "E) chamar a atenção para o fato de o abuso infantil ocorrer durante o sono, sendo confundido por algumas crianças com um pesadelo."
+    ],
+    "year": "2014",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "106"
+  },
+  {
+    "description": "QUESTÃO 102) eu acho um fato interessante... né... foi como meu pai e minha mãe vieram se conhecer... né... que... minha mãe morava no Piauí com toda família... né... meu... meu avô... materno no caso... era maquinista... ele sofreu um acidente... infelizmente morreu... minha mãe tinha cinco anos... né... e o irmão mais velho dela... meu padrinho... tinha dezessete e ele foi obrigado a trabalhar... foi trabalhar no banco... e... ele foi... o banco... no caso... estava... com um número de funcionários cheio e ele teve que ir para outro local e pediu transferência prum local mais perto de Parnaíba que era a cidade onde eles moravam e por engano o... o... escrivão entendeu Paraíba... né... e meu... e minha família veio parar em Mossoró que era exatamente o local mais perto onde tinha vaga pra funcionário do Banco do Brasil e:: ela foi parar na rua do meu pai... né... e começaram a se conhecer... namoraram onze anos... né... pararam algum tempo... brigaram... é lógico... porque todo relacionamento tem uma briga... né... e eu achei esse fato muito interessante porque foi uma coincidência incrível... né... como vieram a se conhecer... namoraram e hoje... e até hoje estão juntos... dezessete anos de casados… CUNHA, M. A. F. (Org.) . Corpus discurso & gramática: a língua falada e escrita na cidade do Natal. Natal: EdUFRN, 1998.\nNa transcrição de fala, há um breve relato de experiência pessoal, no qual se observa a frequente repetição de “né”. Essa repetição é um(a)",
+    "alternatives": [
+      "A) índice de baixa escolaridade do falante.",
+      "B) estratégia típica de manutenção da interação oral.",
+      "C) marca de conexão lógica entre conteúdos na fala.",
+      "D) manifestação característica da fala regional nordestina.",
+      "E) recurso enfatizador da informação mais relevante da narrativa."
+    ],
+    "year": "2014",
+    "subject": "Linguagens, códigos e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "107"
+  },
+  {
+    "description": "QUESTÃO 138) Uma ponte precisa ser dimensionada de forma que possa ter três pontos de sustentação. Sabe-se que a carga máxima suportada pela ponte será de 12 t. O ponto de sustentação central receberá 60% da carga da ponte, e o restante da carga será distribuído igualmente entre os outros dois pontos de sustentação.\nNo caso de carga máxima, as cargas recebidas pelos três pontos de sustentação serão, respectivamente,",
+    "alternatives": [
+      "A) 1,8 t; 8,4 t; 1,8 t.",
+      "B) 3,0 t; 6,0 t; 3,0 t.",
+      "C) 2,4 t; 7,2 t; 2,4 t.",
+      "D) 3,6 t; 4,8 t; 3,6 t.",
+      "E) 4,2 t; 3,6 t; 4,2 t."
+    ],
+    "year": "2014",
+    "subject": "Matemática e suas tecnologias",
+    "ground_truth": "C",
+    "index_question": "143"
+  },
+  {
+    "description": "QUESTÃO 144) Um show especial de Natal teve 45 000 ingressos vendidos. Esse evento ocorrerá em um estádio de futebol que disponibilizará 5 portões de entrada, com 4 catracas eletrônicas por portão. Em cada uma dessas catracas, passará uma única pessoa a cada 2 segundos. O público foi igualmente dividido pela quantidade de portões e catracas, indicados no ingresso para o show, para a efetiva entrada no estádio. Suponha que todos aqueles que compraram ingressos irão ao show e que todos passarão pelos portões e catracas eletrônicas indicados.\nQual é o tempo mínimo para que todos passem pelas catracas?",
+    "alternatives": [
+      "A) 1 hora.",
+      "B) 1 hora e 15 minutos.",
+      "C) 5 horas.",
+      "D) 6 horas.",
+      "E) 6 horas e 15 minutos."
+    ],
+    "year": "2014",
+    "subject": "Matemática e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "149"
+  },
+  {
+    "description": "QUESTÃO 147) Uma organização não governamental divulgou um levantamento de dados realizado em algumas cidades brasileiras sobre saneamento básico. Os resultados indicam que somente 36% do esgoto gerado nessas cidades é tratado, o que mostra que 8 bilhões de litros de esgoto sem nenhum tratamento são lançados todos os dias nas águas.\nUma campanha para melhorar o saneamento básico nessas cidades tem como meta a redução da quantidade de esgoto lançado nas águas diariamente, sem tratamento, para 4 bilhões de litros nos próximos meses.\nSe o volume de esgoto gerado permanecer o mesmo e a meta dessa campanha se concretizar, o percentual de esgoto tratado passará a ser",
+    "alternatives": [
+      "A) 72%",
+      "B) 68%",
+      "C) 64%",
+      "D) 54%",
+      "E) 18%"
+    ],
+    "year": "2014",
+    "subject": "Matemática e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "152"
+  },
+  {
+    "description": "QUESTÃO 149) Boliche é um jogo em que se arremessa uma bola sobre uma pista para atingir dez pinos, dispostos em uma formação de base triangular, buscando derrubar o maior número de pinos. A razão entre o total de vezes em que o jogador derruba todos os pinos e o número de jogadas determina seu desempenho. Em uma disputa entre cinco jogadores, foram obtidos os seguintes resultados: Jogador I – Derrubou todos os pinos 50 vezes em 85 jogadas.\nJogador II – Derrubou todos os pinos 40 vezes em 65 jogadas.\nJogador III – Derrubou todos os pinos 20 vezes em 65 jogadas.\nJogador IV – Derrubou todos os pinos 30 vezes em 40 jogadas.\nJogador V – Derrubou todos os pinos 48 vezes em 90 jogadas.\nQual desses jogadores apresentou maior desempenho?",
+    "alternatives": [
+      "A) I",
+      "B) II",
+      "C) III",
+      "D) IV",
+      "E) V"
+    ],
+    "year": "2014",
+    "subject": "Matemática e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "154"
+  },
+  {
+    "description": "QUESTÃO 158) Uma empresa farmacêutica produz medicamentos em pílulas, cada uma na forma de um cilindro com uma semiesfera com o mesmo raio do cilindro em cada uma de suas extremidades. Essas pílulas são moldadas por uma máquina programada para que os cilindros tenham sempre 10 mm de comprimento, adequando o raio de acordo com o volume desejado.\nUm medicamento é produzido em pílulas com 5 mm de raio. Para facilitar a deglutição, deseja-se produzir esse medicamento diminuindo o raio para 4 mm, e, por consequência, seu volume. Isso exige a reprogramação da máquina que produz essas pílulas.\nUse 3 como valor aproximado para p.\nA redução do volume da pílula, em milímetros cúbicos, após a reprogramação da máquina, será igual a",
+    "alternatives": [
+      "A) 168.",
+      "B) 304.",
+      "C) 306.",
+      "D) 378.",
+      "E) 514."
+    ],
+    "year": "2014",
+    "subject": "Matemática e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "163"
+  },
+  {
+    "description": "QUESTÃO 165) Durante a Segunda Guerra Mundial, para decifrarem as mensagens secretas, foi utilizada a técnica de decomposição em fatores primos. Um número N é dado pela expressão 2x ⋅ 5y ⋅ 7z, na qual x, y e z são números inteiros não negativos. Sabe-se que N é múltiplo de 10 e não é múltiplo de 7.\nO número de divisores de N, diferentes de N, é",
+    "alternatives": [
+      "A) x ⋅ y ⋅ z",
+      "B) (x + 1) ⋅ (y + 1)",
+      "C) x ⋅ y ⋅ z − 1",
+      "D) (x + 1) ⋅ (y + 1) ⋅ z",
+      "E) (x + 1) ⋅ (y + 1) ⋅ (z + 1) − 1"
+    ],
+    "year": "2014",
+    "subject": "Matemática e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "170"
+  },
+  {
+    "description": "QUESTÃO 175) Uma pessoa compra semanalmente, numa mesma loja, sempre a mesma quantidade de um produto que custa R$ 10,00 a unidade. Como já sabe quanto deve gastar, leva sempre R$ 6,00 a mais do que a quantia necessária para comprar tal quantidade, para o caso de eventuais despesas extras. Entretanto, um dia, ao chegar à loja, foi informada de que o preço daquele produto havia aumentado 20%. Devido a esse reajuste, concluiu que o dinheiro levado era a quantia exata para comprar duas unidades a menos em relação à quantidade habitualmente comprada.\nA quantia que essa pessoa levava semanalmente para fazer a compra era",
+    "alternatives": [
+      "A) R$ 166,00.",
+      "B) R$ 156,00.",
+      "C) R$ 84,00.",
+      "D) R$ 46,00.",
+      "E) R$ 24,00."
+    ],
+    "year": "2014",
+    "subject": "Matemática e suas tecnologias",
+    "ground_truth": "B",
+    "index_question": "180"
+  },
+  {
+    "description": "QUESTÃO 176) Um executivo sempre viaja entre as cidades A e B, que estão localizadas em fusos horários distintos. O tempo de duração da viagem de avião entre as duas cidades é de 6 horas. Ele sempre pega um voo que sai de A às 15h e chega à cidade B às 18h (respectivos horários locais). Certo dia, ao chegar à cidade B, soube que precisava estar de volta à cidade A, no máximo, até as 13h do dia seguinte (horário local de A).\nPara que o executivo chegue à cidade A no horário correto e admitindo que não haja atrasos, ele deve pegar um voo saindo da cidade B, em horário local de B, no máximo à(s)",
+    "alternatives": [
+      "A) 16h.",
+      "B) 10h.",
+      "C) 7h.",
+      "D) 4h.",
+      "E) 1h."
+    ],
+    "year": "2014",
+    "subject": "Matemática e suas tecnologias",
+    "ground_truth": "D",
+    "index_question": "181"
+  },
+  {
+    "description": "QUESTÃO 178) A maior piscina do mundo, registrada no livro Guiness, está localizada no Chile, em San Alfonso del Mar, cobrindo um terreno de 8 hectares de área. Sabe-se que 1 hectare corresponde a 1 hectômetro quadrado.\nQual é o valor, em metros quadrados, da área coberta pelo terreno da piscina?",
+    "alternatives": [
+      "A) 8",
+      "B) 80",
+      "C) 800",
+      "D) 8 000",
+      "E) 80 000"
+    ],
+    "year": "2014",
+    "subject": "Matemática e suas tecnologias",
+    "ground_truth": "E",
+    "index_question": "183"
+  }
+]
