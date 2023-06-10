@@ -1,7 +1,7 @@
 class Config:
   ## cntx size
   CONTEXT_SIZE = 2048
-  N_THREADS = 4
+  N_THREADS = 5
 
   # llama models
   LLAMA_7B_PATH = "models/llama/ggml-llama-7B-q4_0.bin"
