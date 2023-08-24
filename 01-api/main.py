@@ -11,27 +11,205 @@ app = FastAPI()
 
 # loading the models
 # llama
-llama_7b = Llama(Config.LLAMA_7B_PATH, n_ctx = Config.CONTEXT_SIZE, n_threads= Config.N_THREADS)
-llama_13b = Llama(Config.LLAMA_13B_PATH, n_ctx = Config.CONTEXT_SIZE, n_threads= Config.N_THREADS)
+# llama_7b = Llama(Config.LLAMA_7B_PATH, n_ctx = Config.CONTEXT_SIZE, n_threads= Config.N_THREADS)
+# llama_13b = Llama(Config.LLAMA_13B_PATH, n_ctx = Config.CONTEXT_SIZE, n_threads= Config.N_THREADS)
 
-# # alpaca
-alpaca_7b = Llama(Config.ALPACA_7B_PATH, n_ctx = Config.CONTEXT_SIZE, n_threads= Config.N_THREADS)
-alpaca_13b = Llama(Config.ALPACA_13B_PATH, n_ctx = Config.CONTEXT_SIZE, n_threads= Config.N_THREADS)
+# # # alpaca
+# alpaca_7b = Llama(Config.ALPACA_7B_PATH, n_ctx = Config.CONTEXT_SIZE, n_threads= Config.N_THREADS)
+# alpaca_13b = Llama(Config.ALPACA_13B_PATH, n_ctx = Config.CONTEXT_SIZE, n_threads= Config.N_THREADS)
 
-# # koala
-koala_7b = Llama(Config.KOALA_7B_PATH, n_ctx = Config.CONTEXT_SIZE, n_threads= Config.N_THREADS)
-koala_13b = Llama(Config.KOALA_13B_PATH, n_ctx = Config.CONTEXT_SIZE, n_threads= Config.N_THREADS)
+# # # koala
+# koala_7b = Llama(Config.KOALA_7B_PATH, n_ctx = Config.CONTEXT_SIZE, n_threads= Config.N_THREADS)
+# koala_13b = Llama(Config.KOALA_13B_PATH, n_ctx = Config.CONTEXT_SIZE, n_threads= Config.N_THREADS)
 
-# # vicuna
-vicuna_7b = Llama(Config.VICUNA_7B_PATH, n_ctx = Config.CONTEXT_SIZE, n_threads= Config.N_THREADS)
-vicuna_13b = Llama(Config.VICUNA_13B_PATH, n_ctx = Config.CONTEXT_SIZE, n_threads= Config.N_THREADS)
+# # # vicuna
+# vicuna_7b = Llama(Config.VICUNA_7B_PATH, n_ctx = Config.CONTEXT_SIZE, n_threads= Config.N_THREADS)
+# vicuna_13b = Llama(Config.VICUNA_13B_PATH, n_ctx = Config.CONTEXT_SIZE, n_threads= Config.N_THREADS)
+
+# llama 2
+llama_2_7b = Llama(Config.LLAMA_2_7B_PATH, n_ctx = Config.CONTEXT_SIZE, n_threads= Config.N_THREADS)
+llama_2_13b = Llama(Config.LLAMA_2_13B_PATH, n_ctx = Config.CONTEXT_SIZE, n_threads= Config.N_THREADS)
+
+# # vicuna 1.5
+vicuna1_5_7b = Llama(Config.VICUNA1_5_7B_PATH, n_ctx = Config.CONTEXT_SIZE, n_threads= Config.N_THREADS)
+vicuna1_5_13b = Llama(Config.VICUNA1_5_13B_PATH, n_ctx = Config.CONTEXT_SIZE, n_threads= Config.N_THREADS)
+
+
 
 @app.get("/")
 async def hello_world():
   return {"message":"hello world"}
 
-@app.get("/models/llama/7b/")
-async def request_llama_7b(
+# @app.get("/models/llama/7b/")
+# async def request_llama_7b(
+#     query : str,
+#     response: Response,
+#     temperature: Annotated[float,None] = 0.9,
+#     stop_tokens: str = "</s>,resposta:,resposta",
+#     max_tokens: Annotated[int,None] = 400
+#   ):
+
+#   try:
+#     return await make_request_llama_cpp(
+#       model = llama_7b, 
+#       query = query,
+#       temperature = temperature,
+#       stop = stop_tokens,
+#       max_tokens = max_tokens
+#     )
+#   except ValueError:
+#     response.status_code = 400
+#     return { "detail": [{ "loc": ["query","temperature"],"msg": f"the size of the query plus the max tokens must be lower than {Config.CONTEXT_SIZE} tokens"}] } 
+
+# @app.get("/models/llama/13b/")
+# async def request_llama_13b(
+#     query : str,
+#     response: Response,
+#     temperature: Annotated[float,None] = 0.9,
+#     stop_tokens: str = "</s>,resposta:,resposta",
+#     max_tokens: Annotated[int,None] = 400
+#   ):
+
+#   try:
+#     return await make_request_llama_cpp(
+#       model = llama_13b, 
+#       query = query,
+#       temperature = temperature,
+#       stop = stop_tokens,
+#       max_tokens = max_tokens
+#     )
+#   except ValueError:
+#     response.status_code = 400
+#     return { "detail": [{ "loc": ["query","temperature"],"msg": f"the size of the query plus the max tokens must be lower than {Config.CONTEXT_SIZE} tokens"}] } 
+  
+# @app.get("/models/alpaca/7b/")
+# async def request_alpaca_7b(
+#     query : str,
+#     response: Response,
+#     temperature: Annotated[float,None] = 0.9,
+#     stop_tokens: str = "</s>,resposta:,resposta",
+#     max_tokens: Annotated[int,None] = 400
+#   ):
+
+#   try:
+#     return await make_request_llama_cpp(
+#       model = alpaca_7b, 
+#       query = query,
+#       temperature = temperature,
+#       stop = stop_tokens,
+#       max_tokens = max_tokens
+#     )
+#   except ValueError:
+#     response.status_code = 400
+#     return { "detail": [{ "loc": ["query","temperature"],"msg": f"the size of the query plus the max tokens must be lower than {Config.CONTEXT_SIZE} tokens"}] } 
+  
+# @app.get("/models/alpaca/13b/")
+# async def request_alpaca_13b(
+#     query : str,
+#     response: Response,
+#     temperature: Annotated[float,None] = 0.9,
+#     stop_tokens: str = "</s>,resposta:,resposta",
+#     max_tokens: Annotated[int,None] = 400
+#   ):
+
+#   try:
+#     return await make_request_llama_cpp(
+#       model = alpaca_13b, 
+#       query = query,
+#       temperature = temperature,
+#       stop = stop_tokens,
+#       max_tokens = max_tokens
+#     )
+#   except ValueError:
+#     response.status_code = 400
+#     return { "detail": [{ "loc": ["query","temperature"],"msg": f"the size of the query plus the max tokens must be lower than {Config.CONTEXT_SIZE} tokens"}] } 
+  
+# @app.get("/models/koala/7b/")
+# async def request_koala_7b(
+#     query : str,
+#     response: Response,
+#     temperature: Annotated[float,None] = 0.9,
+#     stop_tokens: str = "</s>,resposta:,resposta",
+#     max_tokens: Annotated[int,None] = 400
+#   ):
+
+#   try:
+#     return await make_request_llama_cpp(
+#       model = koala_7b, 
+#       query = query,
+#       temperature = temperature,
+#       stop = stop_tokens,
+#       max_tokens = max_tokens
+#     )
+#   except ValueError:
+#     response.status_code = 400
+#     return { "detail": [{ "loc": ["query","temperature"],"msg": f"the size of the query plus the max tokens must be lower than {Config.CONTEXT_SIZE} tokens"}] } 
+  
+# @app.get("/models/koala/13b/")
+# async def request_koala_13b(
+#     query : str,
+#     response: Response,
+#     temperature: Annotated[float,None] = 0.9,
+#     stop_tokens: str = "</s>,resposta:,resposta",
+#     max_tokens: Annotated[int,None] = 400
+#   ):
+
+#   try:
+#     return await make_request_llama_cpp(
+#       model = koala_13b, 
+#       query = query,
+#       temperature = temperature,
+#       stop = stop_tokens,
+#       max_tokens = max_tokens
+#     )
+#   except ValueError:
+#     response.status_code = 400
+#     return { "detail": [{ "loc": ["query","temperature"],"msg": f"the size of the query plus the max tokens must be lower than {Config.CONTEXT_SIZE} tokens"}] } 
+  
+# @app.get("/models/vicuna/7b/")
+# async def request_vicuna_7b(
+#     query : str,
+#     response: Response,
+#     temperature: Annotated[float,None] = 0.9,
+#     stop_tokens: str = "</s>,resposta:,resposta",
+#     max_tokens: Annotated[int,None] = 400
+#   ):
+
+#   try:
+#     return await make_request_llama_cpp(
+#       model = vicuna_7b, 
+#       query = query,
+#       temperature = temperature,
+#       stop = stop_tokens,
+#       max_tokens = max_tokens
+#     )
+#   except ValueError:
+#     response.status_code = 400
+#     return { "detail": [{ "loc": ["query","temperature"],"msg": f"the size of the query plus the max tokens must be lower than {Config.CONTEXT_SIZE} tokens"}] } 
+  
+# @app.get("/models/vicuna/13b/")
+# async def request_vicuna_13b(
+  #   query : str,
+  #   response: Response,
+  #   temperature: Annotated[float,None] = 0.9,
+  #   stop_tokens: str = "</s>,resposta:,resposta",
+  #   max_tokens: Annotated[int,None] = 400
+  # ):
+
+  # try:
+  #   return await make_request_llama_cpp(
+  #     model = vicuna_13b, 
+  #     query = query,
+  #     temperature = temperature,
+  #     stop = stop_tokens,
+  #     max_tokens = max_tokens
+  #   )
+  # except ValueError:
+  #   response.status_code = 400
+  #   return { "detail": [{ "loc": ["query","temperature"],"msg": f"the size of the query plus the max tokens must be lower than {Config.CONTEXT_SIZE} tokens"}] } 
+  
+@app.get("/models/llama2/7b/")
+async def request_llama2_7b(
     query : str,
     response: Response,
     temperature: Annotated[float,None] = 0.9,
@@ -41,7 +219,7 @@ async def request_llama_7b(
 
   try:
     return await make_request_llama_cpp(
-      model = llama_7b, 
+      model = llama_2_7b, 
       query = query,
       temperature = temperature,
       stop = stop_tokens,
@@ -51,8 +229,8 @@ async def request_llama_7b(
     response.status_code = 400
     return { "detail": [{ "loc": ["query","temperature"],"msg": f"the size of the query plus the max tokens must be lower than {Config.CONTEXT_SIZE} tokens"}] } 
 
-@app.get("/models/llama/13b/")
-async def request_llama_13b(
+@app.get("/models/llama2/13b/")
+async def request_llama2_13b(
     query : str,
     response: Response,
     temperature: Annotated[float,None] = 0.9,
@@ -62,7 +240,29 @@ async def request_llama_13b(
 
   try:
     return await make_request_llama_cpp(
-      model = llama_13b, 
+      model = llama_2_13b, 
+      query = query,
+      temperature = temperature,
+      stop = stop_tokens,
+      max_tokens = max_tokens
+    )
+  except ValueError:
+    response.status_code = 400
+    return { "detail": [{ "loc": ["query","temperature"],"msg": f"the size of the query plus the max tokens must be lower than {Config.CONTEXT_SIZE} tokens"}] } 
+
+
+@app.get("/models/vicuna1.5/7b/")
+async def request_vicuna1_5_7b(
+    query : str,
+    response: Response,
+    temperature: Annotated[float,None] = 0.9,
+    stop_tokens: str = "</s>,resposta:,resposta",
+    max_tokens: Annotated[int,None] = 400
+  ):
+
+  try:
+    return await make_request_llama_cpp(
+      model = vicuna1_5_7b, 
       query = query,
       temperature = temperature,
       stop = stop_tokens,
@@ -72,8 +272,8 @@ async def request_llama_13b(
     response.status_code = 400
     return { "detail": [{ "loc": ["query","temperature"],"msg": f"the size of the query plus the max tokens must be lower than {Config.CONTEXT_SIZE} tokens"}] } 
   
-@app.get("/models/alpaca/7b/")
-async def request_alpaca_7b(
+@app.get("/models/vicuna1.5/13b/")
+async def request_vicuna1_5_13b(
     query : str,
     response: Response,
     temperature: Annotated[float,None] = 0.9,
@@ -83,7 +283,7 @@ async def request_alpaca_7b(
 
   try:
     return await make_request_llama_cpp(
-      model = alpaca_7b, 
+      model = vicuna1_5_13b, 
       query = query,
       temperature = temperature,
       stop = stop_tokens,
@@ -92,109 +292,3 @@ async def request_alpaca_7b(
   except ValueError:
     response.status_code = 400
     return { "detail": [{ "loc": ["query","temperature"],"msg": f"the size of the query plus the max tokens must be lower than {Config.CONTEXT_SIZE} tokens"}] } 
-  
-@app.get("/models/alpaca/13b/")
-async def request_alpaca_13b(
-    query : str,
-    response: Response,
-    temperature: Annotated[float,None] = 0.9,
-    stop_tokens: str = "</s>,resposta:,resposta",
-    max_tokens: Annotated[int,None] = 400
-  ):
-
-  try:
-    return await make_request_llama_cpp(
-      model = alpaca_13b, 
-      query = query,
-      temperature = temperature,
-      stop = stop_tokens,
-      max_tokens = max_tokens
-    )
-  except ValueError:
-    response.status_code = 400
-    return { "detail": [{ "loc": ["query","temperature"],"msg": f"the size of the query plus the max tokens must be lower than {Config.CONTEXT_SIZE} tokens"}] } 
-  
-@app.get("/models/koala/7b/")
-async def request_koala_7b(
-    query : str,
-    response: Response,
-    temperature: Annotated[float,None] = 0.9,
-    stop_tokens: str = "</s>,resposta:,resposta",
-    max_tokens: Annotated[int,None] = 400
-  ):
-
-  try:
-    return await make_request_llama_cpp(
-      model = koala_7b, 
-      query = query,
-      temperature = temperature,
-      stop = stop_tokens,
-      max_tokens = max_tokens
-    )
-  except ValueError:
-    response.status_code = 400
-    return { "detail": [{ "loc": ["query","temperature"],"msg": f"the size of the query plus the max tokens must be lower than {Config.CONTEXT_SIZE} tokens"}] } 
-  
-@app.get("/models/koala/13b/")
-async def request_koala_13b(
-    query : str,
-    response: Response,
-    temperature: Annotated[float,None] = 0.9,
-    stop_tokens: str = "</s>,resposta:,resposta",
-    max_tokens: Annotated[int,None] = 400
-  ):
-
-  try:
-    return await make_request_llama_cpp(
-      model = koala_13b, 
-      query = query,
-      temperature = temperature,
-      stop = stop_tokens,
-      max_tokens = max_tokens
-    )
-  except ValueError:
-    response.status_code = 400
-    return { "detail": [{ "loc": ["query","temperature"],"msg": f"the size of the query plus the max tokens must be lower than {Config.CONTEXT_SIZE} tokens"}] } 
-  
-@app.get("/models/vicuna/7b/")
-async def request_vicuna_7b(
-    query : str,
-    response: Response,
-    temperature: Annotated[float,None] = 0.9,
-    stop_tokens: str = "</s>,resposta:,resposta",
-    max_tokens: Annotated[int,None] = 400
-  ):
-
-  try:
-    return await make_request_llama_cpp(
-      model = vicuna_7b, 
-      query = query,
-      temperature = temperature,
-      stop = stop_tokens,
-      max_tokens = max_tokens
-    )
-  except ValueError:
-    response.status_code = 400
-    return { "detail": [{ "loc": ["query","temperature"],"msg": f"the size of the query plus the max tokens must be lower than {Config.CONTEXT_SIZE} tokens"}] } 
-  
-@app.get("/models/vicuna/13b/")
-async def request_vicuna_13b(
-    query : str,
-    response: Response,
-    temperature: Annotated[float,None] = 0.9,
-    stop_tokens: str = "</s>,resposta:,resposta",
-    max_tokens: Annotated[int,None] = 400
-  ):
-
-  try:
-    return await make_request_llama_cpp(
-      model = vicuna_13b, 
-      query = query,
-      temperature = temperature,
-      stop = stop_tokens,
-      max_tokens = max_tokens
-    )
-  except ValueError:
-    response.status_code = 400
-    return { "detail": [{ "loc": ["query","temperature"],"msg": f"the size of the query plus the max tokens must be lower than {Config.CONTEXT_SIZE} tokens"}] } 
-  
